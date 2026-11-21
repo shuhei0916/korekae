@@ -3,7 +3,7 @@
 公開形式（ランキング・ティア表など）が増えたら、ここに関数を足す。
 """
 
-from .models import Product, Score
+from .models import Product, Score, Source
 
 
 def amazon_link(asin: str, tag: str | None = None) -> str:
@@ -24,7 +24,13 @@ def render_markdown(
     year: int,
     source_count: int,
     tag: str | None = None,
+    disclosure: str | None = None,
+    sources: list[Source] | None = None,
 ) -> str:
+    """リンクは記事内のURLではなく ASIN と自分のタグから作る。
+
+    記事の筆者のアソシエイトIDを使わないため。
+    """
     lines = [
         f"# {year}年 買ってよかったものランキング",
         "",
@@ -46,4 +52,9 @@ def render_markdown(
             f"| {rank} | {name} | {_cell(product.brand)} | {score.author_count} "
             f"| {score.mention_count} | {score.top_rank_count} |"
         )
+    if sources:
+        lines += ["", "## 出典", ""]
+        lines += [f"- [{_cell(s.title or s.url)}]({s.url})" for s in sources]
+    if disclosure:
+        lines += ["", disclosure]
     return "\n".join(lines) + "\n"

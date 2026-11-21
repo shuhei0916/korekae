@@ -15,8 +15,14 @@
 
 ```sh
 uv sync
-uv run korekae run --year 2025 --tag <アソシエイトタグ>   # output/2025/ranking.md ができる
-uv run pytest                                            # テスト
+uv run korekae candidates add --year 2025 --via hatena found.tsv  # 見つけた記事URL（URL<TAB>タイトル）を候補に追加
+uv run korekae ingest --year 2025 batch.txt                       # 読んだ結果（SOURCE/MENTION/SKIP 行）を取り込む
+uv run korekae status --year 2025                                 # 候補と抽出の進み具合
+uv run korekae run --year 2025                                    # output/2025/ranking.md ができる
+uv run pytest                                                     # テスト
 ```
 
-翌年は `data/2026/` に sources.jsonl と mentions.jsonl を用意して `--year 2026` で実行します。
+アソシエイトIDと参加表記は `config/<年>.toml` の `[affiliate]` に書きます。
+出力するAmazonリンクは記事内のリンクを使わず、ASINと自分のIDから作り直すので、記事の筆者のIDが混ざることはありません。
+
+翌年は `config/2025.toml` をコピーして `config/2026.toml` を作り、`--year 2026` で同じ手順を回します。
