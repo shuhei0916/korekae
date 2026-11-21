@@ -25,18 +25,30 @@ def mention_asin(mention: Mention) -> str | None:
     return extract_asin(mention.amazon_url) if mention.amazon_url else None
 
 
+def name_key(mention: Mention) -> str:
+    """名前による名寄せキー。商品名にブランドが含まれなければ前に付ける。
+
+    「ワイドパンツ」のような一般名が、ブランド違いでまとまらないようにするため。
+    """
+    name = normalize_name(mention.name)
+    brand = normalize_name(mention.brand or "")
+    if brand and brand not in name:
+        return brand + name
+    return name
+
+
 def resolve(mentions: list[Mention]) -> ResolveResult:
     # 名前 → ASIN の対応表（ASINなしの言及を合流させるため）
     asin_by_name: dict[str, str] = {}
     for mention in mentions:
         asin = mention_asin(mention)
         if asin:
-            asin_by_name.setdefault(normalize_name(mention.name), asin)
+            asin_by_name.setdefault(name_key(mention), asin)
 
     product_ids = []
     for mention in mentions:
-        asin = mention_asin(mention) or asin_by_name.get(normalize_name(mention.name))
-        product_ids.append(f"asin:{asin}" if asin else f"name:{normalize_name(mention.name)}")
+        asin = mention_asin(mention) or asin_by_name.get(name_key(mention))
+        product_ids.append(f"asin:{asin}" if asin else f"name:{name_key(mention)}")
 
     groups: dict[str, list[Mention]] = {}
     for pid, mention in zip(product_ids, mentions):

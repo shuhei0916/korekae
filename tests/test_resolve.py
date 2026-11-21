@@ -61,3 +61,18 @@ def test_商品IDは入力の順序によらず安定している():
     a = resolve([m("s1", "iPhone 16e"), m("s2", "ルンバ")])
     b = resolve([m("s2", "ルンバ"), m("s1", "iPhone 16e")])
     assert {p.id for p in a.products} == {p.id for p in b.products}
+
+
+def test_ブランドが違う一般名の商品はまとめない():
+    result = resolve([m("s1", "ワイドパンツ", brand="yee"), m("s2", "ワイドパンツ", brand="UNIQLO")])
+    assert len(result.products) == 2
+
+
+def test_商品名にブランドが含まれていればブランドの有無にかかわらずまとめる():
+    result = resolve([m("s1", "SOUNDPEATS UU", brand="SOUNDPEATS"), m("s2", "SOUNDPEATS UU")])
+    assert len(result.products) == 1
+
+
+def test_ブランドを名前の前に付けた表記ともまとめる():
+    result = resolve([m("s1", "UU", brand="SOUNDPEATS"), m("s2", "SOUNDPEATS UU")])
+    assert len(result.products) == 1
