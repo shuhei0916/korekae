@@ -1,0 +1,23 @@
+[project]
+name = "korekae"
+version = "0.1.0"
+description = "ウェブ上の「買ってよかったものリスト」を統合して究極のリストを作るパイプライン"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+korekae = "korekae.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/korekae"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

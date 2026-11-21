@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# 取得した記事本文（著作物）はコミットしない
+raw/
