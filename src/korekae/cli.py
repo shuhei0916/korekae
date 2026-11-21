@@ -3,6 +3,7 @@
 - korekae run --year 2025        : 抽出結果から名寄せ・集計・出力まで
 - korekae candidates add FILE    : 見つけた記事URL（TSV: URL<TAB>タイトル）を候補に追加
 - korekae status --year 2025     : 候補と抽出の進み具合を表示
+- korekae ingest --year 2025 FILE: 抽出結果（SOURCE/MENTION/SKIP 行）を取り込む
 """
 
 import argparse
@@ -13,6 +14,7 @@ from pathlib import Path
 from .aggregate import aggregate, rank_products
 from .candidates import Candidate, merge_candidates
 from .config import Config, load_config
+from .ingest import ingest
 from .models import Mention, Source, read_jsonl, write_jsonl
 from .render import render_markdown
 from .resolve import resolve
@@ -110,6 +112,11 @@ def main(argv: list[str] | None = None) -> int:
     p_status = sub.add_parser("status", help="進み具合を表示する")
     common(p_status)
 
+    p_ingest = sub.add_parser("ingest", help="抽出結果を取り込む")
+    common(p_ingest)
+    p_ingest.add_argument("--ids", type=Path, help="SKIP 行のIDをURLに対応させるTSV（ID<TAB>URL）")
+    p_ingest.add_argument("file", type=Path)
+
     args = parser.parse_args(argv)
     try:
         if args.command == "run":
@@ -121,6 +128,15 @@ def main(argv: list[str] | None = None) -> int:
             add_candidates(args.year, args.data_dir, args.file, args.via)
         elif args.command == "status":
             show_status(args.year, args.data_dir)
+        elif args.command == "ingest":
+            id_urls = {}
+            if args.ids:
+                for line in args.ids.read_text(encoding="utf-8").splitlines():
+                    if "\t" in line:
+                        k, v = line.split("\t", 1)
+                        id_urls[k.strip()] = v.strip()
+            summary = ingest(args.data_dir / str(args.year), args.file.read_text(encoding="utf-8"), id_urls)
+            print(f"ソース{summary['sources']}件 / 言及{summary['mentions']}件 / 対象外{summary['skipped']}件")
     except (ValueError, FileNotFoundError) as e:
         print(f"エラー: {e}", file=sys.stderr)
         return 1

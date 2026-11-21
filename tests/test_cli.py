@@ -98,3 +98,20 @@ def test_statusで候補と抽出の進み具合を表示する(tmp_path, capsys
     out = capsys.readouterr().out
     assert "候補 3件（未読 1 / 抽出済み 1 / 対象外 1）" in out
     assert "ソース 1件 / 言及 1件" in out
+
+
+def test_ingestで抽出結果を取り込める(tmp_path, capsys):
+    data = tmp_path / "data"
+    write(data / "2025" / "candidates.jsonl", [{"url": "https://a.example/"}, {"url": "https://b.example/"}])
+    extraction = tmp_path / "batch1.txt"
+    extraction.write_text(
+        'SOURCE {"id": "a", "url": "https://a.example/"}\n'
+        'MENTION {"source_id": "a", "name": "EarFun Clip"}\n'
+        'SKIP b 2024年の記事\n', encoding="utf-8")
+    ids = tmp_path / "ids.tsv"
+    ids.write_text("a\thttps://a.example/\nb\thttps://b.example/\n", encoding="utf-8")
+
+    assert main(["ingest", "--year", "2025", "--data-dir", str(data), "--ids", str(ids), str(extraction)]) == 0
+
+    assert "ソース1件 / 言及1件 / 対象外1件" in capsys.readouterr().out
+    assert '"status": "skipped"' in (data / "2025" / "candidates.jsonl").read_text(encoding="utf-8")
