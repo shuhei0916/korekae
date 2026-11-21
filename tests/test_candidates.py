@@ -45,3 +45,32 @@ def test_既存候補の状態は上書きしない():
 def test_候補の状態は既知の値でなければならない():
     with pytest.raises(ValueError, match="status"):
         Candidate.from_dict({"url": "https://example.com/a", "status": "done"})
+
+
+from korekae.candidates import pick_todo, source_id_for
+
+
+def test_記事IDはサイト名と短いハッシュからなり同じ記事なら同じになる():
+    a = source_id_for("https://note.com/foo_bar/n/n123abc")
+    assert a.startswith("note-foo_bar-")
+    assert a == source_id_for("http://note.com/foo_bar/n/n123abc/?utm_source=x")
+    assert a != source_id_for("https://note.com/foo_bar/n/n999")
+
+
+def test_はてなブログはサブドメインを記事IDに使う():
+    assert source_id_for("https://aurorai.hatenablog.com/entry/2026/01/05/1").startswith("hatena-aurorai-")
+
+
+def test_その他のサイトはホスト名の先頭を使う():
+    assert source_id_for("https://www.gizmodo.jp/2025/12/x.html").startswith("gizmodo-")
+
+
+def test_未読の候補だけを先頭から指定件数とりだす():
+    cs = [
+        Candidate(url="https://a.example/1", status="extracted"),
+        Candidate(url="https://a.example/2"),
+        Candidate(url="https://a.example/3", status="skipped"),
+        Candidate(url="https://a.example/4"),
+        Candidate(url="https://a.example/5"),
+    ]
+    assert [c.url for c in pick_todo(cs, limit=2)] == ["https://a.example/2", "https://a.example/4"]

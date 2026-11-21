@@ -115,3 +115,74 @@ def test_ingestで抽出結果を取り込める(tmp_path, capsys):
 
     assert "ソース1件 / 言及1件 / 対象外1件" in capsys.readouterr().out
     assert '"status": "skipped"' in (data / "2025" / "candidates.jsonl").read_text(encoding="utf-8")
+
+
+def test_candidates_todoは未読候補をID_URL_タイトルのTSVで出しそのままingestに渡せる(tmp_path, capsys):
+    data = tmp_path / "data"
+    write(data / "2025" / "candidates.jsonl", [
+        {"url": "https://note.com/a/n/n1", "title": "A"},
+        {"url": "https://note.com/b/n/n2", "title": "B"},
+    ])
+    assert main(["candidates", "todo", "--year", "2025", "--data-dir", str(data), "--limit", "1"]) == 0
+    line = capsys.readouterr().out.strip()
+    sid, url, title = line.split("\t")
+    assert sid.startswith("note-a-") and url == "https://note.com/a/n/n1" and title == "A"
+
+    ids = tmp_path / "ids.tsv"
+    ids.write_text(line + "\n", encoding="utf-8")
+    ext = tmp_path / "ext.txt"
+    ext.write_text(f"SKIP {sid} リストではない\n", encoding="utf-8")
+    assert main(["ingest", "--year", "2025", "--data-dir", str(data), "--ids", str(ids), str(ext)]) == 0
+    cands = [json.loads(l) for l in (data / "2025" / "candidates.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert cands[0]["status"] == "skipped"
+
+
+def _small_year(data):
+    write(data / "2025" / "sources.jsonl", [{"id": f"s{i}", "url": f"https://a.example/{i}"} for i in range(3)])
+    write(data / "2025" / "mentions.jsonl", [
+        {"source_id": "s0", "name": "AirPods Pro 3", "brand": "Apple"},
+        {"source_id": "s1", "name": "Apple AirPods Pro 3"},
+        {"source_id": "s2", "name": "ルンバ", "amazon_url": "https://www.amazon.co.jp/dp/B000000001"},
+    ])
+
+
+def test_asin_todoはASINのない商品を順位順に出す(tmp_path, capsys):
+    data = tmp_path / "data"
+    _small_year(data)
+    assert main(["asin", "todo", "--year", "2025", "--data-dir", str(data)]) == 0
+    out = capsys.readouterr().out.strip().splitlines()
+    assert out == ["name:appleairpodspro3\tAirPods Pro 3\tApple"]
+
+
+def test_asin_addで補ったASINがrunのリンクに反映される(tmp_path, capsys):
+    data = tmp_path / "data"
+    _small_year(data)
+    tsv = tmp_path / "asins.tsv"
+    tsv.write_text("name:appleairpodspro3\tB0FQXXXXXX\tメモ\n", encoding="utf-8")
+    assert main(["asin", "add", "--year", "2025", "--data-dir", str(data), str(tsv)]) == 0
+    assert main(["run", "--year", "2025", "--data-dir", str(data), "--out-dir", str(tmp_path / "out"), "--tag", "t-22"]) == 0
+    md = (tmp_path / "out" / "2025" / "ranking.md").read_text(encoding="utf-8")
+    assert "https://www.amazon.co.jp/dp/B0FQXXXXXX?tag=t-22" in md
+
+
+def test_asin_addは形のおかしいASINを拒む(tmp_path, capsys):
+    data = tmp_path / "data"
+    _small_year(data)
+    tsv = tmp_path / "asins.tsv"
+    tsv.write_text("name:appleairpodspro3\tamzn.to/xyz\n", encoding="utf-8")
+    assert main(["asin", "add", "--year", "2025", "--data-dir", str(data), str(tsv)]) == 1
+
+
+def test_snapshotは100記事ごとに上位を保存し前回との重なりを表示する(tmp_path, capsys):
+    data = tmp_path / "data"
+    sources = [{"id": f"s{i}", "url": f"https://a.example/{i}"} for i in range(100)]
+    write(data / "2025" / "sources.jsonl", sources)
+    write(data / "2025" / "mentions.jsonl", [{"source_id": f"s{i}", "name": f"商品{i % 7}"} for i in range(100)])
+    assert main(["run", "--year", "2025", "--data-dir", str(data), "--out-dir", str(tmp_path / "out")]) == 0
+    capsys.readouterr()
+    assert main(["snapshot", "--year", "2025", "--data-dir", str(data), "--top", "5"]) == 0
+    assert "100記事" in capsys.readouterr().out
+    assert (data / "2025" / "snapshots" / "100.json").exists()
+    # 記事数が増えていなければ撮らない
+    assert main(["snapshot", "--year", "2025", "--data-dir", str(data), "--top", "5"]) == 0
+    assert "まだ" in capsys.readouterr().out

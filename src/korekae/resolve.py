@@ -37,9 +37,12 @@ def name_key(mention: Mention) -> str:
     return name
 
 
-def resolve(mentions: list[Mention]) -> ResolveResult:
+def resolve(mentions: list[Mention], asin_overrides: dict[str, str] | None = None) -> ResolveResult:
+    """asin_overrides は「name:<名寄せキー>」→ ASIN の対応（短縮リンクなどでASINが取れない商品を手で補う）。"""
     # 名前 → ASIN の対応表（ASINなしの言及を合流させるため）
-    asin_by_name: dict[str, str] = {}
+    asin_by_name: dict[str, str] = {
+        k.removeprefix("name:"): v.upper() for k, v in (asin_overrides or {}).items()
+    }
     for mention in mentions:
         asin = mention_asin(mention)
         if asin:

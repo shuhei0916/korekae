@@ -17,12 +17,18 @@
 uv sync
 uv run korekae candidates add --year 2025 --via hatena found.tsv  # 見つけた記事URL（URL<TAB>タイトル）を候補に追加
 uv run korekae ingest --year 2025 batch.txt                       # 読んだ結果（SOURCE/MENTION/SKIP 行）を取り込む
+uv run korekae candidates todo --year 2025 --limit 80            # 次に読む記事（ID<TAB>URL<TAB>タイトル）
 uv run korekae status --year 2025                                 # 候補と抽出の進み具合
+uv run korekae asin todo --year 2025 --limit 20                   # ASINのない商品（順位順）
+uv run korekae asin add --year 2025 asins.tsv                     # 調べたASIN（商品ID<TAB>ASIN）を補う
 uv run korekae run --year 2025                                    # output/2025/ranking.md ができる
+uv run korekae snapshot --year 2025                               # 100記事ごとに上位50件を保存し、飽和を判定
 uv run pytest                                                     # テスト
 ```
 
 アソシエイトIDと参加表記は `config/<年>.toml` の `[affiliate]` に書きます。
 出力するAmazonリンクは記事内のリンクを使わず、ASINと自分のIDから作り直すので、記事の筆者のIDが混ざることはありません。
+
+1時間ごとの定期実行の手順は [docs/scheduled-run.md](docs/scheduled-run.md) にあります。
 
 翌年は `config/2025.toml` をコピーして `config/2026.toml` を作り、`--year 2026` で同じ手順を回します。

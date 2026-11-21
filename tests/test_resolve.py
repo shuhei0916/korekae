@@ -76,3 +76,13 @@ def test_商品名にブランドが含まれていればブランドの有無�
 def test_ブランドを名前の前に付けた表記ともまとめる():
     result = resolve([m("s1", "UU", brand="SOUNDPEATS"), m("s2", "SOUNDPEATS UU")])
     assert len(result.products) == 1
+
+
+def test_手で補ったASINは同じ名前の言及すべてに当てる():
+    from korekae.models import Mention
+    from korekae.resolve import resolve
+
+    ms = [Mention(source_id="s1", name="AirPods Pro 3", brand="Apple"),
+          Mention(source_id="s2", name="Apple AirPods Pro 3")]
+    r = resolve(ms, asin_overrides={"name:appleairpodspro3": "b0fqxxxxxx"})
+    assert r.product_ids == ["asin:B0FQXXXXXX", "asin:B0FQXXXXXX"]

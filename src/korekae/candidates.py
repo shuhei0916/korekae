@@ -6,6 +6,7 @@ data/<年>/candidates.jsonl に1行1候補で置く。
 - skipped   : 読んだが対象外だった（reason に理由）
 """
 
+import hashlib
 from dataclasses import dataclass
 from urllib.parse import parse_qsl, quote, unquote, urlencode, urlsplit, urlunsplit
 
@@ -66,3 +67,25 @@ def merge_candidates(
         merged.append(c)
         added += 1
     return merged, added
+
+
+def source_id_for(url: str) -> str:
+    """候補URLから記事IDを作る。同じ記事（正規化後に同じURL）なら同じIDになる。"""
+    canon = canonical_url(url)
+    parts = urlsplit(canon)
+    host = parts.hostname or ""
+    labels = [l for l in host.split(".") if l != "www"]
+    if host == "note.com":
+        user = parts.path.strip("/").split("/")[0]
+        site = f"note-{user}" if user else "note"
+    elif any(host.endswith(d) for d in (".hatenablog.com", ".hatenablog.jp", ".hatenadiary.jp", ".hateblo.jp")):
+        site = f"hatena-{labels[0]}"
+    else:
+        site = labels[0] if labels else "site"
+    digest = hashlib.sha1(canon.encode("utf-8")).hexdigest()[:8]
+    return f"{site}-{digest}"
+
+
+def pick_todo(candidates: list[Candidate], limit: int) -> list[Candidate]:
+    """未読の候補を、登録した順に limit 件まで返す。"""
+    return [c for c in candidates if c.status == "todo"][:limit]
