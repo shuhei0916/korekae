@@ -86,3 +86,18 @@
 | 8 | 無印良品 背面ポケット付き 撥水ショルダーバッグ | 無印良品 | 1 | 1 | 0 |
 | 8 | 電動自転車 |  | 1 | 1 | 0 |
 | 8 | 静音キーボード |  | 1 | 1 | 0 |
+
+## 出典
+
+- [2025年買ってよかったもの10選](https://scrapbox.io/tondol-pub/2025%E5%B9%B4%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE10%E9%81%B8)
+- [【2025年ベストバイ】 買ってよかったもの](https://scrapbox.io/trs/%E3%80%902025%E5%B9%B4%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A4%E3%80%91_%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE)
+- [買ってよかったもの（2025）](https://scrapbox.io/motoso/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%EF%BC%882025%EF%BC%89)
+- [2025年、これ買って正解だった。ライフハッカー読者が選んだ「本気の推しアイテム」はコレ！](https://www.lifehacker.jp/article/2512-best-items-of-2025/)
+- [今年出会ってくれてありがとう！優秀ギア総まとめ【編集部のベストバイ2025】](https://www.lifehacker.jp/article/amazon-sale-editors-bestbuy-2025/)
+- [2025年編集部員たちが「本当に買ってよかった」アイテム6選](https://www.roomie.jp/2025/12/1672468/)
+- [【2025年上半期ベストバイ】買って使って良かったもの15選【イヤホン・オーディオ製品中心】](https://kajetblog.com/2025-best-buy/)
+- [今さらだけど、2025年に買って良かった“おうち時間”が快適になるものたち【ぷーこの家電日記】](https://kaden.watch.impress.co.jp/docs/column/puko/2081966.html)
+- [今年もお世話になりました。2025年買ってよかった「本日の一品」ベスト3](https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2073758.html)
+- [ワークマンや無印など……QOLが上がった「2025年に買って良かったもの」3選【2025年12月版】](https://nlab.itmedia.co.jp/fav/articles/3933161/)
+
+Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
