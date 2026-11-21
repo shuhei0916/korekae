@@ -610,3 +610,382 @@
 {"source_id": "note-kyamistry", "name": "AeroPress エアロプレス", "brand": "AeroPress", "amazon_url": "https://amzn.asia/d/5njQimC", "category": "生活用品"}
 {"source_id": "note-kyamistry", "name": "HARIO V60 MUGEN ドリッパー", "brand": "HARIO", "amazon_url": "https://amzn.asia/d/26DAeoB", "category": "生活用品"}
 {"source_id": "note-kyamistry", "name": "HARIO 浸漬式ドリッパー スイッチ360", "brand": "HARIO", "amazon_url": "https://amzn.asia/d/fHhUTay", "category": "生活用品"}
+{"source_id": "note-abeshi", "name": "hanbit ラグ", "brand": "hanbit", "category": "生活用品"}
+{"source_id": "note-abeshi", "name": "デロンギ マグニフィカS", "brand": "デロンギ", "amazon_url": "https://www.amazon.co.jp/dp/B088HHQTMD", "category": "家電"}
+{"source_id": "note-abeshi", "name": "石渡磨美 リバーシブルプレート", "brand": "石渡磨美", "category": "生活用品"}
+{"source_id": "note-abeshi", "name": "LOEWE パズルフォルド ポーチ", "brand": "LOEWE", "category": "ファッション"}
+{"source_id": "note-abeshi", "name": "リトル・サイエンティスト リケラミスト", "brand": "リトル・サイエンティスト", "category": "美容"}
+{"source_id": "note-abeshi", "name": "Dior バックステージ グロウ マキシマイザー パレット", "brand": "Dior", "category": "美容"}
+{"source_id": "note-abeshi", "name": "CHANEL ル ルージュ デュオ ウルトラ トゥニュ", "brand": "CHANEL", "category": "美容"}
+{"source_id": "note-mutsuochan", "name": "OAMC デニムジャケット", "brand": "OAMC", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "HERALBONY 風呂敷", "brand": "HERALBONY", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "ARMANI JEANS シャツ", "brand": "ARMANI JEANS", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "Vibram FiveFingers", "brand": "Vibram", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "ALTRA OLYMPUS 275", "brand": "ALTRA", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "Dickies ペインターパンツ", "brand": "Dickies", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "ユニクロ ハンドウォーマー", "brand": "ユニクロ", "category": "ファッション"}
+{"source_id": "note-mutsuochan", "name": "FIFTH GENERAL STORE NYキャップ", "brand": "FIFTH GENERAL STORE", "category": "ファッション"}
+{"source_id": "note-humble_dill1860", "name": "Tiffany ベネチアン リンク ブレスレット", "brand": "Tiffany", "category": "ファッション"}
+{"source_id": "note-humble_dill1860", "name": "Anker Prime Power Bank Fusion", "brand": "Anker", "amazon_url": "https://www.amazon.co.jp/dp/B0D7D8JP6Q", "category": "ガジェット"}
+{"source_id": "note-humble_dill1860", "name": "Baseus 巻き取り式 Type-C ケーブル", "brand": "Baseus", "amazon_url": "https://www.amazon.co.jp/dp/B0DR25KQ91", "category": "ガジェット"}
+{"source_id": "note-shokommr", "name": "HUNTER エクスプローラー アンクル ジップ ブーツ", "brand": "HUNTER", "category": "ファッション"}
+{"source_id": "note-shokommr", "name": "ニトリ Nウォーム すっぽりシーツ", "brand": "ニトリ", "category": "生活用品"}
+{"source_id": "note-shokommr", "name": "レノア クエン酸in 超消臭", "brand": "レノア", "category": "生活用品"}
+{"source_id": "note-shokommr", "name": "ドウシシャ スーパーゴリラのひとつかみ ふくらはぎケア", "brand": "ドウシシャ", "amazon_url": "https://amzn.to/3Lj4DWv", "category": "家電"}
+{"source_id": "note-shokommr", "name": "TOM WOOD Twist Hoops", "brand": "TOM WOOD", "category": "ファッション"}
+{"source_id": "note-shokommr", "name": "ジーナシス マルチポケットワンショルダーバッグ", "brand": "ジーナシス", "category": "ファッション"}
+{"source_id": "note-shokommr", "name": "kanonnohimo スマホストラップ", "brand": "kanonnohimo", "category": "ファッション"}
+{"source_id": "note-shokommr", "name": "melotte モアレディ", "brand": "melotte", "category": "美容"}
+{"source_id": "note-shokommr", "name": "コジット 持ち運びできる段ボールストッカー", "brand": "コジット", "amazon_url": "https://amzn.to/4aIDLtE", "category": "生活用品"}
+{"source_id": "note-shokommr", "name": "HUBATH 排水溝 マグネット ヘアーキャッチャー", "brand": "HUBATH", "category": "生活用品"}
+{"source_id": "note-rihsypm", "name": "パナソニック ホームベーカリー SD-CB1", "brand": "パナソニック", "amazon_url": "https://amzn.to/4trc92N", "rank": 1, "category": "家電"}
+{"source_id": "note-rihsypm", "name": "パナソニック ドラム式洗濯乾燥機 NA-SD10HBL", "brand": "パナソニック", "amazon_url": "https://amzn.to/4toTAfE", "rank": 2, "category": "家電"}
+{"source_id": "note-rihsypm", "name": "PHILIPS 電動シェーバー 7000シリーズ S793", "brand": "PHILIPS", "amazon_url": "https://amzn.to/3OaLlDY", "rank": 3, "category": "家電"}
+{"source_id": "note-rihsypm", "name": "シャープ 加湿空気清浄機 KI-SX75", "brand": "シャープ", "amazon_url": "https://amzn.to/4qpHT5C", "rank": 4, "category": "家電"}
+{"source_id": "note-rihsypm", "name": "TOU BASIC 茶碗", "brand": "TOU", "category": "生活用品"}
+{"source_id": "note-yuuwata", "name": "UGREEN ノートパソコンスタンド", "brand": "UGREEN", "amazon_url": "https://amzn.to/49zcBTu", "category": "ガジェット"}
+{"source_id": "note-yuuwata", "name": "aimeve アイマスク", "brand": "aimeve", "amazon_url": "https://amzn.to/4r0EbQO", "category": "生活用品"}
+{"source_id": "note-yuuwata", "name": "パーゴワークス スイッチ HB102", "brand": "パーゴワークス", "amazon_url": "https://amzn.to/3Nz4VJG", "category": "ファッション"}
+{"source_id": "note-yuuwata", "name": "ロジクール MX Master 3S", "brand": "ロジクール", "amazon_url": "https://amzn.to/3Nq9tlD", "category": "ガジェット"}
+{"source_id": "note-yuuwata", "name": "Apple AirPods Pro 3", "brand": "Apple", "amazon_url": "https://amzn.to/4a25HYk", "category": "ガジェット"}
+{"source_id": "note-yuuwata", "name": "ドリテック 勉強タイマー タイムアップ2", "brand": "ドリテック", "amazon_url": "https://amzn.to/4sOdOiA", "category": "生活用品"}
+{"source_id": "note-yuuwata", "name": "ロジクール MX KEYS mini", "brand": "ロジクール", "amazon_url": "https://amzn.to/3NtmfzR", "category": "ガジェット"}
+{"source_id": "note-yuuwata", "name": "Kindle Unlimited", "brand": "Amazon", "amazon_url": "https://amzn.to/4sLvJ9R", "category": "サービス"}
+{"source_id": "note-yuuwata", "name": "AQUA ドラム式洗濯乾燥機 AQW-DX12R", "brand": "AQUA", "amazon_url": "https://amzn.to/49KotST", "category": "家電"}
+{"source_id": "note-akamu_note", "name": "Apple iPad mini A17 Pro", "brand": "Apple", "amazon_url": "https://amzn.to/4sDgoYF", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "ERGOTRON LX モニターアーム", "brand": "ERGOTRON", "amazon_url": "https://amzn.to/4q3ZzE5", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "BenQ ScreenBar Pro", "brand": "BenQ", "amazon_url": "https://amzn.to/4jRmlgW", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "サンワサプライ 電動昇降デスク", "brand": "サンワサプライ", "amazon_url": "https://amzn.to/4pOHSIq", "category": "生活用品"}
+{"source_id": "note-akamu_note", "name": "エレコム モニター台", "brand": "エレコム", "amazon_url": "https://amzn.to/4sCOITQ", "category": "生活用品"}
+{"source_id": "note-akamu_note", "name": "山崎実業 ケーブル収納ボックス", "brand": "山崎実業", "amazon_url": "https://amzn.to/4sMUthI", "category": "生活用品"}
+{"source_id": "note-akamu_note", "name": "Anker Magnetic Cable Holder", "brand": "Anker", "amazon_url": "https://amzn.to/4r08dUW", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "MOFT ノートPCスタンド", "brand": "MOFT", "amazon_url": "https://amzn.to/4rk0JfJ", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "Anker 737 Power Bank", "brand": "Anker", "amazon_url": "https://amzn.to/45D3osv", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "Anker 511 Power Bank", "brand": "Anker", "amazon_url": "https://amzn.to/4sR89bU", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "iClever BK06", "brand": "iClever", "amazon_url": "https://amzn.to/3NoN7B4", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "MOFT 8-in-1 MagSafe スタンド", "brand": "MOFT", "amazon_url": "https://amzn.to/49rn70t", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "SwitchBot 温湿度計プラス", "brand": "SwitchBot", "amazon_url": "https://amzn.to/4jMc2KL", "category": "生活用品"}
+{"source_id": "note-akamu_note", "name": "Amazon Echo Dot 第5世代", "brand": "Amazon", "amazon_url": "https://amzn.to/3YNHFdp", "category": "ガジェット"}
+{"source_id": "note-akamu_note", "name": "Amazon Fire TV Stick 4K Max", "brand": "Amazon", "amazon_url": "https://amzn.to/4qq0Shf", "category": "ガジェット"}
+{"source_id": "note-anz_0621", "name": "任天堂 ドンキーコング バナンザ", "brand": "任天堂", "category": "ゲーム"}
+{"source_id": "note-anz_0621", "name": "佐藤正午 熟柿", "brand": "KADOKAWA", "category": "本"}
+{"source_id": "note-anz_0621", "name": "FRAMA DEEP FOREST", "brand": "FRAMA", "category": "美容"}
+{"source_id": "note-anz_0621", "name": "GU バレルレッグジーンズ", "brand": "GU", "category": "ファッション"}
+{"source_id": "note-anz_0621", "name": "LUPICIA キャロル", "brand": "LUPICIA", "category": "食品"}
+{"source_id": "note-anz_0621", "name": "Sennheiser MOMENTUM 4", "brand": "Sennheiser", "category": "ガジェット"}
+{"source_id": "note-anz_0621", "name": "シュテーデル美術館 オリジナルキーホルダー", "brand": "シュテーデル美術館", "category": "その他"}
+{"source_id": "note-anz_0621", "name": "AQUA まっ直ぐドラム", "brand": "AQUA", "category": "家電"}
+{"source_id": "note-anz_0621", "name": "オカムラ バロン", "brand": "オカムラ", "category": "生活用品"}
+{"source_id": "note-hesono_0", "name": "Panasonic ドラム式洗濯乾燥機 NA-LX127EL", "brand": "Panasonic", "amazon_url": "https://amzn.to/49uCEN3", "category": "家電"}
+{"source_id": "note-hesono_0", "name": "アイリスオーヤマ 冷蔵庫 IRSN-32B", "brand": "アイリスオーヤマ", "amazon_url": "https://amzn.to/4kc6M3C", "category": "家電"}
+{"source_id": "note-hesono_0", "name": "シャープ ヘルシオ ホットクック KN-HW24G", "brand": "シャープ", "amazon_url": "https://amzn.to/4pS7tjI", "category": "家電"}
+{"source_id": "note-azusa_yuhi", "name": "靴下の岡本 まるでこたつ 靴下サプリ", "brand": "靴下の岡本", "category": "ファッション"}
+{"source_id": "note-azusa_yuhi", "name": "無印良品 ハンドクリーム ひのき&ラベンダー", "brand": "無印良品", "category": "美容"}
+{"source_id": "note-azusa_yuhi", "name": "HARE スカート", "brand": "HARE", "category": "ファッション"}
+{"source_id": "note-azusa_yuhi", "name": "岡田あーみん こいつら100%伝説", "brand": "リボンマスコットコミックス", "category": "本"}
+{"source_id": "note-nashi17", "name": "Shokz OpenDots ONE", "brand": "Shokz", "amazon_url": "https://amzn.asia/d/07G47H2j", "category": "ガジェット"}
+{"source_id": "note-nashi17", "name": "アズマ工業 アズマジック 浴室用ソフトブラシ BT763", "brand": "アズマ工業", "category": "生活用品"}
+{"source_id": "note-nashi17", "name": "ROPÉ Pac Sac", "brand": "ROPÉ", "category": "ファッション"}
+{"source_id": "note-nashi17", "name": "ROPÉ PICNIC PASSAGE 旅するボストンバッグ", "brand": "ROPÉ PICNIC", "category": "ファッション"}
+{"source_id": "note-nashi17", "name": "タイムモア 栗子C3s", "brand": "タイムモア", "amazon_url": "https://amzn.asia/d/05sefrxP", "category": "生活用品"}
+{"source_id": "note-nashi17", "name": "ヤマサ ぱぱっとちゃんと これ! うま!! つゆ", "brand": "ヤマサ", "amazon_url": "https://amzn.asia/d/0g0jfRk7", "category": "食品"}
+{"source_id": "note-nashi17", "name": "サンリオ アイシナモロール ラバーコースター", "brand": "サンリオ", "amazon_url": "https://amzn.asia/d/0faqML5X", "category": "生活用品"}
+{"source_id": "note-nashi17", "name": "セーラー プロフィット21 レフティ", "brand": "セーラー", "category": "その他"}
+{"source_id": "note-nashi17", "name": "セーラー SHIKIORI 雪月空葉 11-1224-301", "brand": "セーラー", "amazon_url": "https://amzn.asia/d/06daF6ge", "category": "その他"}
+{"source_id": "note-nashi17", "name": "TACCIA 浮世絵インク", "brand": "TACCIA", "category": "その他"}
+{"source_id": "note-nashi17", "name": "トラベラーズファクトリー トラベラーズノート パスポートサイズ", "brand": "トラベラーズファクトリー", "category": "その他"}
+{"source_id": "note-nashi17", "name": "トラベラーズファクトリー パスポートサイズ ペーパークロスジッパー 07100334", "brand": "トラベラーズファクトリー", "category": "その他"}
+{"source_id": "note-sabatani", "name": "Apple iPad Pro M4", "brand": "Apple", "amazon_url": "https://amzn.to/46Iq4bc", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Apple AirPods Pro 3", "brand": "Apple", "amazon_url": "https://amzn.to/4ctEEqO", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Elgato Stream Deck MK.2", "brand": "Elgato", "amazon_url": "https://amzn.to/408BukX", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Logicool G515 LIGHTSPEED TKL", "brand": "Logicool", "amazon_url": "https://amzn.to/4rge87L", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Logicool MX Anywhere 3S MX1800", "brand": "Logicool", "amazon_url": "https://amzn.to/4rWqwes", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "TourBox Elite Plus", "brand": "TourBox", "amazon_url": "https://amzn.to/3N52ChI", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "DRAW A LINE ShadeArmL Floorlight Set", "brand": "DRAW A LINE", "amazon_url": "https://amzn.to/3ORouO2", "category": "生活用品"}
+{"source_id": "note-sabatani", "name": "HOTO 4WAY 小型エアクリーナー Pro", "brand": "HOTO", "amazon_url": "https://amzn.to/408y81l", "category": "家電"}
+{"source_id": "note-sabatani", "name": "HOTO 4WAY 小型エアクリーナー Pro 交換用HEPAフィルター", "brand": "HOTO", "amazon_url": "https://amzn.to/4u5PUA5", "category": "家電"}
+{"source_id": "note-sabatani", "name": "カリモク60 Kチェア ソファ 2人掛け", "brand": "カリモク", "amazon_url": "https://amzn.to/4b5ftZ0", "category": "生活用品"}
+{"source_id": "note-sabatani", "name": "Anker Prime Charger 250W", "brand": "Anker", "amazon_url": "https://amzn.to/4ssguSd", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Apple iPhone 16 Pro", "brand": "Apple", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "Meta Quest Pro", "brand": "Meta", "amazon_url": "https://amzn.asia/d/0dskSyHW", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "HTC VIVE SteamVR Base Station 2.0", "brand": "HTC", "amazon_url": "https://amzn.to/3NiAiZe", "category": "ガジェット"}
+{"source_id": "note-sabatani", "name": "HTC VIVE トラッカー 3.0", "brand": "HTC", "amazon_url": "https://amzn.to/4l7kbKw", "category": "ガジェット"}
+{"source_id": "bokuto10-ry-2025-12-19-001324", "name": "CASIO カシオコレクション", "brand": "CASIO", "category": "ファッション"}
+{"source_id": "bokuto10-ry-2025-12-19-001324", "name": "SwitchBot カーテン 第3世代", "brand": "SwitchBot", "amazon_url": "https://www.amazon.co.jp/dp/B0CB82V17R", "category": "ガジェット"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "野田琺瑯 スクウェア", "brand": "野田琺瑯", "category": "生活用品"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "T-fal オプティスペースIH ステンレス マルチポット", "brand": "T-fal", "category": "生活用品"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "軽井沢いぶる 燻製オリーブオイル", "brand": "軽井沢いぶる", "category": "食品"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "バーレイ アジアティックフェザンツ", "brand": "バーレイ", "category": "生活用品"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "ドクターケイ ABC-Gピールウォッシュ", "brand": "ドクターケイ", "category": "美容"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "Zoff 度付きサングラス", "brand": "Zoff", "category": "ファッション"}
+{"source_id": "kasho2-ry-2025-12-02-191736", "name": "コジット シートボックス", "brand": "コジット", "category": "生活用品"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "壽屋 メガミデバイス PUNI☆MOFU ラン", "brand": "壽屋", "amazon_url": "https://www.amazon.co.jp/dp/B0DYCJVCX7", "category": "その他"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "Roland BRIDGE CAST ONE BRC-ONE", "brand": "Roland", "amazon_url": "https://www.amazon.co.jp/dp/B0DBTBRC3X", "category": "ガジェット"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "MAKINO TPKタップケース TPK06", "brand": "MAKINO", "amazon_url": "https://www.amazon.co.jp/dp/B00HL98B7M", "category": "生活用品"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "HARIO 柴田科学 ビーカー 010020-30051A", "brand": "HARIO", "amazon_url": "https://www.amazon.co.jp/dp/B010M7H37S", "category": "生活用品"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "宮田織物 はんてん", "brand": "宮田織物", "category": "ファッション"}
+{"source_id": "eupholab-ry-2025-11-14-100856", "name": "Shupatto 伊東屋 コンパクトバッグ", "brand": "Shupatto", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "HOKA Bondi 9", "brand": "HOKA", "amazon_url": "https://www.amazon.co.jp/dp/B0D5FZJLKZ", "category": "ファッション"}
+{"source_id": "hatena-aurorai", "name": "JINS airframe", "brand": "JINS", "category": "ファッション"}
+{"source_id": "hatena-aurorai", "name": "Umimile 自動ハンドソープディスペンサー", "brand": "Umimile", "amazon_url": "https://www.amazon.co.jp/dp/B07W41LYHZ", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "LOE 覗き見防止フィルター", "brand": "LOE", "amazon_url": "https://www.amazon.co.jp/dp/B08318T22F", "category": "ガジェット"}
+{"source_id": "hatena-aurorai", "name": "オーラルケア フロアフロス", "brand": "オーラルケア", "amazon_url": "https://www.amazon.co.jp/dp/B00G69ONVQ", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "todayful マフラー", "brand": "todayful", "category": "ファッション"}
+{"source_id": "hatena-aurorai", "name": "marimekko エコバッグ", "brand": "marimekko", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "Waardist シリコン鼻パッド", "brand": "Waardist", "amazon_url": "https://www.amazon.co.jp/dp/B0CDFFX3DR", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "Cavallini & Co. 果物柄エプロン", "brand": "Cavallini & Co.", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "APFR CLOSET TAG", "brand": "APFR", "category": "生活用品"}
+{"source_id": "hatena-aurorai", "name": "CENE ドロップフープピアス", "brand": "CENE", "category": "ファッション"}
+{"source_id": "hatena-aurorai", "name": "Primavista スキンプロテクトベース", "brand": "Primavista", "amazon_url": "https://www.amazon.co.jp/dp/B0CVRR9MC9", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "RMK デューイーメルトリップカラー", "brand": "RMK", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "CANMAKE ラスティングマルチアイベース", "brand": "CANMAKE", "amazon_url": "https://www.amazon.co.jp/dp/B00FKPSH50", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "CipiCipi ポイントコンシーラー", "brand": "CipiCipi", "amazon_url": "https://www.amazon.co.jp/dp/B0C2PP8QDN", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "AQUALABEL エステ洗顔ジェル", "brand": "AQUALABEL", "amazon_url": "https://www.amazon.co.jp/dp/B0DRP535WF", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "est クラリファイイングジェルウォッシュ", "brand": "est", "amazon_url": "https://www.amazon.co.jp/dp/B09PF7G9QK", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "Primavista プレメイクアップジェルウォッシュ", "brand": "Primavista", "amazon_url": "https://www.amazon.co.jp/dp/B0F8PZ5SNH", "category": "美容"}
+{"source_id": "hatena-aurorai", "name": "エピラット 脱色クリーム スピーディー", "brand": "エピラット", "amazon_url": "https://www.amazon.co.jp/dp/B0BTY98HD7", "category": "美容"}
+{"source_id": "raccasa-entry-buy-2025", "name": "Bose QuietComfort Earbuds", "brand": "BOSE", "amazon_url": "https://www.amazon.co.jp/dp/B0DBQPRZMJ", "category": "ガジェット"}
+{"source_id": "raccasa-entry-buy-2025", "name": "IKEA NOLLÅTTA アラームクロック", "brand": "IKEA", "amazon_url": "https://www.amazon.co.jp/dp/B08Y5RCS6D", "category": "ガジェット"}
+{"source_id": "raccasa-entry-buy-2025", "name": "YAMAZEN 衣類乾燥除湿機 YDC-H60", "brand": "YAMAZEN", "amazon_url": "https://www.amazon.co.jp/dp/B0D9VNNNN3", "rank": 1, "category": "家電"}
+{"source_id": "raccasa-entry-buy-2025", "name": "イブル マルチケット", "category": "生活用品"}
+{"source_id": "raccasa-entry-buy-2025", "name": "ときわすれ 〜ゆるり〜 STORAGE BAG 円柱型", "brand": "ときわすれ", "category": "生活用品"}
+{"source_id": "raccasa-entry-buy-2025", "name": "ニトリ モチモチ クッション ニクマン NM001", "brand": "ニトリ", "category": "生活用品"}
+{"source_id": "raccasa-entry-buy-2025", "name": "アース製薬 らくハピ エアコンの防カビ スキマワイパー", "brand": "アース製薬", "amazon_url": "https://www.amazon.co.jp/dp/B084RVTM32", "category": "生活用品"}
+{"source_id": "raccasa-entry-buy-2025", "name": "ビオレ ザフェイス 泡洗顔料 スムースクリア", "brand": "ビオレ", "amazon_url": "https://www.amazon.co.jp/dp/B0BZC1XBYF", "category": "美容"}
+{"source_id": "raccasa-entry-buy-2025", "name": "24hコスメ ミネラルモイストスティックファンデ", "brand": "24hコスメ", "category": "美容"}
+{"source_id": "raccasa-entry-buy-2025", "name": "集英社ゲームズ 都市伝説解体センター", "brand": "集英社ゲームズ", "amazon_url": "https://www.amazon.co.jp/dp/B0DK3F1RRV", "category": "ゲーム"}
+{"source_id": "raccasa-entry-buy-2025", "name": "マーベラス 龍の国 ルーンファクトリー", "brand": "マーベラス", "amazon_url": "https://www.amazon.co.jp/dp/B0DT3J2176", "category": "ゲーム"}
+{"source_id": "gizmodo-sic-gadget-2025-html", "name": "teenage engineering OP-XY", "brand": "teenage engineering", "category": "ガジェット"}
+{"source_id": "gizmodo-sic-gadget-2025-html", "name": "Ableton Move", "brand": "Ableton", "category": "ガジェット"}
+{"source_id": "gizmodo-sic-gadget-2025-html", "name": "IK Multimedia ARC Studio", "brand": "IK Multimedia", "category": "ガジェット"}
+{"source_id": "gizmodo-sic-gadget-2025-html", "name": "Line 6 HX Stomp", "brand": "Line 6", "category": "ガジェット"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "2XU ライトスピードリアクトコンプレッションショート", "brand": "2XU", "category": "ファッション"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "SwitchBot 防水温湿度計", "brand": "SwitchBot", "category": "ガジェット"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "SWANS E-NOX Eight", "brand": "SWANS", "category": "ファッション"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "mont-bell EXライトウィンドジャケット", "brand": "mont-bell", "category": "ファッション"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "MYTREX REBIVE", "brand": "MYTREX", "category": "家電"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "Samsung Galaxy S24", "brand": "Samsung", "category": "ガジェット"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "COROS PACE4", "brand": "COROS", "category": "ガジェット"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "COROS HEART RATE MONITOR", "brand": "COROS", "category": "ガジェット"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "DERIT TECH SHORT PANTS", "brand": "DERIT", "category": "ファッション"}
+{"source_id": "ochanomitai-ry-2026-01-10-200000", "name": "EarFun Air Pro4", "brand": "EarFun", "category": "ガジェット"}
+{"source_id": "pui-log-9f-e3-82-82-e3-81-ae", "name": "Panasonic LUMIX S1RⅡ", "brand": "Panasonic", "rank": 1, "category": "ガジェット"}
+{"source_id": "pui-log-9f-e3-82-82-e3-81-ae", "name": "RICOH GRⅣ", "brand": "RICOH", "category": "ガジェット"}
+{"source_id": "pui-log-9f-e3-82-82-e3-81-ae", "name": "アイリスオーヤマ DC JET KCF-SDC182T", "brand": "アイリスオーヤマ", "category": "家電"}
+{"source_id": "pui-log-9f-e3-82-82-e3-81-ae", "name": "GENTOS HYT-4L", "brand": "GENTOS", "category": "家電"}
+{"source_id": "pui-log-9f-e3-82-82-e3-81-ae", "name": "Panasonic LUMIX S18-40F4.5-6.3", "brand": "Panasonic", "category": "ガジェット"}
+{"source_id": "hatena-there-there", "name": "SHARP 布団乾燥機 UD-CF1W", "brand": "SHARP", "amazon_url": "https://www.amazon.co.jp/dp/B07ZV4WBQG", "category": "家電"}
+{"source_id": "hatena-there-there", "name": "レイコップ PRO2 RS3-300JPWH", "brand": "レイコップ", "amazon_url": "https://www.amazon.co.jp/dp/B0CJXRPZYW", "category": "家電"}
+{"source_id": "hatena-there-there", "name": "COMME des GARÇONS GIRL ペイントバック", "brand": "COMME des GARÇONS GIRL", "category": "ファッション"}
+{"source_id": "hatena-tarc", "name": "K-SWISS ビッグロゴ コートソール", "brand": "K-SWISS", "amazon_url": "https://www.amazon.co.jp/dp/B0DLKM94NP", "category": "ファッション"}
+{"source_id": "note-salchu", "name": "コクヨ カ.クリエ プレミアムクロス プラス 77-926", "brand": "コクヨ", "amazon_url": "https://amzn.to/4ppreib", "category": "生活用品"}
+{"source_id": "note-salchu", "name": "KOKUYO WP ファインライター", "brand": "KOKUYO WP", "category": "生活用品"}
+{"source_id": "note-salchu", "name": "CEETOL 老眼鏡", "brand": "CEETOL", "amazon_url": "https://amzn.to/4pel1p7", "category": "ファッション"}
+{"source_id": "note-salchu", "name": "Apple Mac mini", "brand": "Apple", "category": "ガジェット"}
+{"source_id": "note-salchu", "name": "BenQ MA320U", "brand": "BenQ", "amazon_url": "https://amzn.to/3YPChGt", "category": "ガジェット"}
+{"source_id": "note-salchu", "name": "ERGOTRON MXV 45-486-026", "brand": "ERGOTRON", "amazon_url": "https://amzn.to/3YIfaO3", "category": "ガジェット"}
+{"source_id": "note-salchu", "name": "ルイファン キングブレード X10 V", "brand": "ルイファン", "amazon_url": "https://amzn.to/3L81Uz5", "category": "その他"}
+{"source_id": "note-salchu", "name": "VOLTRX 電動シェイカー", "brand": "VOLTRX", "amazon_url": "https://amzn.to/4qOnQ1D", "category": "生活用品"}
+{"source_id": "note-salchu", "name": "Cycletrack アウトドアチェア", "brand": "Cycletrack", "amazon_url": "https://amzn.to/45JdGad", "category": "生活用品"}
+{"source_id": "note-salchu", "name": "RHYTHM Silky Wind Mobile 3.2 9ZF040RH05", "brand": "RHYTHM", "amazon_url": "https://amzn.to/4qrlmWO", "category": "家電"}
+{"source_id": "note-salchu", "name": "トヨトミ 灯油ファンヒーター LC-S33P", "brand": "トヨトミ", "category": "家電"}
+{"source_id": "note-vast_worm7171", "name": "Anker Soundcore Liberty 5", "brand": "Anker", "amazon_url": "https://amzn.to/3ZYip4x", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "Anker Soundcore C40i", "brand": "Anker", "amazon_url": "https://amzn.to/3Zkl6NO", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "Apple Watch SE 3", "brand": "Apple", "amazon_url": "https://amzn.to/4kgQbvk", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "TORRAS GlassGo Ultra", "brand": "TORRAS", "amazon_url": "https://amzn.to/46wuiSY", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "Ulanzi MT-84", "brand": "Ulanzi", "amazon_url": "https://amzn.to/4rtFR5y", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "Logicool MX MASTER 4 MX2400GRd", "brand": "Logicool", "amazon_url": "https://amzn.to/4al627z", "category": "ガジェット"}
+{"source_id": "note-vast_worm7171", "name": "ピノスタジオ 撮影用背景シート Pro版", "brand": "ピノスタジオ", "amazon_url": "https://amzn.to/4azp6jC", "category": "ガジェット"}
+{"source_id": "note-azumaya__note", "name": "FRITZ HANSEN PK22", "brand": "FRITZ HANSEN", "category": "生活用品"}
+{"source_id": "note-azumaya__note", "name": "NATURES COLLECTION SHEEP SKIN", "brand": "NATURES COLLECTION", "category": "生活用品"}
+{"source_id": "note-azumaya__note", "name": "KLIPPAN×mina perhonen ウールブランケット HOUSE IN THE FOREST", "brand": "KLIPPAN", "category": "生活用品"}
+{"source_id": "note-azumaya__note", "name": "Chemex コーヒーメーカー CM-1C", "brand": "Chemex", "category": "生活用品"}
+{"source_id": "note-azumaya__note", "name": "YA-MAN エイジングケア美顔器 ブルームファイブ", "brand": "YA-MAN", "category": "美容"}
+{"source_id": "note-azumaya__note", "name": "New Balance 990v6 / 990v3", "brand": "New Balance", "category": "ファッション"}
+{"source_id": "note-azumaya__note", "name": "LECHOPPE 別注 BATONER EX COWCHIN", "brand": "LECHOPPE", "category": "ファッション"}
+{"source_id": "note-azumaya__note", "name": "ECWCS GEN3 Level7", "category": "ファッション"}
+{"source_id": "note-nanijan", "name": "YAMAHA PAS Cheer PA26CH", "brand": "YAMAHA", "amazon_url": "https://amzn.to/4rP0fiA", "category": "その他"}
+{"source_id": "note-nanijan", "name": "Nintendo Switch 2", "brand": "Nintendo", "category": "ゲーム"}
+{"source_id": "note-nanijan", "name": "武内製薬 THE PROTEIN グラスフェッド ホエイプロテイン", "brand": "武内製薬", "category": "食品"}
+{"source_id": "note-nanijan", "name": "STEADY 懸垂マシン ST115", "brand": "STEADY", "category": "その他"}
+{"source_id": "note-nanijan", "name": "TOPFILM 可変式ダンベル", "brand": "TOPFILM", "amazon_url": "https://amzn.to/4iX74uh", "category": "その他"}
+{"source_id": "note-nanijan", "name": "Refsafe 超軽量 割れないミラー", "brand": "Refsafe", "category": "生活用品"}
+{"source_id": "note-nanijan", "name": "SONY FE 70-200mm F2.8 GM OSS II SEL70200GM2", "brand": "SONY", "amazon_url": "https://amzn.to/4qbGzUs", "category": "ガジェット"}
+{"source_id": "note-nanijan", "name": "PGYTECH OneGo Lite カメラリュック", "brand": "PGYTECH", "amazon_url": "https://amzn.to/4pL5r5C", "category": "ガジェット"}
+{"source_id": "note-mio_magu", "name": "ORBIS エッセンスイン ヘアマスク", "brand": "ORBIS", "amazon_url": "https://www.amazon.co.jp/dp/B0DCMHYCT6", "category": "美容"}
+{"source_id": "note-mio_magu", "name": "ORBIS エッセンスイン ヘアミルク", "brand": "ORBIS", "amazon_url": "https://www.amazon.co.jp/dp/B06WLJYWF7", "category": "美容"}
+{"source_id": "note-icasui", "name": "Patagonia ダウン", "brand": "Patagonia", "category": "ファッション"}
+{"source_id": "note-icasui", "name": "Maatter 香水", "brand": "Maatter", "category": "美容"}
+{"source_id": "note-icasui", "name": "73ap リング", "brand": "73ap", "category": "ファッション"}
+{"source_id": "note-icasui", "name": "LANEIGE リップセラム", "brand": "LANEIGE", "category": "美容"}
+{"source_id": "note-icasui", "name": "Laka ティント", "brand": "Laka", "category": "美容"}
+{"source_id": "note-icasui", "name": "nightfruti ROMANTIC BABY BAG", "brand": "nightfruti", "category": "ファッション"}
+{"source_id": "note-icasui", "name": "無印良品 裏起毛パンツ", "brand": "無印良品", "category": "ファッション"}
+{"source_id": "note-icasui", "name": "no content ストール", "brand": "no content", "category": "ファッション"}
+{"source_id": "note-icasui", "name": "無印良品 ミニノート", "brand": "無印良品", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "Apple AirPods Pro 3", "brand": "Apple", "amazon_url": "https://amzn.to/3KZtAX2", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "Bose QuietComfort Ultra Headphones 第2世代", "brand": "Bose", "amazon_url": "https://amzn.to/3Ybbvbv", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "LG 34SR63QA-W", "brand": "LG", "amazon_url": "https://amzn.to/44Ff65e", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "ERGOTRON LX モニターアーム 45-241-224", "brand": "ERGOTRON", "amazon_url": "https://amzn.to/4j7W0dW", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "BenQ ScreenBar Halo 2", "brand": "BenQ", "amazon_url": "https://amzn.to/4b1dsPc", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "Apple iPad mini A17 Pro", "brand": "Apple", "amazon_url": "https://amzn.to/4jebYDq", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "Anker Nano Power Bank 10000mAh", "brand": "Anker", "amazon_url": "https://amzn.to/4qruef2", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "コクヨ スタンドツールポーチ ハコビズ AMBG-SP100M", "brand": "コクヨ", "amazon_url": "https://amzn.to/48QRQDT", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "Anker Magnetic Cable Holder", "brand": "Anker", "amazon_url": "https://amzn.to/4pRvvfi", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "CIO スパイラルケーブル CtoC", "brand": "CIO", "amazon_url": "https://amzn.to/4jkcAri", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "オウルテック 片引き巻取り式 USB Type-C to Cケーブル OEC-CBKRPCC90-BK", "brand": "オウルテック", "amazon_url": "https://amzn.to/4pPrPuu", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "西川 エアーポータブル モバイルピロー", "brand": "西川", "amazon_url": "https://amzn.to/4auspJr", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "WEXLEY ACTIVE PACK バックパック", "brand": "WEXLEY", "amazon_url": "https://amzn.to/4qquOJT", "category": "ファッション"}
+{"source_id": "note-genkaihakushi", "name": "Panasonic ラムダッシュ パームイン ES-PV6A-K", "brand": "Panasonic", "amazon_url": "https://amzn.to/4qquWcl", "category": "美容"}
+{"source_id": "note-genkaihakushi", "name": "サムソナイト エヴォア スピナー55", "brand": "サムソナイト", "amazon_url": "https://amzn.to/48YDWzy", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "Nike エブリデイ 軽量 トレーニング クルーソックス", "brand": "Nike", "amazon_url": "https://amzn.to/4jaRds4", "category": "ファッション"}
+{"source_id": "note-genkaihakushi", "name": "TELIC Comfy Sabot", "brand": "TELIC", "amazon_url": "https://amzn.to/4qrxGGA", "category": "ファッション"}
+{"source_id": "note-genkaihakushi", "name": "TELIC スポーツサンダル ALLROADS-S4", "brand": "TELIC", "amazon_url": "https://amzn.to/4qHTbmH", "category": "ファッション"}
+{"source_id": "note-genkaihakushi", "name": "New Balance ハイリバウンディングインソール LAM55634", "brand": "New Balance", "amazon_url": "https://amzn.to/49ptRvF", "category": "ファッション"}
+{"source_id": "note-genkaihakushi", "name": "ECOVACS DEEBOT N30 PLUS", "brand": "ECOVACS", "amazon_url": "https://amzn.to/48QSgKt", "category": "家電"}
+{"source_id": "note-genkaihakushi", "name": "SwitchBot スマートリモコン ハブミニ", "brand": "SwitchBot", "amazon_url": "https://amzn.to/4q1gTtZ", "category": "ガジェット"}
+{"source_id": "note-genkaihakushi", "name": "Ninja ブラスト ポータブルブレンダー BC151BK", "brand": "Ninja", "amazon_url": "https://amzn.to/49oB13k", "category": "家電"}
+{"source_id": "note-genkaihakushi", "name": "タオル研究所 毎日シンプル #001 ミニバスタオル", "brand": "タオル研究所", "amazon_url": "https://amzn.to/3YIvgas", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "Sea Crystals エプソムソルト", "brand": "Sea Crystals", "amazon_url": "https://amzn.to/4qnwsMo", "category": "美容"}
+{"source_id": "note-genkaihakushi", "name": "BARTH 中性重炭酸 入浴剤", "brand": "BARTH", "amazon_url": "https://amzn.to/4qlXRyf", "category": "美容"}
+{"source_id": "note-genkaihakushi", "name": "MYTREX REBIVE MINI XS2 MT-RX2-24", "brand": "MYTREX", "amazon_url": "https://amzn.to/4qsnqOm", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "uFit Vibrating Ball Mini", "brand": "uFit", "amazon_url": "https://amzn.to/4qoAqEC", "category": "生活用品"}
+{"source_id": "note-genkaihakushi", "name": "ハルクファクター クレアルカリン", "brand": "ハルクファクター", "amazon_url": "https://amzn.to/3Y9Fy3d", "category": "食品"}
+{"source_id": "note-genkaihakushi", "name": "ディアナチュラ ストロング39アミノ マルチビタミン&ミネラル", "brand": "アサヒ", "amazon_url": "https://amzn.to/4qj5hCf", "category": "食品"}
+{"source_id": "note-genkaihakushi", "name": "新ビオフェルミンSプラス錠", "brand": "大正製薬", "amazon_url": "https://amzn.to/4aplyB3", "category": "食品"}
+{"source_id": "note-on_san_shopping", "name": "コンクールF", "amazon_url": "https://amzn.to/4w9F390", "category": "生活用品"}
+{"source_id": "note-on_san_shopping", "name": "ギガバリア 強力撥防水スプレー", "brand": "ギガバリア", "amazon_url": "https://www.amazon.co.jp/dp/B0BJD4YRD1", "category": "生活用品"}
+{"source_id": "note-on_san_shopping", "name": "アイホン ワイヤレステレビドアホン KR-77", "brand": "アイホン", "amazon_url": "https://www.amazon.co.jp/dp/B08LMGJZ1X", "category": "家電"}
+{"source_id": "note-on_san_shopping", "name": "帰ってきた 名探偵ピカチュウ カップスリーブ", "category": "生活用品"}
+{"source_id": "note-on_san_shopping", "name": "モバイルPASMO", "brand": "PASMO", "category": "サービス"}
+{"source_id": "note-kochi_notes", "name": "HUAWEI Band 10", "brand": "HUAWEI", "amazon_url": "https://amzn.to/3MmVNqU", "category": "ガジェット"}
+{"source_id": "note-kochi_notes", "name": "ルネサンス RE ツイスト エアロ ステッパー SP-200", "brand": "ルネサンス", "amazon_url": "https://amzn.to/49BBKPe", "category": "その他"}
+{"source_id": "note-kochi_notes", "name": "PILOT キレーナ SKIW15C2", "brand": "PILOT", "amazon_url": "https://amzn.to/4pv2dm2", "category": "その他"}
+{"source_id": "note-kochi_notes", "name": "三菱鉛筆 ユニボールワンP UMNSP38.52", "brand": "三菱鉛筆", "amazon_url": "https://amzn.to/48pcuJA", "category": "その他"}
+{"source_id": "note-kochi_notes", "name": "K&F CONCEPT ブラックミスト1/4フィルター", "brand": "K&F CONCEPT", "amazon_url": "https://amzn.to/3XUUi5K", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Apple Watch SE 3", "brand": "Apple", "amazon_url": "https://amzn.to/46e64wI", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Belkin 2 in 1 MagSafe充電器 WIZ020btH36", "brand": "Belkin", "amazon_url": "https://amzn.to/3ZgF3F8", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Amazon Echo Pop", "brand": "Amazon", "amazon_url": "https://amzn.to/3ZMddRe", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Amazon Echo Spot", "brand": "Amazon", "amazon_url": "https://amzn.to/4kmJeZJ", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "TP-Link Tapo H110", "brand": "TP-Link", "amazon_url": "https://amzn.to/4kbyH3r", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "TP-Link Tapo P110M", "brand": "TP-Link", "amazon_url": "https://amzn.to/4thVPBC", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Anker Soundcore Liberty 5", "brand": "Anker", "amazon_url": "https://amzn.to/3Z9iBxN", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "CIO シリコンケーブル Type-C 延長ケーブル", "brand": "CIO", "amazon_url": "https://amzn.to/4641b9J", "category": "ガジェット"}
+{"source_id": "note-guest_gadget", "name": "Levoit 空気清浄機 Core 300", "brand": "Levoit", "amazon_url": "https://amzn.to/4c3kNyb", "category": "家電"}
+{"source_id": "note-colettechinami", "name": "aquagarage ワイドパンツ用ペチパンツ", "brand": "aquagarage", "category": "ファッション"}
+{"source_id": "note-colettechinami", "name": "アーネスト のせるだけで簡単蒸し器 A-77629", "brand": "アーネスト", "category": "生活用品"}
+{"source_id": "note-colettechinami", "name": "LUCIANNA マルチ収納母子手帳ケース", "brand": "LUCIANNA", "category": "生活用品"}
+{"source_id": "note-colettechinami", "name": "Bellows リュック Mollis", "brand": "Hallelujah", "category": "ファッション"}
+{"source_id": "note-colettechinami", "name": "無印良品 ブナ材洋服ブラシ", "brand": "無印良品", "category": "生活用品"}
+{"source_id": "note-help531", "name": "Panasonic EZ", "brand": "Panasonic", "category": "その他"}
+{"source_id": "note-help531", "name": "cybex ソリューション G2", "brand": "cybex", "category": "生活用品"}
+{"source_id": "note-help531", "name": "fumi クッションでくつろぐソファ", "brand": "fumi", "category": "生活用品"}
+{"source_id": "note-help531", "name": "Traditional Weatherwear WAVERLY キルトジャケット", "brand": "Traditional Weatherwear", "category": "ファッション"}
+{"source_id": "note-help531", "name": "BIRKENSTOCK Reykjavik", "brand": "BIRKENSTOCK", "category": "ファッション"}
+{"source_id": "note-help531", "name": "SwitchBot ハブ2", "brand": "SwitchBot", "amazon_url": "https://www.amazon.co.jp/dp/B0C6176JTB", "category": "ガジェット"}
+{"source_id": "note-help531", "name": "GALAXIAS", "amazon_url": "https://www.amazon.co.jp/dp/4065371260", "category": "本"}
+{"source_id": "note-help531", "name": "サチ録~サチの黙示録~", "amazon_url": "https://www.amazon.co.jp/dp/4088837983", "category": "本"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "RIMOWA Vitra 2025 アルミニウム スツール", "brand": "RIMOWA", "category": "生活用品"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "Patagonia ダスパーカ", "brand": "Patagonia", "category": "ファッション"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "LOUIS VUITTON LV スーパーヴィジョン ラウンド", "brand": "LOUIS VUITTON", "category": "ファッション"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "mont-bell アルパインクルーザー 800 BOA", "brand": "mont-bell", "category": "ファッション"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "Helinox × Tom Sachs J.チェア", "brand": "Helinox", "category": "生活用品"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "THERMOS 山専用ボトル", "brand": "THERMOS", "category": "生活用品"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "MYSTERY RANCH レイディックス 47", "brand": "MYSTERY RANCH", "category": "ファッション"}
+{"source_id": "fashionsnap-reonamitsuyama", "name": "THE ROW カシミアシルクカーディガンシャツ", "brand": "THE ROW", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "HERMÈS バーキン", "brand": "HERMÈS", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "UNDERCOVER MA-1", "brand": "UNDERCOVER", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "TSTS ウールブルゾン", "brand": "TSTS", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "Levi's 507XX カスタムデニムジャケット", "brand": "Levi's", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "Vivienne Westwood アーマームートンジャケット", "brand": "Vivienne Westwood", "category": "ファッション"}
+{"source_id": "fashionsnap-teppei", "name": "anrealage homme スパイキーブーツ", "brand": "anrealage homme", "category": "ファッション"}
+{"source_id": "fashionsnap-asagiinyo", "name": "Julia Heuer ドレス", "brand": "Julia Heuer", "category": "ファッション"}
+{"source_id": "fashionsnap-asagiinyo", "name": "TEKLA バスローブ", "brand": "TEKLA", "category": "生活用品"}
+{"source_id": "fashionsnap-asagiinyo", "name": "HAY バスローブ", "brand": "HAY", "category": "生活用品"}
+{"source_id": "fashionsnap-asagiinyo", "name": "Simone Rocha フラワードレス", "brand": "Simone Rocha", "category": "ファッション"}
+{"source_id": "fashionsnap-asagiinyo", "name": "un by Tomoyo Yoshida リング", "brand": "un by Tomoyo Yoshida", "category": "ファッション"}
+{"source_id": "fashionsnap-asagiinyo", "name": "八木沢俊樹 Phantom 木彫りの犬", "brand": "八木沢俊樹", "category": "その他"}
+{"source_id": "fashionsnap-asagiinyo", "name": "CHANEL 22 ハンドバッグ", "brand": "CHANEL", "category": "ファッション"}
+{"source_id": "fashionsnap-asagiinyo", "name": "SONY VLOGCAM ZV-E10 II", "brand": "SONY", "category": "ガジェット"}
+{"source_id": "fashionsnap-asagiinyo", "name": "SONY RX100", "brand": "SONY", "category": "ガジェット"}
+{"source_id": "fashionsnap-karin-ohira", "name": "tao スカーフトップス", "brand": "tao", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "Stefan Cooke Brown Patch Vintage Blue Jeans", "brand": "Stefan Cooke", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "I'm Sorry by Petra Collins Blythe Doll Print Bag", "brand": "I'm Sorry by Petra Collins", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "BALENCIAGA コート", "brand": "BALENCIAGA", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "Meryll Rogge PVCセットアップ", "brand": "Meryll Rogge", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "KIKO KOSTADINOV ARMANTROUT PEARL NECKLACE", "brand": "KIKO KOSTADINOV", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "COMME des GARÇONS メルトンコート", "brand": "COMME des GARÇONS", "category": "ファッション"}
+{"source_id": "fashionsnap-karin-ohira", "name": "Diffar Fragrance Hair Oil", "brand": "Diffar", "category": "美容"}
+{"source_id": "fashionsnap-ogasawara", "name": "SETCHU トラベルジャケット", "brand": "SETCHU", "category": "ファッション"}
+{"source_id": "fashionsnap-ogasawara", "name": "SETCHU クロップド ハカマパンツ", "brand": "SETCHU", "category": "ファッション"}
+{"source_id": "fashionsnap-ogasawara", "name": "COMME des GARÇONS アブストラクトジャケット", "brand": "COMME des GARÇONS", "category": "ファッション"}
+{"source_id": "fashionsnap-ogasawara", "name": "COMME des GARÇONS HOMME PLUS チュールショートパンツ", "brand": "COMME des GARÇONS HOMME PLUS", "category": "ファッション"}
+{"source_id": "fashionsnap-ogasawara", "name": "KIDILL ジャカードニット", "brand": "KIDILL", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "HERMÈS オータクロア", "brand": "HERMÈS", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "RRL デニムジャケット", "brand": "RRL", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "Levi's 70501", "brand": "Levi's", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "GAP ブーツフィット レザーパンツ", "brand": "GAP", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "Polo Ralph Lauren レザージャケット", "brand": "Polo Ralph Lauren", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "TENDERLOIN ウエスタンシャツ", "brand": "TENDERLOIN", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "Rockmount ウエスタンシャツ", "brand": "Rockmount", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "TOWNCRAFT ウエスタンシャツ", "brand": "TOWNCRAFT", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "Maison Margiela タビブーツ", "brand": "Maison Margiela", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "HERMÈS シェーヌ・ダンクル", "brand": "HERMÈS", "category": "ファッション"}
+{"source_id": "fashionsnap-naoaki-tobe", "name": "ROLEX デイトナ Ref.6263/8", "brand": "ROLEX", "category": "ファッション"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "Chrome Hearts デニムジャケット", "brand": "Chrome Hearts", "category": "ファッション"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "ROLEX デイデイト", "brand": "ROLEX", "category": "ファッション"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "SHIHARA ルームディフューザー", "brand": "SHIHARA", "category": "生活用品"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "RAWROW キャリーケース", "brand": "RAWROW", "category": "生活用品"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "HERMÈS バーキン", "brand": "HERMÈS", "category": "ファッション"}
+{"source_id": "fashionsnap-naokokuroishi", "name": "Ameri 万能トラベルバッグ", "brand": "Ameri", "category": "生活用品"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "COMOLI チロリアンシューズ", "brand": "COMOLI", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "GUIDI バックジップブーツ", "brand": "GUIDI", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "LEMAIRE ソフトゲームバッグ", "brand": "LEMAIRE", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "proposition ブルゾン", "brand": "proposition", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "KarimHadjab セットアップ", "brand": "KarimHadjab", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "Chez VIDALENC コート", "brand": "Chez VIDALENC", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "Maison Margiela 5-ZIP レザージャケット", "brand": "Maison Margiela", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "Cartier サントス ドゥ カルティエ", "brand": "Cartier", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "EYEVAN 7285 363", "brand": "EYEVAN 7285", "category": "ファッション"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "猿田彦神社 火打ち石", "brand": "猿田彦神社", "category": "その他"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "吉田直嗣 抹茶碗", "brand": "吉田直嗣", "category": "生活用品"}
+{"source_id": "fashionsnap-ichiro-yamaguchi", "name": "cado FOEHN PRO", "brand": "cado", "category": "家電"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "UGREEN NASync DXP2800", "brand": "UGREEN", "amazon_url": "https://www.amazon.co.jp/dp/B0DXKZV61R", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "UGREEN USB Type Cケーブル", "brand": "UGREEN", "amazon_url": "https://www.amazon.co.jp/dp/B099K9PS7W", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "sauyeal Type C ケーブル L字", "brand": "sauyeal", "amazon_url": "https://www.amazon.co.jp/dp/B0CMNFM9RQ", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "tomtoc ガジェットポーチ Light-T12", "brand": "tomtoc", "amazon_url": "https://www.amazon.co.jp/dp/B09MPR36JM", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "EarFun Clip", "brand": "EarFun", "amazon_url": "https://www.amazon.co.jp/dp/B0FDG7W1CW", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "Headwolf Titan1", "brand": "Headwolf", "amazon_url": "https://www.amazon.co.jp/dp/B0FVF9MLBH", "category": "ガジェット"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "ドラゴンクエストI＆II", "brand": "スクウェア・エニックス", "amazon_url": "https://www.amazon.co.jp/dp/B0F9PQ43Y5", "category": "ゲーム"}
+{"source_id": "orefolder-2025-12-buybuy-2025", "name": "マブ(mabu) 日傘 SMV-40294", "brand": "マブ(mabu)", "amazon_url": "https://www.amazon.co.jp/dp/B07NMVN3VR", "category": "生活用品"}
+{"source_id": "orefolder--12-buybuy-2025-degi", "name": "Xiaomi 14 Ultra", "brand": "Xiaomi", "category": "ガジェット"}
+{"source_id": "orefolder--12-buybuy-2025-degi", "name": "HUAWEI FreeBuds Pro 4", "brand": "HUAWEI", "amazon_url": "https://www.amazon.co.jp/dp/B0DN8WCDLD", "category": "ガジェット"}
+{"source_id": "orefolder--12-buybuy-2025-degi", "name": "HyperX Wrist Rest HX-WR", "brand": "HyperX", "amazon_url": "https://www.amazon.co.jp/dp/B07GP7JXQY", "category": "ガジェット"}
+{"source_id": "orefolder--12-buybuy-2025-degi", "name": "Keychron C3 Pro", "brand": "Keychron", "amazon_url": "https://www.amazon.co.jp/dp/B0DRK4Z8G6", "category": "ガジェット"}
+{"source_id": "orefolder--12-buybuy-2025-degi", "name": "Amazfit Active 2", "brand": "Amazfit", "amazon_url": "https://www.amazon.co.jp/dp/B0DWDX6ZZG", "category": "ガジェット"}
+{"source_id": "hatena-takabosejp", "name": "サヴィルクリフォード フランネルスーツ", "brand": "サヴィルクリフォード", "category": "ファッション"}
+{"source_id": "hatena-takabosejp", "name": "ヴィターレバルベリスカノニコ ネイビーブレザー", "brand": "ヴィターレバルベリスカノニコ", "category": "ファッション"}
+{"source_id": "hatena-takabosejp", "name": "ジョセフチーニー WYE 2", "brand": "ジョセフチーニー", "category": "ファッション"}
+{"source_id": "hatena-takabosejp", "name": "エッティンガー BELT TOTE", "brand": "エッティンガー", "category": "ファッション"}
+{"source_id": "hatena-takabosejp", "name": "Nikon Z5Ⅱ", "brand": "Nikon", "category": "ガジェット"}
+{"source_id": "hatena-takabosejp", "name": "Nikon Z 50mm f/1.8 S", "brand": "Nikon", "category": "ガジェット"}
+{"source_id": "hatena-polanyi", "name": "乃木坂46 井上和 1st写真集 モノローグ", "brand": "講談社", "amazon_url": "https://www.amazon.co.jp/dp/4065360617", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "Google Pixel Buds", "brand": "Google", "category": "ガジェット"}
+{"source_id": "hatena-polanyi", "name": "Sony LinkBuds S WF-LS900N", "brand": "Sony", "amazon_url": "https://www.amazon.co.jp/dp/B0B127JJQ2", "category": "ガジェット"}
+{"source_id": "hatena-polanyi", "name": "Panasonic ジェットウォッシャー ドルツ EW-DJ55-W", "brand": "Panasonic", "amazon_url": "https://www.amazon.co.jp/dp/B09XLYQFNZ", "category": "生活用品"}
+{"source_id": "hatena-polanyi", "name": "MTG スタイル プレミアム 骨盤サポートチェア", "brand": "MTG", "amazon_url": "https://www.amazon.co.jp/dp/B0140TPG46", "category": "生活用品"}
+{"source_id": "hatena-polanyi", "name": "エペイオス バスポリッシャー", "brand": "エペイオス(Epeios)", "amazon_url": "https://www.amazon.co.jp/dp/B0FVDWDMVQ", "category": "生活用品"}
+{"source_id": "hatena-polanyi", "name": "シャボン玉 メンズシャボン ソープシャンプー", "brand": "シャボン玉石けん", "amazon_url": "https://www.amazon.co.jp/dp/B07MLDDYJ8", "category": "美容"}
+{"source_id": "hatena-polanyi", "name": "MINISFORUM X1 Pro", "brand": "MINISFORUM", "amazon_url": "https://www.amazon.co.jp/dp/B0DZNM6MMH", "category": "ガジェット"}
+{"source_id": "hatena-polanyi", "name": "yoke MA1", "brand": "yoke", "category": "ファッション"}
+{"source_id": "hatena-polanyi", "name": "デサント オルテライン ハードシェル", "brand": "デサント", "category": "ファッション"}
+{"source_id": "hatena-polanyi", "name": "オーレックス英和辞典 第2版新装版", "brand": "旺文社", "amazon_url": "https://www.amazon.co.jp/dp/4010751401", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "アジア・ファースト 新・アメリカの軍事戦略", "brand": "文藝春秋", "amazon_url": "https://www.amazon.co.jp/dp/B0DK2Z1QZS", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "できるかも。――働く母の“笑顔がつながる”社会起業ストーリー", "brand": "英治出版", "amazon_url": "https://www.amazon.co.jp/dp/4862760929", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "怪人麗嬢", "brand": "スクウェア・エニックス", "amazon_url": "https://www.amazon.co.jp/dp/B07MPZ799Z", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "乙女ゲームのヒロインで最強サバイバル@COMIC", "brand": "TOブックス", "amazon_url": "https://www.amazon.co.jp/dp/B0FCD2G8LT", "category": "本"}
+{"source_id": "hatena-polanyi", "name": "東洋文庫 知への情熱、一〇〇年の軌跡", "brand": "平凡社", "amazon_url": "https://www.amazon.co.jp/dp/4582923291", "category": "本"}
+{"source_id": "hatena-rakkosan777", "name": "貝印 スライサーセット", "brand": "貝印", "category": "生活用品"}
+{"source_id": "hatena-rakkosan777", "name": "ピーピースルー", "category": "生活用品"}
+{"source_id": "hatena-wells", "name": "Bambu Lab A1 mini", "brand": "Bambu Lab", "category": "ガジェット"}
+{"source_id": "hatena-wells", "name": "日清 チキンラーメン", "brand": "日清食品", "category": "食品"}
