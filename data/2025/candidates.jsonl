@@ -149,7 +149,7 @@
 {"url": "https://scrapbox.io/takoba/%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE", "found_via": "search", "status": "skipped", "reason": "別URLで同じ記事を抽出済み"}
 {"url": "https://www.bepal.net/archives/442026", "title": "買ってよかったキャンプ用品12選", "found_via": "search", "status": "extracted", "source_id": "bepal-b4f66d69"}
 {"url": "https://travel.watch.impress.co.jp/docs/news/2075129.html", "found_via": "search", "status": "extracted", "source_id": "travel-74474427"}
-{"url": "https://www.muji.com/jp/ja/store/articles/staff-blog/shoppingchat/1651293", "found_via": "search", "status": "todo"}
+{"url": "https://www.muji.com/jp/ja/store/articles/staff-blog/shoppingchat/1651293", "found_via": "search", "status": "skipped", "reason": "記事本文ではなく「セキュリティ強化のためサービス停止」のお知らせが返った（HTTP 200、https://www.muji.com/jp/ja/store/articles/staff-blog/shoppingchat/1651293）。本文の再取得は未実施（同じ応答が返る可能性が高い）"}
 {"url": "https://yomuno.jp/posts/121291", "found_via": "search", "status": "skipped", "reason": "2025-04-28公開の「2024年に買った無印良品」の紹介で、2025年に買ったものの記事ではない（読み込み先の canonical は posts/124681）。"}
 {"url": "https://yomuno.jp/posts/133115", "found_via": "search", "status": "extracted", "source_id": "yomuno-415b4c16"}
 {"url": "https://yomuno.jp/posts/124681", "found_via": "search", "status": "skipped", "reason": "2025-04-28公開の「2024年に買った無印良品170点」からの紹介で、2025年に買ったものの記事ではない。"}
@@ -157,3 +157,40 @@
 {"url": "https://yomuno.jp/posts/133236", "found_via": "search", "status": "skipped", "reason": "2026-01-05公開の「2026冬の買ってよかった7選」で、2025年に買ったものを紹介した記事ではない。"}
 {"url": "https://yomuno.jp/posts/124456", "found_via": "search", "status": "skipped", "reason": "2025-04-20公開の「2024年買ってよかった収納３選」で、2025年に買ったものの記事ではない。"}
 {"url": "https://scrapbox.io/takoba/2025%E5%B9%B4%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE", "title": "2025年に買ってよかったもの - takoba", "status": "extracted", "source_id": "scrapbox-4ed552b8"}
+{"url": "https://443k.hatenablog.com/entry/2025/12/27/121042", "title": "2025年　今年買ってよかったもの - 仰向けな生活", "found_via": "hatena", "status": "skipped", "reason": "商品が1つだけ（Perixx キーボードのみ）"}
+{"url": "https://note.com/harushika47/n/n71183bc8ef81", "title": "【ベストバイの裏側】2025年の買ってよかったモノ｜ガジェットや暮らしの道具など｜Harushika", "found_via": "hatena", "status": "extracted", "source_id": "note-harushika47-ef6465f3"}
+{"url": "https://note.com/yubais/n/nf99b57a37aa6", "title": "2025年買ってよかったもの、そうでもないもの｜柞刈湯葉", "found_via": "hatena", "status": "extracted", "source_id": "note-yubais-b507a51b"}
+{"url": "https://yu1-simplist.hatenablog.com/entry/2026/01/07/180000", "title": "2025年 BEST BUY - ＳＩＭＰＬＥ", "found_via": "hatena", "status": "extracted", "source_id": "hatena-yu1-simplist-f5b5b319"}
+{"url": "https://yuriamoney.hatenablog.jp/entry/2026/01/07/080000", "title": "資産5000万円超え主婦＊2025年後半に買ってよかったものを紹介 - 貧しくても豊かになりたい", "found_via": "hatena", "status": "extracted", "source_id": "hatena-yuriamoney-21d3c221"}
+{"url": "https://ti-amo-m.blog/glad-i-bought-it-on-rakuten-ichiba10-recommended-household-and-childcare-items-that-were-convenient-to-buy-in-2025-introducing-examples-from-our-family-raising-a-child-with-disabilities/", "title": "【2025年に楽天市場で買ってよかった！】2025年に購入して便利だったおすすめ家事・育児グッズ10選～障害児育児中の我が家の実例もご紹介～", "found_via": "hatena", "status": "skipped", "reason": "PR記事（記事冒頭に PR 表示、楽天アフィリエイトリンク付き）（https://ti-amo-m.blog/glad-i-bought-it-on-rakuten-ichiba10-recommended-household-and-childcare-items-that-were-convenient-to-buy-in-2025-introducing-examples-from-our-family-raising-a-child-with-disabilities/）"}
+{"url": "https://koshian.hateblo.jp/entry/2025/12/30/065125", "title": "2025年、今年買ってよかったもの - 狐の王国", "found_via": "hatena", "status": "extracted", "source_id": "hatena-koshian-a721ccf6"}
+{"url": "https://note.com/minotake_002/n/n8e8c5d88dce8", "title": "2025年に買ってよかったものたち｜minotake", "found_via": "hatena", "status": "extracted", "source_id": "note-minotake_002-8a58c199"}
+{"url": "https://lopylog.jp/2025-best-buy/", "title": "【ベストバイ2025】買ってよかったモノ・ガジェットBEST15 | ロピログ", "found_via": "hatena", "status": "skipped", "reason": "note-tatu1014 と同じ記事（転載）"}
+{"url": "https://note.com/kanekotv/n/nc952d80f86f4", "title": "2025年、今年買ってよかったもの｜金子 洋平", "found_via": "hatena", "status": "extracted", "source_id": "note-kanekotv-52fc7846"}
+{"url": "https://soredoko.jp/entry/2025/12/25/163000", "title": "編集部メンバーがガチで #買ってよかったもの2025 をあげてく - ソレドコ", "found_via": "hatena", "status": "extracted", "source_id": "soredoko-6909ac86"}
+{"url": "https://www.dekirutabi.tokyo/entry/2025/12/21/165822", "title": "旅好きミニマリストが2025年に買ってよかったもの10選 - 団地で暮らす旅好きミニマリスト｜田村美葉", "found_via": "hatena", "status": "extracted", "source_id": "dekirutabi-581d8d3e"}
+{"url": "https://eriis-diary.blog.jp/archives/54943834.html", "title": "【楽天】2025年 買って良かったもの5つ！ : えりゐのＥｖｅＲｙ　ｄｉａＲｙ Powered by ライブドアブログ", "found_via": "hatena", "status": "extracted", "source_id": "eriis-diary-7bc0be9f"}
+{"url": "https://moognyk.jp/entry/2025/12/20/133000", "title": "「買ってよかった2025」 - I AM A DOG", "found_via": "hatena", "status": "extracted", "source_id": "moognyk-35615262"}
+{"url": "https://omocoro.jp/bros/kiji/547003/", "title": "2025年に買ってよかったものをみんなに聞く【日用品編】 | オモコロブロス！", "found_via": "hatena", "status": "extracted", "source_id": "omocoro-45981174"}
+{"url": "https://sunako-hibi.hatenablog.com/entry/2025/12/15/090000", "title": "【今週のお題】買ってよかった2025 - 引きこもり専業主婦 すなこの日々", "found_via": "hatena", "status": "extracted", "source_id": "hatena-sunako-hibi-d0513a12"}
+{"url": "https://fujii-yuji.net/2025/12/08/030500", "title": "今年買って良かったものを紹介します　(隙あらばロボット掃除機テクロノジーを語る) - フジイユウジ::ドットネット", "found_via": "hatena", "status": "skipped", "reason": "紹介された商品がXiaomiロボット掃除機X20+の1つだけ"}
+{"url": "https://note.com/collect_note/n/n8e7702127c30", "title": "今年買ってよかったガジェット 7選【2025年版】｜生活が軽くなる“本当に使える道具たち”｜GOOD TOOL LAB ｜by b.s.collect", "found_via": "hatena", "status": "extracted", "source_id": "note-collect_note-8aa5fc60"}
+{"url": "https://note.com/harushika47/n/ncfb399535441", "title": "【ベストバイ】2025年 本当に買ってよかったモノ10選｜ガジェットやインテリアなど｜Harushika", "found_via": "hatena", "status": "extracted", "source_id": "note-harushika47-3f9b277e"}
+{"url": "https://www.jigowatt121.com/entry/2025/11/25/174427", "title": "今年Amazonで買ってよかったモノ大賞2025 - ジゴワットレポート", "found_via": "hatena", "status": "extracted", "source_id": "jigowatt121-80adece1"}
+{"url": "https://note.com/harahiroshi/n/na1471c2f8a4b", "title": "2025年買ってよかったもの。Nikon Z5IIで写真生活が一変｜ハラヒロシ / デザインスタジオ・エル", "found_via": "hatena", "status": "extracted", "source_id": "note-harahiroshi-fc3eae00"}
+{"url": "https://digital-style.jp/2025-best-buy", "title": "2025年に出会った愛用の品々を振り返る【ベストバイ】", "found_via": "hatena", "status": "extracted", "source_id": "digital-style-2301b26c"}
+{"url": "https://www.kosehazuki.net/entry/2025/12/30/%E6%A5%B5%E7%A7%81%E7%9A%84%E3%83%99%E3%82%B9%E3%83%88%E3%83%90%E3%82%A42025", "title": "極私的ベストバイ2025 - 高等遊民前夜", "found_via": "hatena", "status": "extracted", "source_id": "kosehazuki-c1925117"}
+{"url": "https://www.du-soleil.com/entry/bestbuy-2025", "title": "ベストバイ2025のテーマは「OS移行」〜指数関数的に進化するAIと劣化する心身のクロスオーバーポイント - 太陽がまぶしかったから", "found_via": "hatena", "status": "skipped", "reason": "robots.txtが読めず取得できない"}
+{"url": "https://www.itmedia.co.jp/pcuser/articles/2512/30/news030.html", "title": "現役情シスの2025年ベストバイ　外付けGPUボックスで脱・デスクトップ、そして“ZUNDAルーター”", "found_via": "hatena", "status": "extracted", "source_id": "itmedia-85e8c98c"}
+{"url": "https://tradman-dc.com/entry/2025/12/28/200000", "title": "【2025年】年間ベストバイと今年の総括。 - トラッドマンに憧れて", "found_via": "hatena", "status": "extracted", "source_id": "tradman-dc-3788dd10"}
+{"url": "https://rainkudo.com/%EF%BC%9Cblog%EF%BC%9E2025%E5%B9%B4%E3%81%AB%E6%89%8B%E3%81%AB%E3%81%84%E3%82%8C%E3%81%9F%E3%82%82%E3%81%AE25%E5%80%8B/", "title": "2025年に手にいれたもの25個 | くどうれいん公式ホームページ", "found_via": "hatena", "status": "extracted", "source_id": "rainkudo-966d6df0"}
+{"url": "https://umai-meals.hatenablog.com/entry/2025/12/28/124604", "title": "2025年に買って良かったもの17個 - 石記", "found_via": "hatena", "status": "extracted", "source_id": "hatena-umai-meals-f65484a8"}
+{"url": "https://hitoxu.com/031986", "title": "【レビュー】生存報告兼ベストバイ！空白の1年間に買いまくって生活が変わった厳選アイテム18選【2025年版】", "found_via": "hatena", "status": "extracted", "source_id": "hitoxu-1b0efbe1"}
+{"url": "https://www.fashionsnap.com/article/2025bestbuy-marikoyamauchi/", "title": "【2025年ベストバイ】小説家 山内マリコが今年買って良かったモノ", "found_via": "hatena", "status": "extracted", "source_id": "fashionsnap-32ffb6c5"}
+{"url": "https://www.kasho2.com/entry/2025/10/23/150318", "title": "キッチングッズ四天王 - 続・食べて踊って恋をして", "found_via": "hatena", "status": "extracted", "source_id": "kasho2-7db4924e"}
+{"url": "https://note.com/gadget_news/n/n5c3e44552b39", "title": "【ベストバイ】2025年上半期に買ってよかったガジェット10選｜Gadget News編集部 / ガジェット紹介", "found_via": "hatena", "status": "extracted", "source_id": "note-gadget_news-777e2b99"}
+{"url": "https://www.gadget-girl.net/entry/20260103/1767426351", "title": "ダイニングリモートワークの相棒たち - Gadget Girl", "found_via": "hatena", "status": "extracted", "source_id": "gadget-girl-25e584a1"}
+{"url": "https://www.yamaonsen.com/entry/kaimono_2025", "title": "登山女子、かつ一人旅ブロガーの私が2025年に買ってよかったもの - 温泉ブログ 山と温泉のきろく", "found_via": "hatena", "status": "extracted", "source_id": "yamaonsen-c8bef874"}
+{"url": "https://yuchrszk.blogspot.com/2025/12/202512.html", "title": "2025年に「買って良かったもの」12選", "found_via": "hatena", "status": "skipped", "reason": "robots.txtが読めず取得できない"}
+{"url": "https://p-shirokuma.hatenadiary.com/entry/20251230/1767074400", "title": "2025年、買って良かったワインたち - シロクマの屑籠", "found_via": "hatena", "status": "extracted", "source_id": "p-shirokuma-6e3d7f5b"}
+{"url": "https://eriis-diary.blog.jp/archives/54966228.html", "title": "【100均(スリコ含)】2025年 買って良かったもの5つ！ : えりゐのＥｖｅＲｙ　ｄｉａＲｙ Powered by ライブドアブログ", "found_via": "hatena", "status": "extracted", "source_id": "eriis-diary-78db2452"}
