@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-732件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+734件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -1244,6 +1244,7 @@
 | 490 | ELECOM V-custom VM610 | ELECOM | 1 | 1 | 0 |
 | 490 | [ELEPRO ペットカメラ](https://www.amazon.co.jp/dp/B0BTPNN1CT) | ELEPRO | 1 | 1 | 0 |
 | 490 | EMME 6重ガーゼケット | EMME | 1 | 1 | 0 |
+| 490 | ENGINEERED GARMENTS Field Vest | ENGINEERED GARMENTS | 1 | 1 | 0 |
 | 490 | EPOMAKER MIX コイルケーブル | EPOMAKER | 1 | 1 | 0 |
 | 490 | EPOMAKER P65 | EPOMAKER | 1 | 1 | 0 |
 | 490 | EPOMAKER Split70 ワイヤレス分割キーボード | EPOMAKER | 1 | 1 | 0 |
@@ -1833,6 +1834,7 @@
 | 490 | KutsuGoods 伸びる靴紐 イージーシューレース | KutsuGoods | 1 | 1 | 0 |
 | 490 | L'OCCITANE シア リッチボディクリーム | L'OCCITANE | 1 | 1 | 0 |
 | 490 | L.L.Bean Wicked Good slipper Moccasin | L.L.Bean | 1 | 1 | 0 |
+| 490 | L.L.Bean アクセス・キャンプ・チェア | L.L.Bean | 1 | 1 | 0 |
 | 490 | L.Y.F LAB キャリーカート | L.Y.F LAB | 1 | 1 | 0 |
 | 490 | LA ROCHE POSAY UVイデア XL プロテクショントーンアップ | LA ROCHE POSAY | 1 | 1 | 0 |
 | 490 | [LABRICO 2×4アジャスター DXO-1](https://www.amazon.co.jp/dp/B01HTRVZ0A) | LABRICO | 1 | 1 | 0 |
@@ -2644,6 +2646,8 @@
 | 490 | Raidlight DYNAMIC | Raidlight | 1 | 1 | 0 |
 | 490 | Rasical Desk Premium | RASICAL | 1 | 1 | 0 |
 | 490 | Raspberry Pi |  | 1 | 1 | 0 |
+| 490 | Ratelworks ネモス | Ratelworks | 1 | 1 | 0 |
+| 490 | Ratelworks ヴォーゲルMID | Ratelworks | 1 | 1 | 0 |
 | 490 | Ravensburger 街角のくるま ジグソーパズル | Ravensburger | 1 | 1 | 0 |
 | 490 | Ray-Ban Meta スマートグラス | Ray-Ban | 1 | 1 | 0 |
 | 490 | [Ray-Ban Meta スマートグラス Wayfarer](https://www.amazon.co.jp/dp/B0CGXYM9TP) | Ray-Ban | 1 | 1 | 0 |
@@ -2710,6 +2714,7 @@
 | 490 | SANEI 真空式パイプクリーナー PR870 | SANEI | 1 | 1 | 0 |
 | 490 | SANJAOYEE ダンボールカッター 雲カッター | SANJAOYEE | 1 | 1 | 0 |
 | 490 | SANTAL リペア オイルイン シャンプー | BOTANIST | 1 | 1 | 0 |
+| 490 | SAVE SHOCK Mountain Stop Cap | SAVE SHOCK | 1 | 1 | 0 |
 | 490 | SCEARN ウールカシミヤパンツ | SCEARN | 1 | 1 | 0 |
 | 490 | SCHOTT レザージャケット ジャーナルスタンダード別注 | SCHOTT | 1 | 1 | 0 |
 | 490 | SCOPE house towel ミニバス | SCOPE | 1 | 1 | 0 |
@@ -2780,6 +2785,7 @@
 | 490 | SMNutrition ビタミンB12配合PQQ | SMNutrition | 1 | 1 | 0 |
 | 490 | SO トロピカルウールスラックス | SO | 1 | 1 | 0 |
 | 490 | SOEJU ウールリバーロングコート | SOEJU | 1 | 1 | 0 |
+| 490 | SOLO UP ワンアクションタープ M-1424 | SOLO UP | 1 | 1 | 0 |
 | 490 | SONY BC-QZ1 | SONY | 1 | 1 | 0 |
 | 490 | SONY ECM-M1 | SONY | 1 | 1 | 0 |
 | 490 | SONY FE 20-70mm F4 G SEL2070G | SONY | 1 | 1 | 0 |
@@ -3482,6 +3488,7 @@
 | 490 | cancan CAPs | cancan | 1 | 1 | 0 |
 | 490 | carmate coneco DX900 | carmate | 1 | 1 | 0 |
 | 490 | casetify iPhoneケース | casetify | 1 | 1 | 0 |
+| 490 | charifuri CF02 | charifuri | 1 | 1 | 0 |
 | 490 | chulu（花瓶） | tukifune | 1 | 1 | 0 |
 | 490 | clef ビックストール | clef | 1 | 1 | 0 |
 | 490 | clipa クリッパ バッグハンガー | clipa | 1 | 1 | 0 |
@@ -3556,6 +3563,7 @@
 | 490 | hum HUMETE 'CLASSIC' PIERCED EARRINGS et-P96s | hum | 1 | 1 | 0 |
 | 490 | iClever BK06 | iClever | 1 | 1 | 0 |
 | 490 | iClever 折りたたみBluetoothキーボード IC-BK06 | iClever | 1 | 1 | 0 |
+| 490 | iClimb キャンプ回転チェア | iClimb | 1 | 1 | 0 |
 | 490 | iHerb Goods Bohtal スポーツボトル | iHerb Goods | 1 | 1 | 0 |
 | 490 | iHouse all 海外変換プラグ | iHouse | 1 | 1 | 0 |
 | 490 | iNSPiC |  | 1 | 1 | 0 |
@@ -5426,6 +5434,7 @@
 | 490 | ルンバ コンボ j7+ c755860 | アイロボット | 1 | 1 | 0 |
 | 490 | ルースト サーモタンブラー | Francfranc | 1 | 1 | 0 |
 | 490 | ルームピア シボエグゼブラシ | ルームピア | 1 | 1 | 0 |
+| 490 | [ルーメナー LEDランタン CLASSIC](https://www.amazon.co.jp/dp/B0BRZKW3YL) | ルーメナー | 1 | 1 | 0 |
 | 490 | レイクォール LMリング 50-75L | レイクォール | 1 | 1 | 0 |
 | 490 | [レイコップ PRO2 RS3-300JPWH](https://www.amazon.co.jp/dp/B0CJXRPZYW) | レイコップ | 1 | 1 | 0 |
 | 490 | レイコップ RS5 | レイコップ | 1 | 1 | 0 |
@@ -6983,5 +6992,7 @@
 - [【2025年版】エンジニア初学者が本気で選んだ！買ってよかったデスク周りガジェット5選【Amazonリンク付き】](https://note.com/human_quoll6139/n/nefe2d6b9fcbf)
 - [【オール1万円以下】2025年買ってよかったもの選手権](https://note.com/piharose/n/n750c877524cb)
 - [【2025年総まとめTop25】買ってよかったものランキング②「TOP10位」](https://note.com/4_5room/n/n192f1eb7ed51)
+- [プロ＆愛好家40人に聞いた「今年マジで買ってよかったモノ」【BEST BUY 2025】#2](https://camphack.nap-camp.com/12617)
+- [2025年キャンプを振り返る ～散財録の満足度編～](https://chibamboo9.com/2026/03/16/2025%E5%B9%B4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B-%EF%BD%9E%E6%95%A3%E8%B2%A1%E9%8C%B2%E3%81%AE%E6%BA%80%E8%B6%B3%E5%BA%A6%E7%B7%A8%EF%BD%9E/)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。

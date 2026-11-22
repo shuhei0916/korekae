@@ -470,6 +470,7 @@
 {"id": "asin:B0BQR8RZHB", "name": "フリクションボールノックゾーン LFBKZ-50EF-MNV", "asin": "B0BQR8RZHB", "brand": "Pilot", "category": "その他"}
 {"id": "asin:B0BR4RB4D7", "name": "STEADY フィットネスバイク", "asin": "B0BR4RB4D7", "brand": "STEADY", "category": "その他"}
 {"id": "asin:B0BRRKG51Y", "name": "Aputure Amaran100x-S", "asin": "B0BRRKG51Y", "brand": "Aputure", "category": "ガジェット"}
+{"id": "asin:B0BRZKW3YL", "name": "ルーメナー LEDランタン CLASSIC", "asin": "B0BRZKW3YL", "brand": "ルーメナー", "category": "アウトドア"}
 {"id": "asin:B0BSBD6PJ5", "name": "BLUE ICE スタッシュ 100405", "asin": "B0BSBD6PJ5", "brand": "BLUE ICE", "category": "その他"}
 {"id": "asin:B0BSKQ39JM", "name": "LC RACING BHC-1", "asin": "B0BSKQ39JM", "brand": "LC RACING", "category": "その他"}
 {"id": "asin:B0BSTM2N47", "name": "TOSHIBA CDラジオ TY-AN2", "asin": "B0BSTM2N47", "brand": "TOSHIBA", "category": "家電"}
@@ -1788,6 +1789,7 @@
 {"id": "name:chanelココクラッシュのネックレスとピアス", "name": "CHANEL ココクラッシュのネックレスとピアス", "brand": "CHANEL", "category": "ファッション"}
 {"id": "name:chanelネイルカラー", "name": "CHANEL ネイルカラー", "brand": "CHANEL", "category": "その他"}
 {"id": "name:chanelルルージュデュオウルトラトゥニュ", "name": "CHANEL ル ルージュ デュオ ウルトラ トゥニュ", "brand": "CHANEL", "category": "美容", "aliases": ["ル ルージュ デュオ ウルトラ トゥニュ"]}
+{"id": "name:charifuricf02", "name": "charifuri CF02", "brand": "charifuri", "category": "その他"}
 {"id": "name:charleskeithミニライラチューブラートートバッグ", "name": "ミニライラ チューブラートートバッグ", "brand": "CHARLES & KEITH", "category": "ファッション"}
 {"id": "name:charmantメガネ拭きクリーニングクロスlc226", "name": "CHARMANT メガネ拭き クリーニングクロス LC226", "brand": "CHARMANT", "category": "生活用品"}
 {"id": "name:chemexコーヒーメーカーcm1c", "name": "Chemex コーヒーメーカー CM-1C", "brand": "Chemex", "category": "生活用品"}
@@ -2027,6 +2029,7 @@
 {"id": "name:emme6重ガーゼケット", "name": "EMME 6重ガーゼケット", "brand": "EMME", "category": "生活用品"}
 {"id": "name:emmimizunoスニーカー", "name": "emmi MIZUNO スニーカー", "brand": "MIZUNO", "category": "ファッション"}
 {"id": "name:emmiキャミソールロングワンピース", "name": "emmi キャミソール ロングワンピース", "brand": "emmi", "category": "ファッション"}
+{"id": "name:engineeredgarmentsfieldvest", "name": "ENGINEERED GARMENTS Field Vest", "brand": "ENGINEERED GARMENTS", "category": "ファッション"}
 {"id": "name:enzymedicadigestbasic", "name": "Enzymedica Digest Basic", "brand": "Enzymedica", "category": "食品"}
 {"id": "name:epomakermixコイルケーブル", "name": "EPOMAKER MIX コイルケーブル", "brand": "EPOMAKER", "category": "ガジェット"}
 {"id": "name:epomakerp65", "name": "EPOMAKER P65", "brand": "EPOMAKER", "category": "ガジェット"}
@@ -2353,6 +2356,7 @@
 {"id": "name:icepardal水泳グッズラッシュガードサーフパンツ", "name": "ICEPARDAL 水泳グッズ（ラッシュガード・サーフパンツ）", "brand": "ICEPARDAL", "category": "ファッション"}
 {"id": "name:icleverbk06", "name": "iClever BK06", "brand": "iClever", "category": "ガジェット"}
 {"id": "name:iclever折りたたみbluetoothキーボードicbk06", "name": "iClever 折りたたみBluetoothキーボード IC-BK06", "brand": "iClever", "category": "ガジェット"}
+{"id": "name:iclimbキャンプ回転チェア", "name": "iClimb キャンプ回転チェア", "brand": "iClimb", "category": "アウトドア"}
 {"id": "name:idcoolingfrozna620prose", "name": "ID-COOLING FROZN A620 PRO SE", "brand": "ID-COOLING", "category": "ガジェット"}
 {"id": "name:ideacomouthwashbottle", "name": "ideaco MOUTH WASH BOTTLE", "brand": "ideaco", "category": "生活用品"}
 {"id": "name:ifootagecobra2rba400", "name": "IFOOTAGE COBRA 2 RB-A400", "brand": "IFOOTAGE", "category": "ガジェット"}
@@ -2689,6 +2693,7 @@
 {"id": "name:lixilohealock", "name": "Ohea Lock", "brand": "LIXIL", "category": "ガジェット"}
 {"id": "name:lixilシエラ", "name": "LIXIL シエラ", "brand": "LIXIL", "category": "生活用品"}
 {"id": "name:llbeanwickedgoodslippermoccasin", "name": "L.L.Bean Wicked Good slipper Moccasin", "brand": "L.L.Bean", "category": "ファッション"}
+{"id": "name:llbeanアクセスキャンプチェア", "name": "L.L.Bean アクセス・キャンプ・チェア", "brand": "L.L.Bean", "category": "アウトドア"}
 {"id": "name:loccitaneシアリッチボディクリーム", "name": "L'OCCITANE シア リッチボディクリーム", "brand": "L'OCCITANE", "category": "生活用品"}
 {"id": "name:loeffギャバジンバギーパンツ", "name": "LOEFF ギャバジン バギー パンツ", "brand": "LOEFF", "category": "ファッション"}
 {"id": "name:loeffスリットネックベスト", "name": "LOEFF スリットネックベスト", "brand": "LOEFF", "category": "ファッション"}
@@ -3355,6 +3360,8 @@
 {"id": "name:rapidfireketocoffee", "name": "RAPIDFIRE Keto Coffee", "brand": "RAPIDFIRE", "category": "食品"}
 {"id": "name:rasicaldeskpremium", "name": "Rasical Desk Premium", "brand": "RASICAL", "category": "生活用品"}
 {"id": "name:raspberrypi", "name": "Raspberry Pi", "category": "ガジェット"}
+{"id": "name:ratelworksネモス", "name": "Ratelworks ネモス", "brand": "Ratelworks", "category": "アウトドア"}
+{"id": "name:ratelworksヴォーゲルmid", "name": "Ratelworks ヴォーゲルMID", "brand": "Ratelworks", "category": "アウトドア"}
 {"id": "name:ravensburger街角のくるまジグソーパズル", "name": "Ravensburger 街角のくるま ジグソーパズル", "brand": "Ravensburger", "category": "その他"}
 {"id": "name:rawrowキャリーケース", "name": "RAWROW キャリーケース", "brand": "RAWROW", "category": "生活用品"}
 {"id": "name:raybanmetaスマートグラス", "name": "Ray-Ban Meta スマートグラス", "brand": "Ray-Ban", "category": "ガジェット"}
@@ -3495,6 +3502,7 @@
 {"id": "name:sarrraiリング", "name": "sarr.rai リング", "brand": "sarr.rai", "category": "ファッション"}
 {"id": "name:satechimacminiスタンドハブ", "name": "Mac mini スタンドハブ", "brand": "Satechi", "category": "ガジェット"}
 {"id": "name:satisfactory", "name": "Satisfactory", "category": "ゲーム"}
+{"id": "name:saveshockmountainstopcap", "name": "SAVE SHOCK Mountain Stop Cap", "brand": "SAVE SHOCK", "category": "ファッション"}
 {"id": "name:scansnapix110", "name": "ScanSnap iX110", "category": "ガジェット"}
 {"id": "name:scansnapix2500", "name": "ScanSnap iX2500", "category": "ガジェット"}
 {"id": "name:scearnウールカシミヤパンツ", "name": "SCEARN ウールカシミヤパンツ", "brand": "SCEARN", "category": "ファッション"}
@@ -3601,6 +3609,7 @@
 {"id": "name:sodastream炭酸水メーカー", "name": "sodastream 炭酸水メーカー", "brand": "SodaStream", "category": "家電"}
 {"id": "name:soejuウールリバーロングコート", "name": "SOEJU ウールリバーロングコート", "brand": "SOEJU", "category": "ファッション"}
 {"id": "name:sofinaipソフィーナipゴールデンタイムリペア深夜浸透クリーム", "name": "ソフィーナiP ゴールデンタイムリペア 深夜浸透クリーム", "brand": "SOFINA iP", "category": "美容"}
+{"id": "name:soloupワンアクションタープm1424", "name": "SOLO UP ワンアクションタープ M-1424", "brand": "SOLO UP", "category": "アウトドア"}
 {"id": "name:sonybcqz1", "name": "SONY BC-QZ1", "brand": "SONY", "category": "ガジェット"}
 {"id": "name:sonybravia8k65xr80", "name": "Sony BRAVIA 8 K-65XR80", "brand": "Sony", "category": "家電"}
 {"id": "name:sonydualsenseワイヤレスコントローラーcfizct1j12", "name": "Sony DualSense ワイヤレスコントローラー CFI-ZCT1J12", "brand": "Sony", "category": "ゲーム"}
