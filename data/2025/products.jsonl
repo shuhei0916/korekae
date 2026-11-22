@@ -1492,7 +1492,7 @@
 {"id": "name:apple11インチipadairm3", "name": "Apple 11インチ iPad Air (M3)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods", "name": "Apple AirPods", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods4", "name": "Apple AirPods 4", "brand": "Apple", "category": "ガジェット"}
-{"id": "name:appleairpodspro2", "name": "Apple AirPods Pro2", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:appleairpodspro2", "name": "Apple AirPods Pro2", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple AirPods Pro 2"]}
 {"id": "name:appleairpodspro2usbc", "name": "Apple AirPods Pro 2 USB-C", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpodspro3rdgeneration", "name": "AirPods Pro (3rd Generation)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpodspro3usbc", "name": "Apple AirPods Pro 3 (USB-C)", "brand": "Apple", "category": "ガジェット"}
@@ -2065,6 +2065,7 @@
 {"id": "name:driesvannotenプリントシャツ古着", "name": "プリントシャツ（古着）", "brand": "DRIES VAN NOTEN", "category": "ファッション"}
 {"id": "name:drkcコントロールリペアセラム", "name": "Dr.K Cコントロール リペアセラム", "brand": "Dr.K", "category": "生活用品"}
 {"id": "name:drmartin厚底ブーツ", "name": "Dr. Martin 厚底ブーツ", "brand": "Dr. Martin", "category": "ファッション"}
+{"id": "name:dropouttvsubscription", "name": "Dropout.tv subscription", "brand": "Dropout", "category": "その他"}
 {"id": "name:drowsysleepmask", "name": "Drowsy Sleep Mask", "brand": "Drowsy", "category": "生活用品"}
 {"id": "name:drpepperダイエットドクターペッパー", "name": "Dr Pepper ダイエットドクターペッパー", "brand": "Dr Pepper", "category": "食品"}
 {"id": "name:drumohrウールミドルゲージプルオーバーニットパーカー", "name": "Drumohr ウールミドルゲージ プルオーバーニットパーカー", "brand": "Drumohr", "category": "ファッション"}
@@ -2201,6 +2202,7 @@
 {"id": "name:feilerchacottホリデーハンカチ", "name": "FEILER×CHACOTT ホリデーハンカチ", "brand": "FEILER", "category": "ファッション"}
 {"id": "name:feilerforunitedarrowsハンカチ", "name": "FEILER for UNITED ARROWS ハンカチ", "brand": "FEILER for UNITED ARROWS", "category": "ファッション"}
 {"id": "name:femmentstudiousstretchbarrellegpants", "name": "FEMMENT×STUDIOUS stretch barrel leg pants", "brand": "FEMMENT", "category": "ファッション"}
+{"id": "name:fendermustangvinteraiicompetitionbass", "name": "Fender Mustang Vintera II Competition Bass", "brand": "Fender", "category": "その他"}
 {"id": "name:feticostudious別注rosedenimpants", "name": "FETICO×STUDIOUS 別注 ROSE DENIM PANTS", "brand": "FETICO", "category": "ファッション"}
 {"id": "name:feticoハーネス", "name": "fetico ハーネス", "brand": "fetico", "category": "ファッション"}
 {"id": "name:fffumpcfffpcm2b", "name": "FFF UMPC FFF-PCM2B", "brand": "FFF", "category": "ガジェット"}
@@ -2254,11 +2256,12 @@
 {"id": "name:fstyleロンドキャットマット", "name": "F/style ロンド・キャットマット", "brand": "F/style", "category": "生活用品"}
 {"id": "name:fujifilmgfx50sii", "name": "FUJIFILM GFX50S II", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "name:fujifilminstaxminievo", "name": "Fujifilm Instax Mini Evo", "brand": "Fujifilm", "category": "ガジェット"}
-{"id": "name:fujifilmxe5", "name": "FUJIFILM X-E5", "brand": "FUJIFILM", "category": "ガジェット"}
+{"id": "name:fujifilmxe5", "name": "FUJIFILM X-E5", "brand": "FUJIFILM", "category": "ガジェット", "aliases": ["Fujifilm X-E5"]}
 {"id": "name:fujifilmxhalfxhf1", "name": "FUJIFILM X-half X-HF1", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "name:fujifilmxs10", "name": "FUJIFILM X-S10", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "name:fujifilmxt30iii", "name": "FUJIFILM X-T30 III", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "name:fujifilmxt4", "name": "FUJIFILM X-T4", "brand": "FUJIFILM", "category": "ガジェット"}
+{"id": "name:fujifilmxt50", "name": "Fujifilm X-T50", "brand": "Fujifilm", "category": "ガジェット"}
 {"id": "name:fujikoあぶらとりウォーターパウダーneo", "name": "Fujiko あぶらとりウォーターパウダーNeo", "brand": "Fujiko", "category": "生活用品"}
 {"id": "name:fulngお風呂排水口ゴミ受け", "name": "FULNG お風呂排水口ゴミ受け", "brand": "FULNG", "category": "生活用品"}
 {"id": "name:fulng洗面台排水口ゴミ受け", "name": "FULNG 洗面台排水口ゴミ受け", "brand": "FULNG", "category": "生活用品"}
@@ -2271,6 +2274,7 @@
 {"id": "name:galupパネットーネ", "name": "GALUP パネットーネ", "brand": "GALUP", "category": "食品"}
 {"id": "name:galvanフライリール", "name": "GALVAN フライリール", "brand": "GALVAN", "category": "その他"}
 {"id": "name:gamesirg7pro", "name": "Gamesir G7 PRO", "brand": "Gamesir", "category": "ガジェット"}
+{"id": "name:gamesirg8plus", "name": "GameSir G8 Plus", "brand": "GameSir", "category": "ガジェット"}
 {"id": "name:gapeasypant", "name": "Easy Pant", "brand": "GAP", "category": "ファッション"}
 {"id": "name:gapfauxfurjacket", "name": "Faux Fur Jacket", "brand": "GAP", "category": "ファッション"}
 {"id": "name:gapminiriblacetrimpjbottom", "name": "Mini Rib Lace-Trim PJ Bottom", "brand": "GAP", "category": "ファッション"}
@@ -2394,6 +2398,7 @@
 {"id": "name:harmieyスリーピンフック", "name": "HARMIEY スリーピンフック", "brand": "HARMIEY", "category": "生活用品"}
 {"id": "name:hasselbladフォトグラフィーキット", "name": "Hasselblad フォトグラフィーキット", "brand": "Hasselblad", "category": "ガジェット"}
 {"id": "name:hatchalarmclock", "name": "Hatch Alarm Clock", "brand": "Hatch", "category": "家電"}
+{"id": "name:hatteraslargequiltedhammockwithtribeammetalstand", "name": "Hatteras Large Quilted Hammock with TRI-BEAM Metal Stand", "brand": "Hatteras", "category": "アウトドア"}
 {"id": "name:hauslabsfoundation", "name": "Haus Labs foundation", "brand": "Haus Labs", "category": "生活用品"}
 {"id": "name:hayバスローブ", "name": "HAY バスローブ", "brand": "HAY", "category": "生活用品"}
 {"id": "name:heavenmayhemminiknotearrings", "name": "Heaven Mayhem Mini Knot Earrings", "brand": "Heaven Mayhem", "category": "ファッション"}
@@ -3033,6 +3038,7 @@
 {"id": "name:matsukiyoうるおい泡洗顔フォーム", "name": "matsukiyo うるおい泡洗顔フォーム", "brand": "matsukiyo", "category": "生活用品"}
 {"id": "name:maudeandmaypoppypouch", "name": "Poppy Pouch", "brand": "Maude and May", "category": "生活用品"}
 {"id": "name:maybellineフィットミーリキッドファンデーション", "name": "MAYBELLINE フィットミー リキッド ファンデーション", "brand": "MAYBELLINE", "category": "生活用品"}
+{"id": "name:mayflashf700elite", "name": "Mayflash F700 Elite", "brand": "Mayflash", "category": "ガジェット"}
 {"id": "name:mazamadesignsmgobottle", "name": "Mazama Designs M!GO Bottle", "brand": "Mazama Designs", "category": "生活用品"}
 {"id": "name:mazdacx30", "name": "MAZDA CX-30", "brand": "MAZDA", "category": "その他"}
 {"id": "name:mcdodo67wpd充電器", "name": "67W PD充電器", "brand": "Mcdodo", "category": "ガジェット"}
@@ -3085,6 +3091,7 @@
 {"id": "name:minmakuみんまくキッズみんなのまくら", "name": "minmaku みんまくキッズ みんなのまくら", "brand": "minmaku", "category": "生活用品"}
 {"id": "name:minumぷにゅグリアイライナー", "name": "minum ぷにゅグリアイライナー", "brand": "minum", "category": "その他"}
 {"id": "name:minäperhonenalwaysバルーンワイドデニム", "name": "minä perhonen always バルーンワイドデニム", "brand": "minä perhonen", "category": "ファッション"}
+{"id": "name:mirov99powerbank", "name": "Miro V99 Power Bank", "brand": "Miro", "category": "ガジェット"}
 {"id": "name:mitsubishi冷蔵庫mrwz61mh", "name": "MITSUBISHI 冷蔵庫 MR-WZ61M-H", "brand": "MITSUBISHI", "category": "家電"}
 {"id": "name:mittan亜麻苧麻ワイドパンツpt92", "name": "MITTAN 亜麻苧麻ワイドパンツ PT-92", "brand": "MITTAN", "category": "ファッション"}
 {"id": "name:miumiuカプリスレザークラッチバッグ", "name": "MIU MIU カプリスレザー クラッチバッグ", "brand": "MIU MIU", "category": "ファッション"}
@@ -3424,6 +3431,7 @@
 {"id": "name:ourplacepotsandpans13piececookwareset", "name": "Our Place Pots and Pans 13 Piece Cookware Set", "brand": "Our Place", "category": "生活用品"}
 {"id": "name:ousa一粒パールピアス", "name": "Ousa 一粒パールピアス", "brand": "Ousa", "category": "ファッション"}
 {"id": "name:outdoorproducts2wayヒップシート", "name": "2WAYヒップシート", "brand": "OUTDOOR PRODUCTS", "category": "生活用品"}
+{"id": "name:outinnanoportableelectricespressomachine", "name": "OutIn Nano Portable Electric Espresso Machine", "brand": "OutIn", "category": "家電"}
 {"id": "name:overcookedオーバークック王国のフルコース", "name": "Overcooked! オーバークック 王国のフルコース", "category": "ゲーム"}
 {"id": "name:owalafreesipswaystainlesswaterbottle", "name": "FreeSip Sway Stainless Water Bottle", "brand": "Owala", "category": "生活用品"}
 {"id": "name:owcthunderbolt5hub", "name": "OWC Thunderbolt 5 Hub", "brand": "OWC", "category": "ガジェット"}
@@ -3734,6 +3742,7 @@
 {"id": "name:rotringexecutivegraphite", "name": "rotring executive graphite", "brand": "rotring", "category": "生活用品"}
 {"id": "name:rouncbdスポーツバーム", "name": "roun CBDスポーツバーム", "brand": "roun", "category": "生活用品"}
 {"id": "name:rouncbdモイスチャーバーム", "name": "roun CBDモイスチャーバーム", "brand": "roun", "category": "生活用品"}
+{"id": "name:rover24kdual", "name": "Rove R2-4K Dual", "brand": "Rove", "category": "ガジェット"}
 {"id": "name:royalchaipremiuminstanttea", "name": "Premium Instant Tea", "brand": "Royal Chai", "category": "食品"}
 {"id": "name:rrlオフィサーズチノ", "name": "RRL オフィサーズチノ", "brand": "RRL", "category": "ファッション"}
 {"id": "name:rrlデニムジャケット", "name": "RRL デニムジャケット", "brand": "RRL", "category": "ファッション"}
@@ -3826,6 +3835,7 @@
 {"id": "name:sharge格納式3in1コンセント一体型モバイルバッテリー", "name": "格納式3in1 コンセント一体型モバイルバッテリー", "brand": "sharge", "category": "ガジェット", "aliases": ["SHARGE 格納式 3-in-1 コンセント一体型モバイルバッテリー"]}
 {"id": "name:sharkevopowerdxwv517j", "name": "Shark EVOPOWER DX WV517J", "brand": "Shark", "category": "家電"}
 {"id": "name:sharkevopowersystemneoiilc400jwh", "name": "Shark EVOPOWER SYSTEM NEOII LC400JWH", "brand": "Shark", "category": "家電"}
+{"id": "name:sharksteamscrubmop", "name": "Shark Steam & Scrub Mop", "brand": "Shark", "category": "家電"}
 {"id": "name:sharkハンディクリーナー", "name": "Shark ハンディクリーナー", "brand": "Shark", "category": "家電"}
 {"id": "name:sharpaquossense10", "name": "SHARP AQUOS sense10", "brand": "SHARP", "category": "ガジェット", "aliases": ["AQUOS sense10"]}
 {"id": "name:sharpaquossense9", "name": "SHARP AQUOS sense9", "brand": "SHARP", "category": "ガジェット"}
@@ -3908,6 +3918,7 @@
 {"id": "name:softservicescareacream", "name": "Carea Cream", "brand": "Soft Services", "category": "その他"}
 {"id": "name:softserviceshandcream", "name": "Hand Cream", "brand": "Soft Services", "category": "その他"}
 {"id": "name:softservicestheraplushovernightrepairtreatment", "name": "Theraplush Overnight Repair Treatment", "brand": "Soft Services", "category": "その他"}
+{"id": "name:solostovebonfiresurroundbundle", "name": "Solo Stove Bonfire + Surround bundle", "brand": "Solo Stove", "category": "アウトドア"}
 {"id": "name:soloupワンアクションタープm1424", "name": "SOLO UP ワンアクションタープ M-1424", "brand": "SOLO UP", "category": "アウトドア"}
 {"id": "name:soltigingersupershots", "name": "Ginger SuperShots", "brand": "Sol-ti", "category": "食品"}
 {"id": "name:sonybcqz1", "name": "SONY BC-QZ1", "brand": "SONY", "category": "ガジェット"}
@@ -3921,6 +3932,7 @@
 {"id": "name:sonymcプロテクターvf72mpam", "name": "SONY MCプロテクター VF-72MPAM", "brand": "SONY", "category": "ガジェット"}
 {"id": "name:sonymdrzx110", "name": "SONY MDR-ZX110", "brand": "SONY", "category": "ガジェット"}
 {"id": "name:sonynpfz100", "name": "SONY NP-FZ100", "brand": "SONY", "category": "ガジェット"}
+{"id": "name:sonyplaystation530thanniversarydualsensewirelesscontroller", "name": "PlayStation 5 30th Anniversary DualSense Wireless Controller", "brand": "Sony", "category": "ガジェット"}
 {"id": "name:sonyplaystation5procfi7000b01", "name": "SONY PlayStation 5 Pro CFI-7000B01", "brand": "SONY", "category": "ゲーム"}
 {"id": "name:sonyplaystation5デジタルエディション日本語専用", "name": "SONY PlayStation 5 デジタル・エディション 日本語専用", "brand": "SONY", "category": "ゲーム"}
 {"id": "name:sonyplaystationportal", "name": "PlayStation Portal", "brand": "Sony", "category": "ゲーム"}
@@ -4330,6 +4342,7 @@
 {"id": "name:victoriabeckhambeautyreflecthighlighterstick", "name": "Victoria Beckham Beauty Reflect Highlighter Stick", "brand": "Victoria Beckham Beauty", "category": "その他"}
 {"id": "name:victorinoxピクニックナイフ", "name": "VICTORINOX ピクニックナイフ", "brand": "VICTORINOX", "category": "生活用品"}
 {"id": "name:victorイヤーカフ型ワイヤレスイヤホンhanp1t", "name": "Victor イヤーカフ型ワイヤレスイヤホン HA-NP1T", "brand": "Victor", "category": "ガジェット"}
+{"id": "name:vikipassplus", "name": "Viki Pass Plus", "brand": "Viki", "category": "その他"}
 {"id": "name:viktorrolfflowerbomb", "name": "Flowerbomb", "brand": "Viktor & Rolf", "category": "その他"}
 {"id": "name:viltroxaf28mmf45fe", "name": "Viltrox AF 28mm f4.5 FE", "brand": "Viltrox", "category": "ガジェット"}
 {"id": "name:vincesutterbooties", "name": "Vince Sutter Booties", "brand": "Vince", "category": "ファッション"}
@@ -4342,6 +4355,7 @@
 {"id": "name:viviennewestwoodアーマームートンジャケット", "name": "Vivienne Westwood アーマームートンジャケット", "brand": "Vivienne Westwood", "category": "ファッション"}
 {"id": "name:vivobarefootprimuslite35", "name": "Vivobarefoot PRIMUS LITE 3.5", "brand": "Vivobarefoot", "category": "ファッション"}
 {"id": "name:vivobarefootプライマストレイルfg35", "name": "Vivobarefoot プライマストレイル FG 3.5", "brand": "Vivobarefoot", "category": "ファッション"}
+{"id": "name:vnilrglewirelesscarplayadapterforappleiphone2025upgrade", "name": "vnilrgle Wireless CarPlay Adapter for Apple iPhone (2025 Upgrade)", "brand": "vnilrgle", "category": "ガジェット"}
 {"id": "name:voltrx電動シェイカー", "name": "VOLTRX 電動シェイカー", "brand": "VOLTRX", "category": "生活用品"}
 {"id": "name:vrigmg03", "name": "VRIG MG-03", "brand": "VRIG", "category": "ガジェット"}
 {"id": "name:vrtxbandマルチバンド", "name": "VRTX BAND マルチバンド", "brand": "VRTX", "category": "その他"}
