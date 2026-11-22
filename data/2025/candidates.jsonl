@@ -753,7 +753,7 @@
 {"url": "https://fnmt.hatenablog.jp/entry/2025/12/27/160000", "title": "2025年買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "hatena-fnmt-4e667f19"}
 {"url": "https://ameblo.jp/pega7878/entry-12950867904.html", "title": "2025年買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "ameblo-1d9e7c38"}
 {"url": "https://ameblo.jp/kizoo/entry-12951480984.html", "title": "2025年買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "ameblo-05aed863"}
-{"url": "https://ameblo.jp/sweet-flowertown/entry-12950221234.html", "title": "2025年買ってよかったもの", "found_via": "search", "status": "todo"}
+{"url": "https://ameblo.jp/sweet-flowertown/entry-12950221234.html", "title": "2025年買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "ameblo-7f2f6385"}
 {"url": "https://ameblo.jp/hato2019/entry-12951805891.html", "title": "2025年買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "ameblo-078af950"}
 {"url": "https://note.com/ryokachaaan/n/n42d3bf333d05", "title": "引きこもり文筆家の2025年買って良かったもの", "found_via": "search", "status": "extracted", "source_id": "note-ryokachaaan-11d46dab"}
 {"url": "https://note.com/912gbf/n/n31e5ec53205f", "title": "【2025年】Amazonで散財して本当によかったものベスト10", "found_via": "search", "status": "skipped", "reason": "PR記事（#PR タグが付いており、本文もAmazonアソシエイトによる広告記事と明記）"}
@@ -792,3 +792,18 @@
 {"url": "https://note.com/sawatashi_a/n/nae3f00e4bdd1", "title": "2025買ってよかったものリスト", "found_via": "search", "status": "extracted", "source_id": "note-sawatashi_a-69ebc81d"}
 {"url": "https://note.com/konkichidays/n/nf640252fa1a4", "title": "2025年買ってよかったもの服飾雑貨 5選", "found_via": "search", "status": "extracted", "source_id": "note-konkichidays-827eb3a5"}
 {"url": "https://note.com/chitoku_soul/n/n82e78d1c7e83", "title": "【2025年Amazonブラックフライデー】実際に買って本当に良かった神アイテムまとめ", "found_via": "search", "status": "extracted", "source_id": "note-chitoku_soul-7b1e22e7"}
+{"url": "https://sasazame.hateblo.jp/entry/2025/12/19/184021", "title": "2025年に買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "hatena-sasazame-da2de2bd"}
+{"url": "https://cortyuming.hateblo.jp/entry/2025/12/28/170433", "title": "2025年のまとめ：今年の買って良かったものなど", "found_via": "search", "status": "extracted", "source_id": "hatena-cortyuming-c18e39c7"}
+{"url": "https://cinchei.hateblo.jp/entry/2025/12/05/221143", "title": "2025年、買ってよかった「オーディオ機材」ベスト5", "found_via": "search", "status": "extracted", "source_id": "hatena-cinchei-390e5f46"}
+{"url": "https://web.kaipoke.jp/magazines/104", "title": "2025年に編集部員が買ってよかったベストバイ8選", "found_via": "search", "status": "extracted", "source_id": "web-4c5550b1"}
+{"url": "https://yoriyoi.net/good-stuff-2025/", "title": "【2025年】買ってよかったもの・使って良かったもの", "found_via": "search", "status": "skipped", "reason": "PR表記あり（記事冒頭に「PR」ラベルがありアフィリエイト広告を含む記事のため）"}
+{"url": "https://www.dalahast.jp/goods-ranking-for-2025/", "title": "2025年買って試してみて良かったモノ・サービス大賞", "found_via": "search", "status": "extracted", "source_id": "dalahast-abd1e3be"}
+{"url": "https://minimalist-sora.com/best-buy-second-half-of-2025/", "title": "【2025年下半期】ミニマリストが買ってよかったものランキング", "found_via": "search", "status": "extracted", "source_id": "minimalist-sora-77aff34e"}
+{"url": "https://1g1e.jp/best-buy/", "title": "【年間BEST BUY】本当に買って良かったモノ（2025）", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
+{"url": "https://cotonohablog.com/best-buy-2025/", "title": "2025年、デスク周りと暮らしを豊かにするベストバイ10選", "found_via": "search", "status": "extracted", "source_id": "cotonohablog-a2f10c16"}
+{"url": "https://gachaoblog.com/2025-second-half-best-but/", "title": "【2025年下半期】買ってよかたモノ", "found_via": "search", "status": "extracted", "source_id": "gachaoblog-bbd26bd2"}
+{"url": "https://touka-note.com/best-buy%EF%BD%B02025/", "title": "【2025年】買ってよかったものベスト5", "found_via": "search", "status": "extracted", "source_id": "touka-note-5d7c14bd"}
+{"url": "https://mori-k3.blog/bestbuy-in-2025/", "title": "【散財記録】2025年 在宅フリーランス筆者が買ってよかったもの", "found_via": "search", "status": "skipped", "reason": "記事見出し直下に「PR」表示があるPR記事のため、買ってよかったものの記事として扱わない。"}
+{"url": "https://jimmy-blog.com/gadget/9541/", "title": "2025年下半期に買ってよかったモノ全部レビュー", "found_via": "search", "status": "extracted", "source_id": "jimmy-blog-61132f58"}
+{"url": "https://skyblue-next.com/archives/5732", "title": "2025年のベストバイ、買って良かったガジェット【5選】", "found_via": "search", "status": "extracted", "source_id": "skyblue-next-73acd775"}
+{"url": "https://note.com/amahanesan/n/ncae08d4ad102", "title": "【2025年最新】買ってよかったコントローラー5選", "found_via": "search", "status": "todo"}
