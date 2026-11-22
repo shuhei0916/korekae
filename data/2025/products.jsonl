@@ -207,6 +207,7 @@
 {"id": "asin:B082TXR61K", "name": "HHKB Professional HYBRID キーボード", "asin": "B082TXR61K", "brand": "HHKB", "category": "ガジェット"}
 {"id": "asin:B083111ZX6", "name": "エリエール キレキラ！トイレクリーナー 1枚で徹底おそうじシート", "asin": "B083111ZX6", "brand": "エリエール", "category": "生活用品"}
 {"id": "asin:B08318T22F", "name": "LOE 覗き見防止フィルター", "asin": "B08318T22F", "brand": "LOE", "category": "ガジェット"}
+{"id": "asin:B083LWQHM8", "name": "キュレル ディープモイスチャースプレー", "asin": "B083LWQHM8", "brand": "キュレル", "category": "美容"}
 {"id": "asin:B083NTFFP7", "name": "山崎実業 スリム ツーウェイ 水切り ワイヤーバスケット 5068", "asin": "B083NTFFP7", "brand": "山崎実業", "category": "生活用品"}
 {"id": "asin:B083PPG795", "name": "UGREEN USB-C ケーブル L字 100W", "asin": "B083PPG795", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "asin:B083V81C25", "name": "セザンヌ パールグロウハイライト", "asin": "B083V81C25", "brand": "セザンヌ", "category": "生活用品"}
@@ -425,6 +426,7 @@
 {"id": "asin:B0BHYSMZJS", "name": "KING JIM マスキングテープ ソーダ スイミング CMTD20-004", "asin": "B0BHYSMZJS", "brand": "KING JIM", "category": "生活用品"}
 {"id": "asin:B0BJ1G5KPB", "name": "WEIMALL ランドリーバスケット 3段 スリム", "asin": "B0BJ1G5KPB", "brand": "WEIMALL", "category": "生活用品"}
 {"id": "asin:B0BJD4YRD1", "name": "ギガバリア 強力撥防水スプレー", "asin": "B0BJD4YRD1", "brand": "ギガバリア", "category": "生活用品"}
+{"id": "asin:B0BJL8SJ59", "name": "Elgato Stream Deck +", "asin": "B0BJL8SJ59", "brand": "Elgato", "category": "ガジェット", "aliases": ["Elgato Stream Deck"]}
 {"id": "asin:B0BKGQ4XF1", "name": "FUJIFILM X-T5", "asin": "B0BKGQ4XF1", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "asin:B0BKPT79W1", "name": "POWBRACE 首サポーター", "asin": "B0BKPT79W1", "brand": "POWBRACE", "category": "生活用品"}
 {"id": "asin:B0BKYWX36T", "name": "MERRELL コールドパック 3 サーモ ミッド ジップ ウオータープルーフ", "asin": "B0BKYWX36T", "brand": "MERRELL", "category": "ファッション"}
@@ -529,7 +531,7 @@
 {"id": "asin:B0CDWJCJ3W", "name": "Divoom Times Gate 5Way デジクロック", "asin": "B0CDWJCJ3W", "brand": "Divoom", "category": "ガジェット"}
 {"id": "asin:B0CFDN1G64", "name": "Treedix USBケーブルチェッカー", "asin": "B0CFDN1G64", "brand": "Treedix", "category": "ガジェット"}
 {"id": "asin:B0CFPHTMDX", "name": "Kindle Paperwhite シグニチャーエディション", "asin": "B0CFPHTMDX", "brand": "Amazon", "category": "ガジェット", "aliases": ["Amazon Kindle Paperwhite シグニチャーエディション"]}
-{"id": "asin:B0CFPL6CFY", "name": "Kindle Paperwhite (16GB)", "asin": "B0CFPL6CFY", "brand": "Amazon", "category": "ガジェット", "aliases": ["Amazon Kindle Paperwhite 2024年モデル"]}
+{"id": "asin:B0CFPL6CFY", "name": "Amazon Kindle Paperwhite", "asin": "B0CFPL6CFY", "brand": "Amazon", "category": "ガジェット", "aliases": ["Amazon Kindle Paperwhite 2024年モデル", "Kindle Paperwhite (16GB)"]}
 {"id": "asin:B0CFYBTD72", "name": "Bose QuietComfort Ultra Headphones", "asin": "B0CFYBTD72", "brand": "Bose", "category": "ガジェット"}
 {"id": "asin:B0CFZX3HGW", "name": "DJI Mic 2 トランスミッター", "asin": "B0CFZX3HGW", "brand": "DJI", "category": "ガジェット"}
 {"id": "asin:B0CG19FGQ5", "name": "DJI Osmo Pocket 3", "asin": "B0CG19FGQ5", "brand": "DJI", "category": "ガジェット"}
@@ -721,6 +723,7 @@
 {"id": "asin:B0D89XQ39W", "name": "TP-Link SIMフリー ホームルーター Archer MR600/A", "asin": "B0D89XQ39W", "brand": "TP-Link", "category": "ガジェット"}
 {"id": "asin:B0D8HLJPH5", "name": "無印良品 縦にも横にも連結できる再生ポリプロピレン入り平台車 84356667", "asin": "B0D8HLJPH5", "brand": "無印良品", "category": "生活用品"}
 {"id": "asin:B0D8KJ4PVQ", "name": "シャープ 衣類乾燥 除湿加湿空気清浄機 KI-SD50", "asin": "B0D8KJ4PVQ", "brand": "シャープ", "category": "家電"}
+{"id": "asin:B0D8S1G53W", "name": "Anker MagGo Wireless Charger (Stand)", "asin": "B0D8S1G53W", "brand": "Anker", "category": "ガジェット", "aliases": ["Anker MagGo Wireless Charger Stand"]}
 {"id": "asin:B0D8S4J1SZ", "name": "MUQQU 引き出しロック", "asin": "B0D8S4J1SZ", "brand": "MUQQU", "category": "生活用品"}
 {"id": "asin:B0D93L2WST", "name": "Hanes T-SHIRTS KURO", "asin": "B0D93L2WST", "brand": "Hanes", "category": "ファッション"}
 {"id": "asin:B0D93NFXVL", "name": "Edifier M60", "asin": "B0D93NFXVL", "brand": "Edifier", "category": "ガジェット", "aliases": ["Edifier M60 マルチメディアスピーカー"]}
@@ -951,6 +954,7 @@
 {"id": "asin:B0DWX7Y89L", "name": "磁気研究所 180°回転コネクタ直挿し モバイルバッテリー HD4-MBTCD20W", "asin": "B0DWX7Y89L", "brand": "HIDISC", "category": "ガジェット"}
 {"id": "asin:B0DWZWJ272", "name": "東洋アルミ フィルたん ホコリとりフィルター S5455", "asin": "B0DWZWJ272", "brand": "東洋アルミ", "category": "生活用品"}
 {"id": "asin:B0DX186YRM", "name": "Samsung Galaxy S25 SM-S931QDBESJP", "asin": "B0DX186YRM", "brand": "Samsung", "category": "ガジェット"}
+{"id": "asin:B0DX1HQX9J", "name": "Nintendo Switch 2 Proコントローラー", "asin": "B0DX1HQX9J", "brand": "Nintendo", "category": "ゲーム"}
 {"id": "asin:B0DX23VYR4", "name": "COFO 無重力モニターアーム Pro シングル", "asin": "B0DX23VYR4", "brand": "COFO", "category": "ガジェット"}
 {"id": "asin:B0DX25Y6MP", "name": "RANVOO ハンディファン FS2", "asin": "B0DX25Y6MP", "brand": "RANVOO", "category": "家電"}
 {"id": "asin:B0DX6STVP2", "name": "M-mark アミノ酸保湿ローション", "asin": "B0DX6STVP2", "brand": "M-mark", "category": "生活用品"}
@@ -979,7 +983,7 @@
 {"id": "asin:B0DZCBLC5F", "name": "ONE BY KOSE ポアクリア スクラブウォッシュ", "asin": "B0DZCBLC5F", "brand": "ONE BY KOSE", "category": "美容"}
 {"id": "asin:B0DZCQVNY6", "name": "SK-II ジェノプティクス CCプライマー", "asin": "B0DZCQVNY6", "brand": "SK-II", "category": "美容", "aliases": ["SK-II ジェノプティクス CC プライマー"]}
 {"id": "asin:B0DZCZFDB1", "name": "花王 ピュオーラ 炭酸ハミガキ", "asin": "B0DZCZFDB1", "brand": "花王", "category": "生活用品"}
-{"id": "asin:B0DZDMQYQL", "name": "Apple MacBook Air M2", "asin": "B0DZDMQYQL", "brand": "Apple", "category": "ガジェット"}
+{"id": "asin:B0DZDMQYQL", "name": "Apple MacBook Air M4", "asin": "B0DZDMQYQL", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple MacBook Air M2"]}
 {"id": "asin:B0DZFG99ZD", "name": "PGYTECH OneGo Lite バックパック", "asin": "B0DZFG99ZD", "brand": "PGYTECH", "category": "ファッション"}
 {"id": "asin:B0DZG2V3P2", "name": "PGYTECH OneGo Lite Backpack", "asin": "B0DZG2V3P2", "brand": "PGYTECH", "category": "生活用品"}
 {"id": "asin:B0DZGZSVYR", "name": "HUAWEI Band 10 スマートウォッチ", "asin": "B0DZGZSVYR", "brand": "HUAWEI", "category": "ガジェット"}
@@ -1102,6 +1106,7 @@
 {"id": "asin:B0FG2M5TV4", "name": "川田模型 M300GT2Rシャーシキット M334", "asin": "B0FG2M5TV4", "brand": "川田模型", "category": "その他"}
 {"id": "asin:B0FG2NG5BK", "name": "ファミュ ローズ バウンシーセラム", "asin": "B0FG2NG5BK", "brand": "ファミュ", "category": "美容"}
 {"id": "asin:B0FG2S4Q18", "name": "コイズミ サロンセンス KHD-9971", "asin": "B0FG2S4Q18", "brand": "コイズミ", "category": "家電"}
+{"id": "asin:B0FGNN555T", "name": "Samsung Galaxy Z Fold7", "asin": "B0FGNN555T", "brand": "Samsung", "category": "ガジェット", "aliases": ["Galaxy Z Fold7"]}
 {"id": "asin:B0FGQJ45HW", "name": "Pokémon LEGENDS Z-A", "asin": "B0FGQJ45HW", "brand": "任天堂", "category": "ゲーム", "aliases": ["任天堂 Pokémon LEGENDS Z-A"]}
 {"id": "asin:B0FGXV84MR", "name": "無印良品 デスクトップミニカレンダー 84854125", "asin": "B0FGXV84MR", "brand": "無印良品", "category": "その他"}
 {"id": "asin:B0FH1S4QN2", "name": "Dell Alienware 16X Aurora", "asin": "B0FH1S4QN2", "brand": "Dell", "category": "ガジェット"}
@@ -1109,6 +1114,7 @@
 {"id": "asin:B0FH2SGYXR", "name": "MovinkPad 11 TDTHA116CL0Z", "asin": "B0FH2SGYXR", "brand": "Wacom", "category": "ガジェット"}
 {"id": "asin:B0FHBB5BN2", "name": "KTC H27P3", "asin": "B0FHBB5BN2", "brand": "KTC", "category": "ガジェット"}
 {"id": "asin:B0FHGWST7P", "name": "Panasonic ナノケア EH-NA0J", "asin": "B0FHGWST7P", "brand": "Panasonic", "category": "家電"}
+{"id": "asin:B0FHKMRWVD", "name": "RICOH GR IV", "asin": "B0FHKMRWVD", "brand": "RICOH", "category": "ガジェット", "aliases": ["RICOH GRⅣ"]}
 {"id": "asin:B0FHPMJLBN", "name": "なめらか本舗 薬用WR泡洗顔 ホワイト", "asin": "B0FHPMJLBN", "brand": "なめらか本舗", "category": "美容"}
 {"id": "asin:B0FHPN26RJ", "name": "Ulanzi MA60 スマホ三脚", "asin": "B0FHPN26RJ", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "asin:B0FHTLTPSY", "name": "XREAL One Pro", "asin": "B0FHTLTPSY", "brand": "XREAL", "category": "ガジェット"}
@@ -1302,7 +1308,6 @@
 {"id": "name:amazonfiretvstick4kmax", "name": "Amazon Fire TV Stick 4K Max", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonfiretvstick4kselect", "name": "Amazon Fire TV Stick 4K Select", "brand": "Amazon", "category": "ガジェット", "aliases": ["Amazon Fire TV Stick 4K SELECT"]}
 {"id": "name:amazonfiretvstickhd", "name": "Amazon Fire TV Stick HD", "brand": "Amazon", "category": "ガジェット"}
-{"id": "name:amazonkindlepaperwhite", "name": "Amazon Kindle Paperwhite", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindlepaperwhite第12世代", "name": "Amazon Kindle Paperwhite 第12世代", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindlescribe", "name": "Amazon Kindle Scribe", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindleunlimited", "name": "Kindle Unlimited", "brand": "Amazon", "category": "サービス", "aliases": ["Amazon Kindle Unlimited"]}
@@ -1336,7 +1341,6 @@
 {"id": "name:ankereufysmarttrackcarde30", "name": "Anker Eufy SmartTrack Card E30", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerkvmswitch4k", "name": "Anker KVM Switch 4K", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankermaggo3in1ワイヤレス充電器ankerb25m5511", "name": "Anker MagGo 3-in-1 ワイヤレス充電器 ANKERB25M5511", "brand": "Anker", "category": "ガジェット"}
-{"id": "name:ankermaggowirelesschargerstand", "name": "Anker MagGo Wireless Charger (Stand)", "brand": "Anker", "category": "ガジェット", "aliases": ["Anker MagGo Wireless Charger Stand"]}
 {"id": "name:ankermagneticwirelesscharger", "name": "Anker Magnetic Wireless Charger", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernanocarcharger75w巻取り式usbcケーブル", "name": "Anker Nano Car Charger (75W, 巻取り式 USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernanocharger35w巻取り式", "name": "Anker Nano Charger 35W 巻取り式", "brand": "Anker", "category": "ガジェット"}
@@ -1428,7 +1432,6 @@
 {"id": "name:applemacbookair15インチm4", "name": "Apple MacBook Air 15インチ M4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookairm1", "name": "Apple MacBook Air M1", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookairm2202213インチ", "name": "Apple MacBook Air M2 2022 13インチ", "brand": "Apple", "category": "ガジェット"}
-{"id": "name:applemacbookairm4", "name": "Apple MacBook Air M4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookairm42025", "name": "Apple MacBook Air M4 (2025)", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple MacBook Air (M4, 2025)"]}
 {"id": "name:applemacbookpro14インチm5", "name": "Apple MacBook Pro 14インチ M5", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookprom4", "name": "Apple MacBook Pro M4", "brand": "Apple", "category": "ガジェット"}
@@ -1926,7 +1929,6 @@
 {"id": "name:elecomlbtows03", "name": "ELECOM LBT-OWS03", "brand": "ELECOM", "category": "ガジェット"}
 {"id": "name:elecomnestoutfan1", "name": "ELECOM NESTOUT FAN-1", "brand": "ELECOM", "category": "家電"}
 {"id": "name:elecomvcustomvm610", "name": "ELECOM V-custom VM610", "brand": "ELECOM", "category": "ガジェット"}
-{"id": "name:elgatostreamdeck", "name": "Elgato Stream Deck +", "brand": "Elgato", "category": "ガジェット", "aliases": ["Elgato Stream Deck"]}
 {"id": "name:elgatostreamdeckmk2", "name": "Elgato Stream Deck MK.2", "brand": "Elgato", "category": "ガジェット"}
 {"id": "name:elgatostreamdeckneo", "name": "Elgato Stream Deck Neo", "brand": "Elgato", "category": "ガジェット"}
 {"id": "name:elgatowavemicarmlp", "name": "Elgato Wave Mic Arm LP", "brand": "Elgato", "category": "ガジェット"}
@@ -2893,7 +2895,6 @@
 {"id": "name:ninestoriesブックポーチ", "name": "Nine Stories ブックポーチ", "brand": "Nine Stories", "category": "生活用品"}
 {"id": "name:ninjaブラストポータブルブレンダーbc151bk", "name": "Ninja ブラスト ポータブルブレンダー BC151BK", "brand": "Ninja", "category": "家電"}
 {"id": "name:nintendosoundclockalarmo", "name": "Nintendo Sound Clock Alarmo", "brand": "Nintendo", "category": "家電"}
-{"id": "name:nintendoswitch2proコントローラー", "name": "Nintendo Switch 2 Proコントローラー", "brand": "Nintendo", "category": "ゲーム"}
 {"id": "name:nintendoswitch2マリオカートセット", "name": "Nintendo Switch 2 マリオカートセット", "brand": "Nintendo", "category": "ゲーム"}
 {"id": "name:nintendoswitch2マリオカートワールドセット", "name": "Nintendo Switch 2 マリオカート ワールド セット", "brand": "Nintendo", "category": "ゲーム"}
 {"id": "name:nipoa100", "name": "NiPO A100", "brand": "NiPO", "category": "ガジェット"}
@@ -3223,7 +3224,6 @@
 {"id": "name:rhythmライフナビプチa", "name": "RHYTHM ライフナビプチA", "brand": "RHYTHM", "category": "生活用品"}
 {"id": "name:richairティッシュカバーウサギ", "name": "RICHAIR ティッシュカバー ウサギ", "brand": "RICHAIR", "category": "生活用品"}
 {"id": "name:ricohgriiixhdf", "name": "RICOH GR IIIx HDF", "brand": "RICOH", "category": "ガジェット"}
-{"id": "name:ricohgriv", "name": "RICOH GR IV", "brand": "RICOH", "category": "ガジェット", "aliases": ["RICOH GRⅣ"]}
 {"id": "name:rihazai電気毛布drmtygg002", "name": "電気毛布 DRMTYGG002", "brand": "Rihazai", "category": "家電"}
 {"id": "name:rimowavitra2025アルミニウムスツール", "name": "RIMOWA Vitra 2025 アルミニウム スツール", "brand": "RIMOWA", "category": "生活用品"}
 {"id": "name:rimowaトランクプラス", "name": "RIMOWA トランク プラス", "brand": "RIMOWA", "category": "生活用品"}
@@ -3291,7 +3291,6 @@
 {"id": "name:samsunggalaxys25ultra", "name": "Samsung Galaxy S25 Ultra", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxyultras23", "name": "Galaxy Ultra S23", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxyzfold6", "name": "Samsung Galaxy Z Fold 6", "brand": "Samsung", "category": "ガジェット"}
-{"id": "name:samsunggalaxyzfold7", "name": "Samsung Galaxy Z Fold7", "brand": "Samsung", "category": "ガジェット", "aliases": ["Galaxy Z Fold7"]}
 {"id": "name:samsunggalaxyztrifold", "name": "Samsung Galaxy Z TriFold", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:sanders1128ミリタリーダービー", "name": "SANDERS #1128 ミリタリーダービー", "brand": "SANDERS", "category": "ファッション"}
 {"id": "name:sandfallinteractiveclairobscurexpedition33", "name": "Sandfall Interactive Clair Obscur: Expedition 33", "brand": "Sandfall Interactive", "category": "ゲーム"}
@@ -4274,7 +4273,6 @@
 {"id": "name:キヤノンpixusxk130", "name": "キヤノン PIXUS XK130", "brand": "キヤノン", "category": "家電"}
 {"id": "name:キュキュットウルトラクリーン食洗機用", "name": "キュキュット ウルトラクリーン 食洗機用", "brand": "キュキュット", "category": "生活用品"}
 {"id": "name:キュレルジェルメイク落とし", "name": "キュレル ジェルメイク落とし", "brand": "キュレル", "category": "生活用品"}
-{"id": "name:キュレルディープモイスチャースプレー", "name": "キュレル ディープモイスチャースプレー", "brand": "キュレル", "category": "美容"}
 {"id": "name:キュレルディープモイスチャースプレーa", "name": "キュレル ディープモイスチャースプレーA", "brand": "キュレル", "category": "生活用品"}
 {"id": "name:キュレルバスタイムモイストバリアクリーム", "name": "キュレル バスタイム モイストバリアクリーム", "brand": "キュレル", "category": "生活用品"}
 {"id": "name:キュレルモイストリペアアイクリーム", "name": "キュレル モイストリペアアイクリーム", "brand": "キュレル", "category": "その他"}
