@@ -903,3 +903,9 @@
 {"url": "https://anneinresidence.substack.com/p/2025-best-buys-style-and-beauty", "title": "2025 best buys: style & beauty", "found_via": "search", "status": "skipped", "reason": "有料記事で本文の大部分が読めない（無料部分は1番目の項目の導入のみ）"}
 {"url": "https://anneinresidence.substack.com/p/2025-best-buys-home-and-life", "title": "2025 best buys: home & life", "found_via": "search", "status": "skipped", "reason": "有料記事で本文の大部分が読めない（無料部分は1番目の項目の導入のみ）"}
 {"url": "https://aprettyfix.com/amazon-home-best-buys-2025/", "title": "20 Amazon Home Best Buys of 2025", "found_via": "search", "status": "extracted", "source_id": "aprettyfix-769c977d"}
+{"url": "https://techwithdom.com/blog/the-best-tech-purchases-i-made-this-year-and-these-are-the-ones-im-thinking-about/", "title": "The Best Tech Purchases I Made This Year", "found_via": "search", "status": "skipped", "reason": "2022年の記事（2025年の記事ではない）"}
+{"url": "https://mackenziehoran.com/my-15-best-purchases-of-2025/", "title": "MY 15 BEST PURCHASES OF 2025", "found_via": "search", "status": "extracted", "source_id": "mackenziehoran-2ab6de34"}
+{"url": "https://thriftywifehappylife.com/2026/01/10-best-purchases-of-2025/", "title": "10 Best Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "thriftywifehappylife-fd171ee7"}
+{"url": "https://myqualityday.blogspot.com/2026/01/best-purchases-of-2025.html", "title": "My Quality Day: Best Purchases of 2025", "found_via": "search", "status": "skipped", "reason": "商品が1つだけ"}
+{"url": "http://www.cherylshops.net/2026/01/the-best-things-i-bought-in-2025-part-1.html", "title": "The best things I bought in 2025, part 1", "found_via": "search", "status": "skipped", "reason": "取得失敗（ROBOTS_UNREACHABLE、恒久的）"}
+{"url": "https://fashionmagazine.com/style/best-purchases-2025/", "title": "Our Best Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "fashionmagazine-e58179d1"}
