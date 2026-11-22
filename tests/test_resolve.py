@@ -86,3 +86,33 @@ def test_手で補ったASINは同じ名前の言及すべてに当てる():
           Mention(source_id="s2", name="Apple AirPods Pro 3")]
     r = resolve(ms, asin_overrides={"name:appleairpodspro3": "b0fqxxxxxx"})
     assert r.product_ids == ["asin:B0FQXXXXXX", "asin:B0FQXXXXXX"]
+
+
+def test_手で指定した統合先の商品に別ASINの言及をまとめる():
+    mentions = [
+        m("s1", "Nintendo Switch 2", brand="Nintendo", amazon_url="https://www.amazon.co.jp/dp/B0G3SXHCLJ"),
+        m("s2", "任天堂 Nintendo Switch 2", brand="任天堂", amazon_url="https://www.amazon.co.jp/dp/B0FNC43RBM"),
+        m("s3", "任天堂 Switch2", brand="任天堂"),
+    ]
+    merges = {"asin:B0FNC43RBM": "asin:B0G3SXHCLJ", "name:任天堂switch2": "asin:B0FNC43RBM"}
+    result = resolve(mentions, merges=merges)
+    assert [p.id for p in result.products] == ["asin:B0G3SXHCLJ"]
+    assert result.product_ids == ["asin:B0G3SXHCLJ"] * 3
+    assert result.products[0].asin == "B0G3SXHCLJ"
+
+
+def test_ブランド付きの同じ商品名なら色違いなどで別ASINでも多いほうのASINにまとめる():
+    result = resolve([
+        m("s1", "Apple iPhone 17 Pro", brand="Apple", amazon_url="https://www.amazon.co.jp/dp/B0FQFPCFYH"),
+        m("s2", "Apple iPhone 17 Pro", brand="Apple", amazon_url="https://www.amazon.co.jp/dp/B0FQFY14WC"),
+        m("s3", "Apple iPhone 17 Pro", brand="Apple", amazon_url="https://www.amazon.co.jp/dp/B0FQFY14WC"),
+    ])
+    assert [p.id for p in result.products] == ["asin:B0FQFY14WC"]
+
+
+def test_ブランドのない一般名は別ASINならまとめない():
+    result = resolve([
+        m("s1", "ノートパソコンスタンド", amazon_url="https://www.amazon.co.jp/dp/B0CPHX4R58"),
+        m("s2", "ノートパソコンスタンド", amazon_url="https://www.amazon.co.jp/dp/B0F8QL6M12"),
+    ])
+    assert len(result.products) == 2

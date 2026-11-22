@@ -186,3 +186,22 @@ def test_snapshotは100記事ごとに上位を保存し前回との重なりを
     # 記事数が増えていなければ撮らない
     assert main(["snapshot", "--year", "2025", "--data-dir", str(data), "--top", "5"]) == 0
     assert "まだ" in capsys.readouterr().out
+
+
+def test_merges_tsvに書いた商品はrunで1つにまとまる(tmp_path):
+    data = tmp_path / "data"
+    write(data / "2025" / "sources.jsonl", [
+        {"id": "s1", "url": "https://a.example/", "author": "Aさん"},
+        {"id": "s2", "url": "https://b.example/", "author": "Bさん"},
+    ])
+    write(data / "2025" / "mentions.jsonl", [
+        {"source_id": "s1", "name": "Nintendo Switch 2", "amazon_url": "https://www.amazon.co.jp/dp/B0G3SXHCLJ"},
+        {"source_id": "s2", "name": "任天堂 Nintendo Switch 2", "amazon_url": "https://www.amazon.co.jp/dp/B0FNC43RBM"},
+    ])
+    (data / "2025" / "merges.tsv").write_text(
+        "# 統合元\t統合先\tメモ\nasin:B0FNC43RBM\tasin:B0G3SXHCLJ\tセット違い\n", encoding="utf-8"
+    )
+
+    assert main(["run", "--year", "2025", "--data-dir", str(data), "--out-dir", str(tmp_path / "out")]) == 0
+    scores = [json.loads(l) for l in (data / "2025" / "scores.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert [(s["product_id"], s["author_count"]) for s in scores] == [("asin:B0G3SXHCLJ", 2)]

@@ -1,0 +1,7 @@
+# 統合元の商品ID	統合先の商品ID	メモ（同じ商品なのに表記やASINの違いで分かれたものを手でまとめる）
+asin:B0FNC43RBM	asin:B0G3SXHCLJ	Nintendo Switch 2 のセット違い（任天堂表記）
+name:任天堂switch2	asin:B0G3SXHCLJ	Nintendo Switch 2
+asin:B0BXCTQJP7	asin:B0DC5X912P	MX ERGO S（Logicool/ロジクール表記）
+name:ロジクールmxmaster3s	asin:B0D215886L	MX Master 3S（Logicool/ロジクール表記）
+asin:B0FR8LPP2K	asin:B0FR8M3WS8	MX MASTER 4（Logicool/ロジクール表記）
+asin:B0DK44CJ9K	asin:B0DK43L4K3	iPad mini (A17 Pro) の色違い

@@ -42,10 +42,24 @@ def load_asin_overrides(year_dir: Path) -> dict[str, str]:
     return {r["product_id"]: r["asin"] for r in rows}
 
 
+def load_merges(year_dir: Path) -> dict[str, str]:
+    """merges.tsv（統合元の商品ID<TAB>統合先の商品ID<TAB>メモ、# で始まる行は注釈）を読む。"""
+    path = year_dir / "merges.tsv"
+    if not path.exists():
+        return {}
+    merges = {}
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.startswith("#"):
+            continue
+        cols = line.split("\t")
+        merges[cols[0].strip()] = cols[1].strip()
+    return merges
+
+
 def _compute(year_dir: Path):
     sources = read_jsonl(year_dir / "sources.jsonl", Source)
     mentions = read_jsonl(year_dir / "mentions.jsonl", Mention)
-    resolved = resolve(mentions, asin_overrides=load_asin_overrides(year_dir))
+    resolved = resolve(mentions, asin_overrides=load_asin_overrides(year_dir), merges=load_merges(year_dir))
     scores = aggregate(
         sources,
         product_ids=resolved.product_ids,

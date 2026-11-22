@@ -27,6 +27,7 @@
    - `uv run korekae asin todo --year 2025 --limit 20` で、ASINのない商品を順位の高い順に出す。
    - 各商品を WebSearch（「ブランド 商品名 amazon.co.jp」）で調べ、検索結果に出た `amazon.co.jp/.../dp/XXXXXXXXXX` のURLから10桁のASINを取る。**型番や世代まで同じだと確信できるものだけ**にする。分からなければ飛ばす。
    - `商品ID<TAB>ASIN<TAB>メモ` のTSVにして `uv run korekae asin add --year 2025 FILE`。
+   - 上位に同じ商品が表記違い（任天堂/Nintendo、Logicool/ロジクールなど）や別ASINで分かれていたら、`data/2025/merges.tsv` に `統合元の商品ID<TAB>統合先の商品ID<TAB>メモ` を足す。ブランド付きで同じ商品名の色違いは自動でまとまる。
 8. **集計する**: `uv run korekae run --year 2025`、続けて `uv run korekae snapshot --year 2025`。
 9. **確認する**: `uv run pytest -q` が通ること。
 10. **コミットしてmainにプッシュする**: data/ と output/ をコミットし、メッセージは「定期実行: N記事を追加（計M記事）」。プッシュに失敗したら `git fetch origin main && git merge --no-edit origin/main` してから再度プッシュする。
