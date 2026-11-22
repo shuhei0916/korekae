@@ -827,3 +827,14 @@
 {"url": "https://www.rear-view.work/entry/2025", "title": "買ってよかったもの【2025】", "found_via": "search", "status": "extracted", "source_id": "rear-view-7658c02e"}
 {"url": "https://arekoreshop.com/lp/blog/066/", "title": "30代共働き夫婦が今年買ってよかったキッチン家電ベスト3", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
 {"url": "https://junchan.jp/archives/21042", "title": "[2025年]買ってよかった文具たち", "found_via": "search", "status": "extracted", "source_id": "junchan-cfa9c442"}
+{"url": "https://mossariweb.net/2025/12/38888/", "title": "2025年の振り返り（散財記録）", "found_via": "search", "status": "skipped", "reason": "2025年の振り返り（散財記録）として購入品を金額や経緯とともに並べた記事で、買ってよかったものとして商品を紹介した記事ではない"}
+{"url": "https://hiruganatu.com/entry/2025/12/19/090000", "title": "【2025年】今年買ってよかったものBEST5", "found_via": "search", "status": "extracted", "source_id": "hiruganatu-8e85ecf6"}
+{"url": "https://specialized-store.jp/kurashiki/blog/10192/", "title": "個人的 散財オブ・ザ・イヤー2025", "found_via": "search", "status": "skipped", "reason": "販売店（スペシャライズド倉敷）のスタッフブログで、自店の商品やオンラインストアへの誘導、無金利キャンペーンを含む店舗の販促記事のため"}
+{"url": "https://kblognext.com/archives/59090.html", "title": "2025年を振り返ってみる 【購入したもの編】", "found_via": "search", "status": "extracted", "source_id": "kblognext-48a03d62"}
+{"url": "https://namakemono-life.com/entry/2025/12/21/100000", "title": "2025年の振り返り 買ってよかったもの BEST BUY", "found_via": "search", "status": "extracted", "source_id": "namakemono-life-b393128a"}
+{"url": "https://sinple-life.net/electronics/end-of-2025.html", "title": "【2025年】今年買ったものを振り返ってみる", "found_via": "search", "status": "skipped", "reason": "2025年に買ったものを列挙した記事で、買ってよかったものとして紹介する形式ではなく、評価も良否が混在しているため"}
+{"url": "https://www.favlife.com/archives/32479/", "title": "2025年の振り返り。買ってよかったモノ・コト", "found_via": "search", "status": "extracted", "source_id": "favlife-e9e8b478"}
+{"url": "https://news.yahoo.co.jp/articles/304a72696d8ea20bf55b18752664470e6df3c133", "title": "これが私のベストバイ！2025年、買ってよかったアイテム【編集部編】", "found_via": "search", "status": "skipped", "reason": "取得失敗（robots_disallowed、恒久的）"}
+{"url": "https://note.com/hirotographer/n/nc64a8e59c0d3", "title": "2025年今年買ってよかったもの、或いは散財の歴史", "found_via": "search", "status": "extracted", "source_id": "note-hirotographer-43c1d946"}
+{"url": "https://note.com/shinemore413/n/na1eae679dec3", "title": "2025年ベスト散財&2026年散財計画", "found_via": "search", "status": "skipped", "reason": "有料で読めない: 本文が表示されず、目次と見出し（ジエノゲスト、サプリ、ジュエリーなど）だけが見える状態。有料記事の可能性が高い。"}
+{"url": "https://note.com/gmonolog/n/na00f48a08576", "title": "2025年買ってよかったもの Best12", "found_via": "search", "status": "skipped", "reason": "記事末尾に「2025年の未来を予測・想定して書いたフィクション形式の紹介記事」とあり、実際に買ったものの記録ではないと明記されている。"}
