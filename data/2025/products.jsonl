@@ -127,7 +127,7 @@
 {"id": "asin:B01N6N7TBU", "name": "Superior Essentials しおり", "asin": "B01N6N7TBU", "brand": "Superior Essentials", "category": "生活用品"}
 {"id": "asin:B01N6ZRSWM", "name": "アース製薬 サラテクトミスト リッチリッチ30", "asin": "B01N6ZRSWM", "brand": "アース製薬", "category": "生活用品"}
 {"id": "asin:B06WD67Z6G", "name": "セキセイ ベルポスト A4 BP-5714-60", "asin": "B06WD67Z6G", "brand": "セキセイ", "category": "生活用品"}
-{"id": "asin:B06WLJYWF7", "name": "ORBIS エッセンスイン ヘアミルク", "asin": "B06WLJYWF7", "brand": "ORBIS", "category": "美容"}
+{"id": "asin:B06WLJYWF7", "name": "オルビス エッセンスインヘアミルク", "asin": "B06WLJYWF7", "brand": "オルビス", "category": "生活用品", "aliases": ["ORBIS エッセンスイン ヘアミルク", "オルビス エッセンスイン ヘアミルク"]}
 {"id": "asin:B06X9NYR94", "name": "Bialetti ミルクフローサー", "asin": "B06X9NYR94", "brand": "Bialetti", "category": "生活用品"}
 {"id": "asin:B06Y69FKT2", "name": "エクスプロージョン プロテイン WPC X-PLOSION", "asin": "B06Y69FKT2", "brand": "エクスプロージョン", "category": "食品"}
 {"id": "asin:B071RC6W4F", "name": "無添加 あわせ味噌", "asin": "B071RC6W4F", "brand": "フンドーキン醤油", "category": "食品"}
@@ -4422,7 +4422,6 @@
 {"id": "name:オルディキッチンポリ袋ppkp11", "name": "オルディ キッチンポリ袋 PP-KP11", "brand": "オルディ", "category": "生活用品"}
 {"id": "name:オルナオーガニックフェイスマスク", "name": "オルナオーガニック フェイスマスク", "brand": "オルナオーガニック", "category": "生活用品"}
 {"id": "name:オルビスエッセンスインヘアマスク", "name": "オルビス エッセンスインヘアマスク", "brand": "オルビス", "category": "生活用品"}
-{"id": "name:オルビスエッセンスインヘアミルク", "name": "オルビス エッセンスインヘアミルク", "brand": "オルビス", "category": "生活用品", "aliases": ["オルビス エッセンスイン ヘアミルク"]}
 {"id": "name:オルファaプラス215b", "name": "オルファ Aプラス 215B", "brand": "オルファ", "category": "生活用品"}
 {"id": "name:オルファハイパー専用クイックホルダー246bs01", "name": "オルファ ハイパー専用クイックホルダー 246B-S01", "brand": "オルファ", "category": "生活用品"}
 {"id": "name:オレンズネロ", "name": "オレンズネロ", "category": "生活用品"}
