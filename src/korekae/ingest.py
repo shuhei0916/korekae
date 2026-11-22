@@ -57,6 +57,11 @@ def ingest(year_dir: Path, text: str, id_urls: dict[str, str] | None = None) -> 
     write_jsonl(year_dir / "mentions.jsonl", mentions + parsed.mentions)
 
     extracted = {canonical_url(s.url): s.id for s in parsed.sources}
+    # 転送などで SOURCE の url が変わっても、渡したIDのURLで候補を引けるようにする
+    for s in parsed.sources:
+        url = (id_urls or {}).get(s.id)
+        if url:
+            extracted[canonical_url(url)] = s.id
     skipped = {}
     for target, reason in parsed.skips.items():
         url = target if target.startswith("http") else (id_urls or {}).get(target)
@@ -73,8 +78,9 @@ def ingest(year_dir: Path, text: str, id_urls: dict[str, str] | None = None) -> 
         elif key in skipped:
             c.status, c.reason = "skipped", skipped[key]
     # 候補に無いソースも候補として記録しておく（再実行時の重複取得を防ぐ）
+    matched = {extracted[k] for k in known if k in extracted}
     for s in parsed.sources:
-        if canonical_url(s.url) not in known:
+        if s.id not in matched and canonical_url(s.url) not in known:
             candidates.append(Candidate(url=s.url, title=s.title, status="extracted", source_id=s.id))
     write_jsonl(cpath, candidates)
 

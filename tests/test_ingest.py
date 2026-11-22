@@ -64,3 +64,14 @@ def test_同じソースを取り込み直すと言及は置き換わる(tmp_pat
     ingest(tmp_path, TEXT)
     assert len(read_jsonl(tmp_path / "sources.jsonl", Source)) == 2
     assert len(read_jsonl(tmp_path / "mentions.jsonl", Mention)) == 3
+
+
+def test_転送先のURLでSOURCEが返っても渡したIDの候補が抽出済みになる(tmp_path):
+    write_jsonl(tmp_path / "candidates.jsonl", [Candidate(url="https://old.example/y")])
+
+    ingest(tmp_path, TEXT, id_urls={"s1": "https://old.example/y"})
+
+    cands = read_jsonl(tmp_path / "candidates.jsonl", Candidate)
+    assert [(c.url, c.status, c.source_id) for c in cands] == [
+        ("https://old.example/y", "extracted", "s1"),
+    ]
