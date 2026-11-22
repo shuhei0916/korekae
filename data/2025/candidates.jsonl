@@ -856,7 +856,7 @@
 {"url": "https://camphack.nap-camp.com/12617", "title": "プロ＆愛好家40人に聞いた今年マジで買ってよかったモノ BEST BUY 2025 #2", "found_via": "search", "status": "extracted", "source_id": "camphack-49881bec"}
 {"url": "https://chibamboo9.com/2026/03/16/2025%E5%B9%B4%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B-%EF%BD%9E%E6%95%A3%E8%B2%A1%E9%8C%B2%E3%81%AE%E6%BA%80%E8%B6%B3%E5%BA%A6%E7%B7%A8%EF%BD%9E/", "title": "2025年キャンプを振り返る 散財録の満足度編", "found_via": "search", "status": "extracted", "source_id": "chibamboo9-e1bfa5ad"}
 {"url": "https://note.com/aivoicejournal/n/n5f9fb393cc92", "title": "買ってよかった時短家電ランキング2025", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
-{"url": "https://jolynneshane.com/best-buys-of-2025.html", "title": "My Best Fashion, Beauty, Home & Travel Purchases of 2025", "found_via": "search", "status": "todo"}
+{"url": "https://jolynneshane.com/best-buys-of-2025.html", "title": "My Best Fashion, Beauty, Home & Travel Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "jolynneshane-0eeb4b58"}
 {"url": "https://thefabulousscientist.com/2025/12/26/best-lifestyle-purchases-of-2025-my-top-picks/", "title": "Best Lifestyle Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "thefabulousscientist-993444b1"}
 {"url": "https://carlyahill.com/2025-favorite-purchases/", "title": "My 15 Favorite Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "carlyahill-0f6e8a1b"}
 {"url": "https://thenoteworthyedit.substack.com/p/the-best-purchases-i-made-in-2025", "title": "The Best Purchases I Made in 2025", "found_via": "search", "status": "skipped", "reason": "有料記事（大部分が購読者限定）"}
@@ -865,3 +865,16 @@
 {"url": "https://wornandwound.com/year-in-review-the-best-things-we-bought-in-2025/", "title": "Year in Review: the Best Things We Bought in 2025", "found_via": "search", "status": "extracted", "source_id": "wornandwound-06594669"}
 {"url": "https://www.androidauthority.com/my-best-tech-purchases-2025-3622540", "title": "My best tech purchases 2025", "found_via": "search", "status": "extracted", "source_id": "androidauthority-0be1d733"}
 {"url": "https://sspai.com/post/104802", "title": "少数派 2025 年度好物", "found_via": "search", "status": "extracted", "source_id": "sspai-dbee2899"}
+{"url": "https://brettfbraley.substack.com/p/the-best-things-i-bought-in-2025", "title": "The Best Things I Bought in 2025", "found_via": "search", "status": "extracted", "source_id": "brettfbraley-8c8a8067"}
+{"url": "https://www.sweatystartup.com/blog/21-things-i-purchased-in-2025-that-changed-my-life", "title": "21 things I purchased in 2025 that changed my life", "found_via": "search", "status": "extracted", "source_id": "sweatystartup-000c1061"}
+{"url": "https://zaynabissa.substack.com/p/best-things-i-bought-in-2025", "title": "BEST THINGS I BOUGHT IN 2025", "found_via": "search", "status": "extracted", "source_id": "zaynabissa-ea4d9582"}
+{"url": "https://www.pickyfox.com/the-best-things-i-bought-in-2025-under-100/", "title": "The Best Things I Bought in 2025 (Under $100)", "found_via": "search", "status": "skipped", "reason": "商品を抽出できず"}
+{"url": "https://caphillstyle.com/capitol/2025/11/10/the-best-things-i-bought-in-2025-pt-i.html", "title": "The Best Things I Bought in 2025, Pt. I", "found_via": "search", "status": "extracted", "source_id": "caphillstyle-c8434181"}
+{"url": "https://intheircart.substack.com/p/25-best-purchases-of-2025", "title": "25 BEST PURCHASES OF 2025", "found_via": "search", "status": "extracted", "source_id": "intheircart-2d9bbf48"}
+{"url": "https://www.younghouselove.com/favorite-things-of-2025/", "title": "Our Favorite Things of 2025", "found_via": "search", "status": "extracted", "source_id": "younghouselove-9938aac6"}
+{"url": "https://carolinedillon.substack.com/p/caros-favorite-things-of-2025", "title": "Caro's Favorite Things of 2025", "found_via": "search", "status": "extracted", "source_id": "carolinedillon-89ea5b27"}
+{"url": "https://thekmiecramblings.substack.com/p/my-favorite-things-of-2025", "title": "My Favorite Things of 2025", "found_via": "search", "status": "extracted", "source_id": "thekmiecramblings-614d2107"}
+{"url": "https://ourfifthhouse.com/2025/12/my-favorite-things-of-2025/", "title": "My Favorite Things of 2025", "found_via": "search", "status": "extracted", "source_id": "ourfifthhouse-d1946bf3"}
+{"url": "https://thecitymoms.org/blog/things-wed-buy-again-and-again-our-favorite-finds-of-2025", "title": "Things We'd Buy Again: Our Favorite Finds of 2025", "found_via": "search", "status": "extracted", "source_id": "thecitymoms-0ea40949"}
+{"url": "https://bakerontech.com/favorite-gadgets-in-2025/", "title": "Favorite gadgets of 2025", "found_via": "search", "status": "extracted", "source_id": "bakerontech-6cb41570"}
+{"url": "https://www.thesundaymonday.co/p/25-favorite-things-for-2025", "title": "25 Favorite Things for 2025", "found_via": "search", "status": "skipped", "reason": "ギフトガイド（贈答用の選定が中心で、買った・使った体験を並べた記事ではない）"}
