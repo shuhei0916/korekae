@@ -1001,3 +1001,11 @@
 {"url": "https://appleinsider.com/articles/26/01/01/williams-best-tech-in-2025-mac-studio-ipad-pro-and-so-much-from-elgato", "title": "appleinsider williams best tech 2025", "found_via": "search", "status": "extracted", "source_id": "appleinsider-395daf46"}
 {"url": "https://www.buzzfeed.com/maitlandquitmeyer/reviewers-best-purchase-2025", "title": "BuzzFeed reviewers best purchase 2025", "found_via": "search", "status": "skipped", "reason": "PR・アフィリエイト目的の商品まとめ（掲載品の多くは筆者の購入品ではなく、Amazonの購入者レビューの引用）"}
 {"url": "https://www.theartofdoingstuff.com/?p=178566", "title": "Art of Doing Stuff 2025", "found_via": "search", "status": "skipped", "reason": "2025年7月27日公開の途中経過（上半期）の記事のため対象外"}
+{"url": "https://library.libecity.com/articles/01KBMMWAKKRETE5677EEPGXT07", "title": "リベシティ 2025 買ってよかった", "found_via": "search", "status": "extracted", "source_id": "library-b5b792d9"}
+{"url": "https://www.buzzfeed.com/maitlandquitmeyer/reviewers-best-purchase-2025-an", "title": "BuzzFeed reviewers best purchase 2025 an", "found_via": "search", "status": "skipped", "reason": "筆者の購入品ではなくレビュアーの声を集めた商品まとめで、アフィリエイトリンク付きの販促記事"}
+{"url": "https://groundedwealthadvisors.ceterainvestors.com/blog/my-best-purchases-of-2025", "title": "my best purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "groundedwealthadvisors-e157b30a"}
+{"url": "https://www.36kr.com/p/3620285354165507", "title": "36kr 2025 年度好物", "found_via": "search", "status": "skipped", "reason": "2026年1月1日公開の年度推薦記事で、2025年の購入品ではなく書籍・番組・旅行・植物などの推薦が中心"}
+{"url": "https://sspai.com/post/105378", "title": "少数派 2025", "found_via": "search", "status": "skipped", "reason": "2026年1月公開の年末振り返りエッセイで、買って良かった商品の記事ではない"}
+{"url": "https://forum-zh.obsidian.md/t/topic/45332", "title": "obsidian forum 2025 年度好物", "found_via": "search", "status": "skipped", "reason": "2025年1月公開のObsidianプラグイン投票名簿で、購入品の記事ではなくソフトウェア・プラグインの一覧"}
+{"url": "https://www.zhihu.com/tardis/jm/ans/2002104543450793406", "title": "知乎 2025 年度好物", "found_via": "search", "status": "skipped", "reason": "取得失敗（動的描画で本文なし、恒久的）"}
+{"url": "https://www.thenewslens.com/article/262977", "title": "關鍵評論網 2025", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
