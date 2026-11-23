@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-812件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+814件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -726,6 +726,7 @@
 | 522 | Aladdin グラファイト トースター AET-GS13D | Aladdin | 1 | 1 | 0 |
 | 522 | Alice Walk Cashmere Wrap | Alice Walk | 1 | 1 | 0 |
 | 522 | Alice Walk The Three-Quarter Tee | Alice Walk | 1 | 1 | 0 |
+| 522 | Aligne LBD | Aligne | 1 | 1 | 0 |
 | 522 | AlphaTheta DJコントローラー DDJ-FLX2 | AlphaTheta | 1 | 1 | 0 |
 | 522 | Alpyn Beauty Barrier Cream | Alpyn Beauty | 1 | 1 | 0 |
 | 522 | Altra Olympus 6 | Altra | 1 | 1 | 0 |
@@ -1015,6 +1016,7 @@
 | 522 | Bambu Lab P1S Combo | Bambu Lab | 1 | 1 | 0 |
 | 522 | Bambu Lab マット PLA | Bambu Lab | 1 | 1 | 0 |
 | 522 | Banana Republic Linen Squareneck Vest | Banana Republic | 1 | 1 | 0 |
+| 522 | Banana Republic Refined Cami | Banana Republic | 1 | 1 | 0 |
 | 522 | Banana Republic Vintage Cotton Crew Neck T-Shirt | Banana Republic | 1 | 1 | 0 |
 | 522 | [Bandai Namco LITTLE NIGHTMARES リトルナイトメア](https://www.amazon.co.jp/dp/B07D5MBWLV) | Bandai Namco | 1 | 1 | 0 |
 | 522 | Barazzoni La CAFFETTIERA | Barazzoni | 1 | 1 | 0 |
@@ -1116,6 +1118,7 @@
 | 522 | [CANMAKE クリーミータッチライナー](https://www.amazon.co.jp/dp/B0D6LQNXXJ) | CANMAKE | 1 | 1 | 0 |
 | 522 | [CANMAKE ラスティングマルチアイベース](https://www.amazon.co.jp/dp/B00FKPSH50) | CANMAKE | 1 | 1 | 0 |
 | 522 | CANMAKE ラスティングマルチアイベース WP | CANMAKE | 1 | 1 | 0 |
+| 522 | CANON RF200-800mm F6.3-9 IS USM | CANON | 1 | 1 | 0 |
 | 522 | [CAPUTO サッコロッソ クオーコ](https://www.amazon.co.jp/dp/B01MT159SE) | CAPUTO | 1 | 1 | 0 |
 | 522 | CARL HANSEN & SON Wishbone chair CH24 | CARL HANSEN & SON | 1 | 1 | 0 |
 | 522 | CAROTE 卵焼きフライパン | CAROTE | 1 | 1 | 0 |
@@ -1455,6 +1458,7 @@
 | 522 | Dr.K Cコントロール リペアセラム | Dr.K | 1 | 1 | 0 |
 | 522 | Dr.マグザム 姿勢サポーター | Dr.マグザム | 1 | 1 | 0 |
 | 522 | [Dreemstar タブレットスタンド](https://www.amazon.co.jp/dp/B0B3DG6XSJ) | Dreemstar | 1 | 1 | 0 |
+| 522 | Dries Van Noten Bib Sweater | Dries Van Noten | 1 | 1 | 0 |
 | 522 | Dropout.tv subscription | Dropout | 1 | 1 | 0 |
 | 522 | Drowsy Sleep Mask | Drowsy | 1 | 1 | 0 |
 | 522 | Drumohr ウールミドルゲージ プルオーバーニットパーカー | Drumohr | 1 | 1 | 0 |
@@ -2241,6 +2245,7 @@
 | 522 | [Keychron Q1 Max](https://www.amazon.co.jp/dp/B0D9KNYG3R) | Keychron | 1 | 1 | 0 |
 | 522 | [Keychron Silent K Pro スイッチセット](https://www.amazon.co.jp/dp/B0BNGMFBYL) | Keychron | 1 | 1 | 0 |
 | 522 | Khaite Arizona Boots | Khaite | 1 | 1 | 0 |
+| 522 | Khaite Dane Jeans | Khaite | 1 | 1 | 0 |
 | 522 | Khan Kids Academy | Khan Academy | 1 | 1 | 0 |
 | 522 | Kilian Paris Imperial Tea | Kilian Paris | 1 | 1 | 0 |
 | 522 | Kindle Colorsoft | Amazon | 1 | 1 | 0 |
@@ -2373,6 +2378,7 @@
 | 522 | Lautashi DESIGN × 祇園ない藤 下駄 | Lautashi DESIGN | 1 | 1 | 0 |
 | 522 | Lavenham キルティングロングコート | Lavenham | 1 | 1 | 0 |
 | 522 | Le Bonne Shoppe Sweaters | Le Bonne Shoppe | 1 | 1 | 0 |
+| 522 | Le Monde Beryl Flats | Le Monde Beryl | 1 | 1 | 0 |
 | 522 | Le Monde Brown Flats | Le Monde | 1 | 1 | 0 |
 | 522 | Le Petite Bol Set | Sophie Lou Jacobsen | 1 | 1 | 0 |
 | 522 | LeSportsac ひとりっぷ GOOD DAY TOTE2 | LeSportsac | 1 | 1 | 0 |
@@ -3363,6 +3369,8 @@
 | 522 | Rofj WASHED TEE HUNTER×HUNTER ミケ | Rofj | 1 | 1 | 0 |
 | 522 | Roger Vivier ヴィヴ ラン ファブリック バレリーナ | Roger Vivier | 1 | 1 | 0 |
 | 522 | [Roland BRIDGE CAST ONE BRC-ONE](https://www.amazon.co.jp/dp/B0DBTBRC3X) | Roland | 1 | 1 | 0 |
+| 522 | Roland GM-800 Guitar Synthesizer | Roland | 1 | 1 | 0 |
+| 522 | Roland RC-505mkII | Roland | 1 | 1 | 0 |
 | 522 | Root Touch Up Kit | Madison Reed | 1 | 1 | 0 |
 | 522 | Rouched Loafers | James | 1 | 1 | 0 |
 | 522 | Round Dutch Oven | Le Creuset | 1 | 1 | 0 |
@@ -3615,6 +3623,7 @@
 | 522 | Simone Rocha フラワードレス | Simone Rocha | 1 | 1 | 0 |
 | 522 | Sincere Japan ナチュラルローゼルストリング | Sincere Japan | 1 | 1 | 0 |
 | 522 | Sisi Joia NOUE | Sisi Joia | 1 | 1 | 0 |
+| 522 | Skechers Hands Free Slip-ins | Skechers | 1 | 1 | 0 |
 | 522 | Skin Bae x Rosehip | The Daily Essential Co. | 1 | 1 | 0 |
 | 522 | Skullcandy Crusher PLYR 720 | Skullcandy | 1 | 1 | 0 |
 | 522 | Skylight Calendar | Skylight | 1 | 1 | 0 |
@@ -3907,6 +3916,7 @@
 | 522 | [Thsucords 90度直角USB C延長ケーブル](https://www.amazon.co.jp/dp/B0C8J8DX24) | Thsucords | 1 | 1 | 0 |
 | 522 | [TiMOVO iPad （A16）11世代 ケース](https://www.amazon.co.jp/dp/B0B93DS5MG) | TiMOVO | 1 | 1 | 0 |
 | 522 | Tibi Grey Set | Tibi | 1 | 1 | 0 |
+| 522 | Tibi Unisex Tee | Tibi | 1 | 1 | 0 |
 | 522 | Tiffany & Co. Elsa Peretti Bean Necklace (Silver) | Tiffany & Co. | 1 | 1 | 0 |
 | 522 | Tiffany & Co. パロマグラフィティ ラブリング | Tiffany & Co. | 1 | 1 | 0 |
 | 522 | Tiffany ベネチアン リンク ブレスレット | Tiffany | 1 | 1 | 0 |
@@ -3935,6 +3945,7 @@
 | 522 | Tory Burch Miller Sandals | Tory Burch | 1 | 1 | 0 |
 | 522 | Toteme Coat | Toteme | 1 | 1 | 0 |
 | 522 | Toteme Downtown Shearling Boots | Toteme | 1 | 1 | 0 |
+| 522 | Toteme Suiting Skirt | Toteme | 1 | 1 | 0 |
 | 522 | TourBox Elite | TourBox | 1 | 1 | 0 |
 | 522 | TrackMan iO Golf Simulator | TrackMan | 1 | 1 | 0 |
 | 522 | Traditional Weatherwear WAVERLY キルトジャケット | Traditional Weatherwear | 1 | 1 | 0 |
@@ -4150,6 +4161,7 @@
 | 522 | Waitrose Fairtrade Italian Style Coffee Bags | Waitrose | 1 | 1 | 0 |
 | 522 | Walrus Audio Canvas Power HP+ | Walrus Audio | 1 | 1 | 0 |
 | 522 | Warby Parker Sunglasses | Warby Parker | 1 | 1 | 0 |
+| 522 | Wardrobe NYC Blazer | Wardrobe NYC | 1 | 1 | 0 |
 | 522 | Washlet C5 | TOTO | 1 | 1 | 0 |
 | 522 | Watch the Wind WtW 半门襟套头抓绒中间层 | Watch the Wind | 1 | 1 | 0 |
 | 522 | Watch the Wind WtW 弹力可机洗美丽奴紧身打底衫 | Watch the Wind | 1 | 1 | 0 |
@@ -4267,7 +4279,11 @@
 | 522 | ZTE Sora / Kumo AX3000 | ZTE | 1 | 1 | 0 |
 | 522 | ZTEEG XXQ01 | ZTEEG | 1 | 1 | 0 |
 | 522 | ZUNDA DEV ROUTER | ZUNDA | 1 | 1 | 0 |
+| 522 | Zara tee | Zara | 1 | 1 | 0 |
 | 522 | ZaruBall |  | 1 | 1 | 0 |
+| 522 | Zimmermann Illuminate Lace Shorts | Zimmermann | 1 | 1 | 0 |
+| 522 | Zimmermann Poplin Skirt | Zimmermann | 1 | 1 | 0 |
+| 522 | Zimmermann Poplin Top | Zimmermann | 1 | 1 | 0 |
 | 522 | Zip Collar Sweatshirt | Merz b. Schwanen | 1 | 1 | 0 |
 | 522 | [Ziploc イージージッパー](https://www.amazon.co.jp/dp/B08L6L9BNB) | Ziploc | 1 | 1 | 0 |
 | 522 | Ziploc ジップロック コンテナー 長方形 | Ziploc | 1 | 1 | 0 |
@@ -7999,5 +8015,7 @@
 - [My Favorite Products of 2025: Tech, Home & Beauty Picks](https://www.chachafance.com/2026/01/my-favorite-products-of-2025-tech-home.html)
 - [2025 Best Purchases](https://thenutmegmillennial.com/2025/12/31/2025-best-purchases/)
 - [2025年買ってよかったもの 0歳育児編](https://lovemac.jp/22246)
+- [Best of 2025](https://merrittbeck.substack.com/p/best-of-2025)
+- [2025 ベストバイ＆ワーストバイ](https://oldlens.exblog.jp/33862523)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。

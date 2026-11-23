@@ -965,3 +965,7 @@
 {"url": "https://www.chachafance.com/2026/01/my-favorite-products-of-2025-tech-home.html", "title": "My Favorite Products of 2025: Tech, Home & Beauty Picks", "found_via": "search", "status": "extracted", "source_id": "chachafance-905c2444"}
 {"url": "https://thenutmegmillennial.com/2025/12/31/2025-best-purchases/", "title": "2025 Best Purchases", "found_via": "search", "status": "extracted", "source_id": "thenutmegmillennial-66f3527d"}
 {"url": "https://lovemac.jp/22246", "title": "2025年買ってよかったもの 0歳育児編", "found_via": "search", "status": "extracted", "source_id": "lovemac-10e05ce7"}
+{"url": "https://merrittbeck.substack.com/p/best-of-2025", "title": "Best of 2025", "found_via": "search", "status": "extracted", "source_id": "merrittbeck-365dc1e2"}
+{"url": "https://alifewellsaved.substack.com/p/my-2025-favorite-purchases", "title": "my 2025 favorite purchases", "found_via": "search", "status": "skipped", "reason": "記事の大半がアフィリエイトリンクと自分の割引コード（ブランドごとのプロモコード）を伴う宣伝形式で、ShopMyでのギフティング依頼にも触れており、提供品の有無が本文から判断できない。また Khaite Arizona boots など2024年購入品が混在し、2025年に買ったものが中心とは言えない。"}
+{"url": "https://mentor.email/p/my-favorite-objects-a-house-walkthrough", "title": "My best purchases of the past years - 2025 edition", "found_via": "search", "status": "skipped", "reason": "タイトルが「My best purchases of the past years - 2025 edition」で、本文は家中にある過去数年の愛用品を紹介するハウスツアー（音声記事）。2025年に買ったものが中心ではないため。"}
+{"url": "https://oldlens.exblog.jp/33862523", "title": "2025 ベストバイ＆ワーストバイ", "found_via": "search", "status": "extracted", "source_id": "oldlens-1a6ba7c4"}
