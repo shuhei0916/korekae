@@ -365,7 +365,7 @@
 {"id": "asin:B09QPWRWLY", "name": "CORSAIR DDR4-3200MHz VENGEANCE LPX CMK32GX4M2C3200C18", "asin": "B09QPWRWLY", "brand": "CORSAIR", "category": "ガジェット"}
 {"id": "asin:B09R3SJNPY", "name": "無印良品 駅の時計 MJ-WCJS1", "asin": "B09R3SJNPY", "brand": "無印良品", "category": "生活用品"}
 {"id": "asin:B09SL5PDFG", "name": "HIGH FIVE 通帳ケース", "asin": "B09SL5PDFG", "brand": "HIGH FIVE", "category": "生活用品"}
-{"id": "asin:B09T5VDW5X", "name": "FiiO JM21", "asin": "B09T5VDW5X", "brand": "FiiO", "category": "ガジェット", "aliases": ["FIIO JM21"]}
+{"id": "asin:B09T5VDW5X", "name": "FIIO JM21", "asin": "B09T5VDW5X", "brand": "FIIO", "category": "ガジェット", "aliases": ["FiiO JM21"]}
 {"id": "asin:B09TSD7NJV", "name": "Anker Magnetic Cable Holder", "asin": "B09TSD7NJV", "brand": "Anker", "category": "生活用品"}
 {"id": "asin:B09TSWPQRT", "name": "Andeor サファリハット", "asin": "B09TSWPQRT", "brand": "Andeor", "category": "ファッション"}
 {"id": "asin:B09TT8GZK9", "name": "Anker 3-in-1 Cube with MagSafe", "asin": "B09TT8GZK9", "brand": "Anker", "category": "ガジェット"}
@@ -1450,6 +1450,7 @@
 {"id": "name:aninebingspencersweatshirt", "name": "Anine Bing Spencer Sweatshirt", "brand": "Anine Bing", "category": "ファッション"}
 {"id": "name:anker364usbcハブ10in1", "name": "Anker 364 USB-C ハブ 10-in-1", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:anker511powerbank", "name": "Anker 511 Power Bank", "brand": "Anker", "category": "ガジェット"}
+{"id": "name:anker727chargingstationganprime100w", "name": "Anker 727 Charging Station (GaNPrime,100W)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:anker735charger65w", "name": "Anker 735 Charger 65W", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:anker737powerbank", "name": "Anker 737 Power Bank", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankercapsulepowerbank2900mah", "name": "Anker Capsule Power Bank 2900mAh", "brand": "Anker", "category": "ガジェット"}
@@ -1465,6 +1466,7 @@
 {"id": "name:ankerkvmswitch4k", "name": "Anker KVM Switch 4K", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerlaptoppowerbank25000mah", "name": "Anker Laptop Power Bank 25,000mAh", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankermaggo3in1ワイヤレス充電器ankerb25m5511", "name": "Anker MagGo 3-in-1 ワイヤレス充電器 ANKERB25M5511", "brand": "Anker", "category": "ガジェット"}
+{"id": "name:ankermaggowirelesscharger2in1stand", "name": "Anker MagGo Wireless Charger (2-in-1, Stand)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankermagneticwirelesscharger", "name": "Anker Magnetic Wireless Charger", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernanocarcharger75w巻取り式usbcケーブル", "name": "Anker Nano Car Charger (75W, 巻取り式 USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernanocharger35w巻取り式", "name": "Anker Nano Charger 35W 巻取り式", "brand": "Anker", "category": "ガジェット"}
@@ -1474,6 +1476,7 @@
 {"id": "name:ankernanopowerbank10000mah45w巻取り式usbcケーブル", "name": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernebulacapsule3laser", "name": "Anker Nebula Capsule 3 Laser", "brand": "Anker", "category": "家電"}
 {"id": "name:ankerpowerbank10000mah225w", "name": "Anker Power Bank (10000mAh, 22.5W)", "brand": "Anker", "category": "ガジェット"}
+{"id": "name:ankerpowerbank10000mahfusionbuiltinusbcケーブル", "name": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbank25000mahbuiltin巻取り式usbcケーブル", "name": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbank30wfusion", "name": "Anker Power Bank (30W, Fusion)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbankfusion10000", "name": "Anker Power Bank Fusion 10000", "brand": "Anker", "category": "ガジェット"}
@@ -1482,6 +1485,7 @@
 {"id": "name:ankerpowerlineii3in1ケーブル", "name": "Anker PowerLine II 3-in-1 ケーブル", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerlineusbcusba30ケーブル", "name": "Anker PowerLine USB-C & USB-A 3.0 ケーブル", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerlineusbcケーブル", "name": "Anker PowerLine USB-C ケーブル", "brand": "Anker", "category": "ガジェット"}
+{"id": "name:ankerpowerportiii3port65wpod", "name": "Anker PowerPortⅢ 3-Port 65W Pod", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerwave10stand", "name": "Anker PowerWave 10 Stand", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerprimecharger", "name": "Anker Prime Charger", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerprimecharger250w", "name": "Anker Prime Charger 250W", "brand": "Anker", "category": "ガジェット"}
@@ -1558,6 +1562,7 @@
 {"id": "name:appleipad第11世代", "name": "Apple iPad 第11世代", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipad第8世代", "name": "Apple iPad 第8世代", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipad第9世代", "name": "Apple iPad 第9世代", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:appleipad第9世代整備済み品64gbシルバー", "name": "Apple iPad 第9世代 整備済み品 64GB シルバー", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleiphone15", "name": "Apple iPhone 15", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleiphone15promax", "name": "Apple iPhone 15 Pro MAX", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple iPhone 15 Pro Max"]}
 {"id": "name:appleiphone16", "name": "iPhone 16", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple iPhone 16"]}
@@ -1674,6 +1679,7 @@
 {"id": "name:atriseledブラケットライト", "name": "LED ブラケットライト", "brand": "atRise", "category": "家電"}
 {"id": "name:atrise巾着バッグ", "name": "atRise 巾着バッグ", "brand": "atRise", "category": "ファッション"}
 {"id": "name:attemptingtodealwithtimeandspaceポスター", "name": "Attempting to deal with time and space ポスター", "category": "生活用品"}
+{"id": "name:audiotechnicaathr50x", "name": "audio-technica ATH-R50x", "brand": "audio-technica", "category": "ガジェット"}
 {"id": "name:audreyうさ耳デニムキャップ", "name": "Audrey うさ耳デニムキャップ", "brand": "Audrey", "category": "ファッション"}
 {"id": "name:auldlangsunロングフーディー", "name": "AULD LANG SUN ロングフーディー", "brand": "AULD LANG SUN", "category": "ファッション"}
 {"id": "name:aupovo20", "name": "au povo2.0", "brand": "au", "category": "サービス"}
@@ -2202,6 +2208,7 @@
 {"id": "name:deheveollyhalfsleeveknit", "name": "DEHEVE Olly Half Sleeve Knit", "brand": "DEHEVE", "category": "ファッション"}
 {"id": "name:delimo電動コーヒーミル", "name": "Delimo 電動コーヒーミル", "brand": "Delimo", "category": "家電"}
 {"id": "name:dell34インチ曲面thunderboltハブモニターu3425we", "name": "Dell 34インチ曲面 Thunderbolt ハブ モニター U3425WE", "brand": "Dell", "category": "ガジェット"}
+{"id": "name:dellinspiron165645ni576afhl", "name": "Dell Inspiron 16 5645 (NI576A-FHL)", "brand": "Dell", "category": "ガジェット"}
 {"id": "name:dellpcモニターs2425hsr", "name": "DELL PCモニター S2425HS-R", "brand": "DELL", "category": "ガジェット"}
 {"id": "name:dells2722qc", "name": "DELL S2722QC", "brand": "DELL", "category": "ガジェット"}
 {"id": "name:dellu3225qe", "name": "Dell U3225QE", "brand": "Dell", "category": "ガジェット"}
@@ -2840,6 +2847,7 @@
 {"id": "name:iconiccandyretrosourstangerinecandies", "name": "Retro Sours Tangerine Candies", "brand": "Iconic Candy", "category": "食品"}
 {"id": "name:idcoolingfrozna620prose", "name": "ID-COOLING FROZN A620 PRO SE", "brand": "ID-COOLING", "category": "ガジェット"}
 {"id": "name:ideacomouthwashbottle", "name": "ideaco MOUTH WASH BOTTLE", "brand": "ideaco", "category": "生活用品"}
+{"id": "name:ifiaudioidsddiablo2", "name": "iFi-Audio iDSD Diablo2", "brand": "iFi-Audio", "category": "ガジェット"}
 {"id": "name:ifootagecobra2rba400", "name": "IFOOTAGE COBRA 2 RB-A400", "brand": "IFOOTAGE", "category": "ガジェット"}
 {"id": "name:iggyモニターアームda112", "name": "iggy モニターアーム DA112", "brand": "iggy", "category": "ガジェット"}
 {"id": "name:iherbgoodsbohtalスポーツボトル", "name": "iHerb Goods Bohtal スポーツボトル", "brand": "iHerb Goods", "category": "生活用品"}
@@ -3662,6 +3670,7 @@
 {"id": "name:motherthelilkickitrelaxedstraightlegjeans", "name": "MOTHER The Lil Kick It Relaxed Straight Leg Jeans", "brand": "MOTHER", "category": "ファッション"}
 {"id": "name:motherthemidrisedazzlerflood", "name": "MOTHER The Mid Rise Dazzler Flood", "brand": "MOTHER", "category": "ファッション"}
 {"id": "name:mothertheramblerjeans", "name": "Mother The Rambler Jeans", "brand": "Mother", "category": "ファッション"}
+{"id": "name:motorolarazr50ultra", "name": "motorola razr 50 ultra", "brand": "motorola", "category": "ガジェット"}
 {"id": "name:motum2", "name": "MOTU M2", "brand": "MOTU", "category": "ガジェット"}
 {"id": "name:motum4", "name": "MOTU M4", "brand": "MOTU", "category": "ガジェット"}
 {"id": "name:motuultralitemk5", "name": "MOTU UltraLite mk5", "brand": "MOTU", "category": "ガジェット"}
@@ -4408,6 +4417,7 @@
 {"id": "name:samsunggalaxys24", "name": "Samsung Galaxy S24", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxys25", "name": "Samsung Galaxy S25", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxys25ultra", "name": "Samsung Galaxy S25 Ultra", "brand": "Samsung", "category": "ガジェット"}
+{"id": "name:samsunggalaxytabs9fe", "name": "Samsung Galaxy Tab S9 FE", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxyultras23", "name": "Galaxy Ultra S23", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxywatch840mmsml320nzsjxjp", "name": "Samsung Galaxy Watch8 40mm SM-L320NZSJXJP", "brand": "Samsung", "category": "ガジェット"}
 {"id": "name:samsunggalaxyzfold6", "name": "Samsung Galaxy Z Fold 6", "brand": "Samsung", "category": "ガジェット"}
@@ -4753,6 +4763,7 @@
 {"id": "name:teamoティアモクリア1day", "name": "TeAmo ティアモクリア 1DAY", "brand": "TeAmo", "category": "その他"}
 {"id": "name:teazenkombuchaコンブチャレモン", "name": "TEAZEN kombucha コンブチャ レモン", "brand": "TEAZEN", "category": "食品"}
 {"id": "name:techarttzm02電子マウントアダプターaf", "name": "TECHART TZM-02 電子マウントアダプター AF", "brand": "TECHART", "category": "ガジェット"}
+{"id": "name:technicseahaz80", "name": "Technics EAH-AZ80", "brand": "Technics", "category": "ガジェット"}
 {"id": "name:technicsワイヤレスイヤホンaz80", "name": "Technics ワイヤレスイヤホン AZ-80", "brand": "Technics", "category": "ガジェット"}
 {"id": "name:teenageengineeringep40ep2350launchkit", "name": "teenage engineering EP-40 + EP-2350 launch kit", "brand": "teenage engineering", "category": "ガジェット"}
 {"id": "name:teiqガラスフィルムgfdsblc04", "name": "TEIQ ガラスフィルム GFDS-BLC-04", "brand": "TEIQ", "category": "ガジェット"}
@@ -4824,6 +4835,8 @@
 {"id": "name:thesaemコンシーラー", "name": "The Saem コンシーラー", "brand": "The Saem", "category": "生活用品"}
 {"id": "name:thesuperiorlabor钱包", "name": "THE SUPERIOR LABOR 钱包", "brand": "THE SUPERIOR LABOR", "category": "ファッション"}
 {"id": "name:thetragicallyhipabcs絵本", "name": "The Tragically Hip ABCs（絵本）", "brand": "The Tragically Hip", "category": "本"}
+{"id": "name:thieaudioelitenoircable", "name": "THIEAUDIO EliteNoir Cable", "brand": "THIEAUDIO", "category": "ガジェット"}
+{"id": "name:thieaudiohype10", "name": "THIEAUDIO Hype 10", "brand": "THIEAUDIO", "category": "ガジェット"}
 {"id": "name:thornebasicnutrients2day", "name": "Thorne Basic Nutrients 2/Day", "brand": "Thorne", "category": "食品"}
 {"id": "name:thorneビタミンd3k2", "name": "Thorne ビタミンD3+K2", "brand": "Thorne", "category": "食品"}
 {"id": "name:threekey4in1ワイヤレス充電器", "name": "Threekey 4in1 ワイヤレス充電器", "brand": "Threekey", "category": "ガジェット"}
@@ -4977,6 +4990,7 @@
 {"id": "name:ugreenusb304ポートハブ4a15cm", "name": "UGREEN USB3.0 4ポート ハブ 4A-15CM", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenusbctoa変換アダプタ", "name": "UGREEN USB-C to A 変換アダプタ", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenusbtypechdmi変換ケーブル", "name": "UGREEN USB Type C HDMI 変換ケーブル", "brand": "UGREEN", "category": "ガジェット"}
+{"id": "name:ugreenタブレットアームスタンド", "name": "UGREEN タブレット アーム スタンド", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenノートパソコンスタンド", "name": "UGREEN ノートパソコンスタンド", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenモバイルバッテリーpb536", "name": "UGREEN モバイルバッテリー PB536", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenワイヤレスヘッドホンウルトラノイズキャンセリング", "name": "UGREEN ワイヤレスヘッドホン ウルトラノイズキャンセリング", "brand": "UGREEN", "category": "ガジェット"}
@@ -5539,6 +5553,7 @@
 {"id": "name:エニタイムフィットネス", "name": "エニタイムフィットネス", "category": "サービス"}
 {"id": "name:エヌティー円切りカッターic1500p", "name": "エヌティー 円切りカッター iC-1500P", "brand": "エヌティー", "category": "その他"}
 {"id": "name:エプソムソルトオリジナル", "name": "エプソムソルト オリジナル", "category": "生活用品"}
+{"id": "name:エプソンカラリオep885aw", "name": "エプソン カラリオ EP-885AW", "brand": "エプソン", "category": "家電"}
 {"id": "name:エペイオス電動歯ブラシ", "name": "エペイオス 電動歯ブラシ", "brand": "エペイオス", "category": "家電"}
 {"id": "name:エムプラン2026カレンダーキュービックス卓上2ヶ月ベーシック2040040165", "name": "エムプラン 2026 カレンダー キュービックス 卓上 2ヶ月 ベーシック 204004-01-65", "brand": "エムプラン", "category": "生活用品"}
 {"id": "name:エラボー", "name": "エラボー", "category": "その他"}
@@ -6201,6 +6216,7 @@
 {"id": "name:ニッカ弘前生シードルドライ", "name": "ニッカ弘前 生シードル ドライ", "brand": "ニッカ", "category": "食品"}
 {"id": "name:ニトリ2wayワンプッシュキャニスター8931158", "name": "ニトリ 2WAYワンプッシュキャニスター 8931158", "brand": "ニトリ", "category": "生活用品"}
 {"id": "name:ニトリ2枚合わせ袖付きスマホ毛布nウォームwspa2514", "name": "2枚合わせ袖付きスマホ毛布 NウォームWSP A2514", "brand": "ニトリ", "category": "生活用品"}
+{"id": "name:ニトリ4wayusbコードレスマグネット付きクリップファンtf28ng", "name": "ニトリ 4WAY USBコードレスマグネット付きクリップファン TF28NG", "brand": "ニトリ", "category": "家電"}
 {"id": "name:ニトリnウォームすっぽりシーツ", "name": "ニトリ Nウォーム すっぽりシーツ", "brand": "ニトリ", "category": "生活用品"}
 {"id": "name:ニトリnクールwsp", "name": "ニトリ Nクール WSP", "brand": "ニトリ", "category": "生活用品"}
 {"id": "name:ニトリnボルダ", "name": "ニトリ Nボルダ", "brand": "ニトリ", "category": "生活用品"}
@@ -6277,6 +6293,7 @@
 {"id": "name:バキ童しょっぱい熱湯でいいプロテイン", "name": "バキ童 しょっぱい熱湯でいいプロテイン", "brand": "バキ童", "category": "食品"}
 {"id": "name:バスティンプラス", "name": "バスティンプラス", "brand": "バスティン", "category": "アプリ"}
 {"id": "name:バスデイシュガペン58s", "name": "バスデイ シュガペン 58S", "brand": "バスデイ", "category": "アウトドア"}
+{"id": "name:バッファローax3000メッシュwifiルーターwnr3000ax42sn", "name": "バッファロー AX3000 メッシュWi-Fiルーター WNR-3000AX4/2SN", "brand": "バッファロー", "category": "ガジェット"}
 {"id": "name:バッファローssdphp10u3ban", "name": "バッファロー SSD-PHP1.0U3BA/N", "brand": "バッファロー", "category": "ガジェット"}
 {"id": "name:バドゼロ", "name": "バドゼロ", "category": "食品"}
 {"id": "name:バドワイザービール", "name": "バドワイザー ビール", "brand": "バドワイザー", "category": "食品"}
@@ -7314,6 +7331,7 @@
 {"id": "name:無印良品ポリエステルたためる仕分けケース筒形", "name": "無印良品 ポリエステルたためる仕分けケース・筒形", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品ポリエステルダブルファスナーケース", "name": "無印良品 ポリエステルダブルファスナーケース", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品ポリエステルメッシュ巾着ダブルタイプ", "name": "無印良品 ポリエステルメッシュ巾着 ダブルタイプ", "brand": "無印良品", "category": "生活用品"}
+{"id": "name:無印良品ポリプロピレンカードホルダーサイド収納3段180ポケット44596999", "name": "無印良品 ポリプロピレンカードホルダー・サイド収納 3段・180ポケット 44596999", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品ポリプロピレン収納ストッカー追加用中83832162", "name": "無印良品 ポリプロピレン 収納ストッカー 追加用 中 83832162", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品ポリプロピレン薄型ハンガー", "name": "無印良品 ポリプロピレン薄型ハンガー", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品マンスリーウィークリー手帳b6", "name": "無印良品 マンスリーウィークリー手帳 B6", "brand": "無印良品", "category": "生活用品"}
@@ -7377,6 +7395,7 @@
 {"id": "name:無印良品練り香水", "name": "無印良品 練り香水", "brand": "無印良品", "category": "美容"}
 {"id": "name:無印良品美濃焼飯碗丸型", "name": "無印良品 美濃焼 飯碗 丸型", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品羽織れる電気ブランケット", "name": "無印良品 羽織れる電気ブランケット", "brand": "無印良品", "category": "家電"}
+{"id": "name:無印良品羽織れる電気ブランケットmjehb13dbep", "name": "無印良品 羽織れる電気ブランケット MJ-EHB13DBEP", "brand": "無印良品", "category": "生活用品"}
 {"id": "name:無印良品背面ポケット付き撥水ショルダーバッグ", "name": "無印良品 背面ポケット付き 撥水ショルダーバッグ", "brand": "無印良品", "category": "ファッション"}
 {"id": "name:無印良品脇に縫い目のないvネックt", "name": "無印良品 脇に縫い目のない VネックT", "brand": "無印良品", "category": "ファッション"}
 {"id": "name:無印良品自由に巻けるループクッション", "name": "無印良品 自由に巻けるループクッション", "brand": "無印良品", "category": "生活用品"}
