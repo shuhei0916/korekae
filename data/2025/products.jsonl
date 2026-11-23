@@ -1524,6 +1524,7 @@
 {"id": "name:apolosign32inchfhdsmartportabletv2ndgen", "name": "ApoloSign 32 Inch FHD Smart Portable TV 2nd Gen", "brand": "ApoloSign", "category": "家電"}
 {"id": "name:apothekefragranceapfrアポテーケフラグランス", "name": "APOTHEKE FRAGRANCE APFR アポテーケフラグランス", "brand": "APOTHEKE FRAGRANCE", "category": "生活用品"}
 {"id": "name:apple11インチipadairm3", "name": "Apple 11インチ iPad Air (M3)", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:apple240w充電ケーブル2m", "name": "Apple 240W充電ケーブル（2m）", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods", "name": "Apple AirPods", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods4", "name": "Apple AirPods 4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods4wirelessearbudsactivenoisecancellation", "name": "Apple AirPods 4 Wireless Earbuds（Active Noise Cancellation）", "brand": "Apple", "category": "ガジェット"}
@@ -1544,6 +1545,7 @@
 {"id": "name:appleipadmini", "name": "Apple iPad mini", "brand": "Apple", "category": "ガジェット", "aliases": ["iPad Mini", "iPad mini"]}
 {"id": "name:appleipadmini第6世代", "name": "Apple iPad mini 第6世代", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadpro13インチm4", "name": "Apple iPad Pro 13インチ M4", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:appleipadpro13インチm5512gb", "name": "Apple iPad Pro 13インチ (M5, 512GB)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadpro202211インチ第4世代", "name": "Apple iPad Pro 2022 11インチ (第4世代)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadprom4", "name": "Apple iPad Pro M4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadprom411inch", "name": "Apple iPad Pro M4 11inch", "brand": "Apple", "category": "ガジェット"}
@@ -1577,6 +1579,7 @@
 {"id": "name:applemacminim416gb256gb", "name": "Apple Mac mini M4 (16GB/256GB)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacminim4pro", "name": "Apple Mac mini M4 Pro", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacstudiom3ultra", "name": "Apple Mac Studio M3 Ultra", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:applemacstudiom448gb2tb", "name": "Apple Mac Studio M4 (48GB/2TB)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemagickeyboard", "name": "Apple Magic Keyboard", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemagickeyboardwithtouchid", "name": "Apple Magic Keyboard with Touch ID", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemagictrackpad", "name": "Apple Magic Trackpad", "brand": "Apple", "category": "ガジェット"}
@@ -2285,6 +2288,7 @@
 {"id": "name:eccosoft7sneakers", "name": "ECCO Soft 7 Sneakers", "brand": "ECCO", "category": "ファッション"}
 {"id": "name:echtpowerコントローラー", "name": "ECHTPower コントローラー", "brand": "ECHTPower", "category": "ゲーム"}
 {"id": "name:ecoflowdelta2maxs", "name": "EcoFlow DELTA 2 Max S", "brand": "EcoFlow", "category": "家電"}
+{"id": "name:ecoflowrapidpowerpro", "name": "EcoFlow Rapid Power Pro", "brand": "EcoFlow", "category": "ガジェット"}
 {"id": "name:ecoflowriver3", "name": "EcoFlow RIVER 3", "brand": "EcoFlow", "category": "家電"}
 {"id": "name:ecoflowwave3", "name": "EcoFlow WAVE 3", "brand": "EcoFlow", "category": "家電"}
 {"id": "name:ecovacsdeebotn30plus", "name": "ECOVACS DEEBOT N30 PLUS", "brand": "ECOVACS", "category": "家電"}
@@ -2308,6 +2312,7 @@
 {"id": "name:eizoflexscanev2451", "name": "EIZO FlexScan EV2451", "brand": "EIZO", "category": "ガジェット"}
 {"id": "name:eizoflexscanev3240xbk", "name": "EIZO FlexScan EV3240X-BK", "brand": "EIZO", "category": "ガジェット"}
 {"id": "name:ekans棚付きランドリーラックlsh530w", "name": "ekans 棚付きランドリーラック LSH-530W", "brand": "ekans", "category": "生活用品"}
+{"id": "name:elagoクリアapplewatchバンド", "name": "Elago クリア Apple Watch バンド", "brand": "Elago", "category": "ガジェット"}
 {"id": "name:eldoresocommuterunrucke8001524", "name": "ELDORESO Commute Run Ruck E8001524", "brand": "ELDORESO", "category": "ファッション"}
 {"id": "name:elecomexgマウスmxgm50mbskbk", "name": "ELECOM EX-Gマウス M-XGM50MBSKBK", "brand": "ELECOM", "category": "ガジェット"}
 {"id": "name:elecomlbtows03", "name": "ELECOM LBT-OWS03", "brand": "ELECOM", "category": "ガジェット"}
@@ -2693,6 +2698,7 @@
 {"id": "name:hhkbprofessionalclassictypes", "name": "HHKB Professional Classic Type-S", "brand": "HHKB", "category": "ガジェット"}
 {"id": "name:hidemasaコードレススポットライト", "name": "hidemasa コードレス スポットライト", "brand": "hidemasa", "category": "生活用品"}
 {"id": "name:hidisc準固体電池モバイルバッテリーhd4ssmbtc30w10dsbk", "name": "HIDISC 準固体電池モバイルバッテリー HD4-SSMBTC30W10DSBK", "brand": "HIDISC", "category": "ガジェット"}
+{"id": "name:hidratesparkpro2", "name": "HidrateSpark Pro 2", "brand": "HidrateSpark", "category": "生活用品"}
 {"id": "name:higherdoseinfraredsaunablanket", "name": "HigherDOSE Infrared Sauna Blanket", "brand": "HigherDOSE", "category": "家電"}
 {"id": "name:highfiveレザートレー", "name": "レザートレー", "brand": "HIGH FIVE", "category": "生活用品"}
 {"id": "name:highmaintenancedetergent", "name": "High Maintenance Detergent", "brand": "High Maintenance", "category": "生活用品"}
@@ -2717,6 +2723,7 @@
 {"id": "name:holloweverydaybootandcrewsocks", "name": "Hollow Everyday Boot and Crew Socks", "brand": "Hollow", "category": "ファッション"}
 {"id": "name:hollowknightsilksong", "name": "Hollow Knight: Silksong", "category": "ゲーム"}
 {"id": "name:hollylandlarkm2combo", "name": "Hollyland Lark M2 Combo", "brand": "Hollyland", "category": "ガジェット"}
+{"id": "name:hollylandlarkm2s", "name": "Hollyland Lark M2S", "brand": "Hollyland", "category": "ガジェット"}
 {"id": "name:hollylandlarkm2sminicombo", "name": "Hollyland Lark M2S Mini Combo", "brand": "Hollyland", "category": "ガジェット"}
 {"id": "name:holtsホルツサビチェンジャーハケ塗りタイプmh116", "name": "Holts ホルツ サビチェンジャー ハケ塗りタイプ MH116", "brand": "Holts", "category": "生活用品"}
 {"id": "name:homecourtkitchentrioincece", "name": "Kitchen Trio in Cece", "brand": "Homecourt", "category": "生活用品"}
@@ -2894,6 +2901,7 @@
 {"id": "name:jcrewpajamas", "name": "Pajamas", "brand": "J.Crew", "category": "ファッション"}
 {"id": "name:jcrewrollnecksweater", "name": "Rollneck Sweater", "brand": "J.Crew", "category": "ファッション", "aliases": ["J.Crew Roll-Neck Sweater"]}
 {"id": "name:jcrewslimjeans", "name": "J.Crew Slim Jeans", "brand": "J.Crew", "category": "ファッション"}
+{"id": "name:jemdoswitch2ドック", "name": "Jemdo Switch 2 ドック", "brand": "Jemdo", "category": "ガジェット"}
 {"id": "name:jennikayneflynnvneckpullover", "name": "Jenni Kayne Flynn V-Neck Pullover", "brand": "Jenni Kayne", "category": "ファッション"}
 {"id": "name:jessemmastrliftiirouterlift", "name": "Mast-R-Lift II Router Lift", "brand": "JessEm", "category": "その他"}
 {"id": "name:jessicamccormackdiamondpearlcutdownhoopearrings", "name": "Diamond & Pearl Cut-Down Hoop Earrings", "brand": "Jessica McCormack", "category": "ファッション"}
@@ -3082,6 +3090,7 @@
 {"id": "name:kutfromtheklothhollyskirt", "name": "KUT from the Kloth Holly Skirt", "brand": "KUT from the Kloth", "category": "ファッション"}
 {"id": "name:kutsugoods伸びる靴紐イージーシューレース", "name": "KutsuGoods 伸びる靴紐 イージーシューレース", "brand": "KutsuGoods", "category": "ファッション"}
 {"id": "name:kuxiux36promax2024", "name": "KU XIU X36 PRO MAX 2024", "brand": "KU XIU", "category": "ガジェット"}
+{"id": "name:kuxiux40turbo", "name": "Kuxiu X40 Turbo", "brand": "Kuxiu", "category": "ガジェット"}
 {"id": "name:kyasyaエンクロージャーピアス", "name": "KYASYA エンクロージャーピアス", "brand": "KYASYA", "category": "ファッション"}
 {"id": "name:kyucamera", "name": "kyu camera", "brand": "kyu", "category": "ガジェット"}
 {"id": "name:kérastasedisciplinekeratinsmoothshampooconditioner", "name": "Kérastase Discipline Keratin Smooth Shampoo & Conditioner", "brand": "Kérastase", "category": "その他"}
@@ -3240,6 +3249,7 @@
 {"id": "name:logicoolワイヤレスマウスm550low", "name": "Logicool ワイヤレスマウス M550LOW", "brand": "Logicool", "category": "ガジェット"}
 {"id": "name:logitechergom575sp", "name": "Logitech ERGO M575SP", "brand": "Logitech", "category": "ガジェット"}
 {"id": "name:logitechmxergo", "name": "Logitech MX Ergo", "brand": "Logitech", "category": "ガジェット"}
+{"id": "name:logitechmxmaster4", "name": "Logitech MX Master 4", "brand": "Logitech", "category": "ガジェット"}
 {"id": "name:logitec外付けssdlmdspdh025uc", "name": "Logitec 外付けSSD LMD-SPDH025UC", "brand": "Logitec", "category": "ガジェット"}
 {"id": "name:lohastyleスーパー大麦バーリーマックス", "name": "スーパー大麦 バーリーマックス", "brand": "LOHAStyle", "category": "食品", "aliases": ["LOHAStyle スーパー大麦 バーリーマックス"]}
 {"id": "name:lolablanket", "name": "Lola Blanket", "brand": "Lola", "category": "生活用品"}
@@ -3567,6 +3577,7 @@
 {"id": "name:morrflateairhub", "name": "MORRflate Air Hub", "brand": "MORRflate", "category": "アウトドア"}
 {"id": "name:mosmee電気毛布", "name": "MOSMEE 電気毛布", "brand": "MOSMEE", "category": "家電"}
 {"id": "name:motermhobonichiweeks用レザーカバー", "name": "MOTERM Hobonichi Weeks用 レザーカバー", "brand": "MOTERM", "category": "その他"}
+{"id": "name:mothcaマット画面保護フィルム", "name": "Mothca マット画面保護フィルム", "brand": "Mothca", "category": "ガジェット"}
 {"id": "name:motherrambleranklejeans", "name": "Mother Rambler Ankle Jeans", "brand": "Mother", "category": "ファッション"}
 {"id": "name:motherthedazzlerjeans", "name": "Mother The Dazzler Jeans", "brand": "Mother", "category": "ファッション"}
 {"id": "name:motherthehustlerrollersneak", "name": "MOTHER The Hustler Roller Sneak", "brand": "MOTHER", "category": "ファッション"}
@@ -4694,6 +4705,7 @@
 {"id": "name:theryokantokyoyugawara大人の原稿執筆パック", "name": "THE RYOKAN TOKYO YUGAWARA 大人の原稿執筆パック", "brand": "THE RYOKAN TOKYO YUGAWARA", "category": "サービス"}
 {"id": "name:thesaemコンシーラー", "name": "The Saem コンシーラー", "brand": "The Saem", "category": "生活用品"}
 {"id": "name:thesuperiorlabor钱包", "name": "THE SUPERIOR LABOR 钱包", "brand": "THE SUPERIOR LABOR", "category": "ファッション"}
+{"id": "name:thetragicallyhipabcs絵本", "name": "The Tragically Hip ABCs（絵本）", "brand": "The Tragically Hip", "category": "本"}
 {"id": "name:thornebasicnutrients2day", "name": "Thorne Basic Nutrients 2/Day", "brand": "Thorne", "category": "食品"}
 {"id": "name:thorneビタミンd3k2", "name": "Thorne ビタミンD3+K2", "brand": "Thorne", "category": "食品"}
 {"id": "name:threekey4in1ワイヤレス充電器", "name": "Threekey 4in1 ワイヤレス充電器", "brand": "Threekey", "category": "ガジェット"}
@@ -4832,6 +4844,7 @@
 {"id": "name:ugreennasyncdh2300", "name": "UGREEN NASync DH2300", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreennasyncdxp4800plus", "name": "UGREEN NASync DXP4800 Plus", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreennexode100w充電器cd226", "name": "UGREEN Nexode 100W 充電器 CD226", "brand": "UGREEN", "category": "ガジェット"}
+{"id": "name:ugreennexodeproflat充電器65w", "name": "UGreen Nexode Pro Flat 充電器 65W", "brand": "UGreen", "category": "ガジェット"}
 {"id": "name:ugreennexodepro充電器", "name": "UGREEN Nexode Pro 充電器", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenpd31モバイルバッテリーpb205", "name": "UGREEN PD3.1 モバイルバッテリー PB205", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreenrevodokpro314usbcドッキングステーション", "name": "UGREEN Revodok Pro 314 USB-Cドッキングステーション", "brand": "UGREEN", "category": "ガジェット"}
@@ -4854,6 +4867,7 @@
 {"id": "name:ulanzizj02カメラアーム", "name": "Ulanzi ZJ02 カメラアーム", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "name:ulanziカメラスマホモニターマウント", "name": "Ulanzi カメラスマホモニターマウント", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "name:ulanziスマホ三脚多機能スマホグリップjj03", "name": "Ulanzi スマホ三脚 多機能スマホグリップ JJ03", "brand": "Ulanzi", "category": "ガジェット"}
+{"id": "name:ulanziポータブル磁気式三脚", "name": "Ulanzi ポータブル磁気式三脚", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "name:ulanziミニカメラフラッシュsl01", "name": "Ulanzi ミニカメラフラッシュ SL01", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "name:ulanziリングライトlm19", "name": "Ulanzi リングライト LM19", "brand": "Ulanzi", "category": "ガジェット"}
 {"id": "name:ulanzi多機能スマホグリップ", "name": "Ulanzi 多機能スマホグリップ", "brand": "Ulanzi", "category": "ガジェット"}
@@ -5021,6 +5035,7 @@
 {"id": "name:wimiusk13", "name": "WiMiUS K13", "brand": "WiMiUS", "category": "家電"}
 {"id": "name:witwisdomabsolutionblackjeans", "name": "Wit & Wisdom Absolution Black Jeans", "brand": "Wit & Wisdom", "category": "ファッション"}
 {"id": "name:wobkeyrainy75キーボードpro", "name": "WOBKEY Rainy 75キーボード Pro", "brand": "WOBKEY", "category": "ガジェット"}
+{"id": "name:wokyisretrodockformacmini", "name": "Wokyis Retro Dock for Mac mini", "brand": "Wokyis", "category": "ガジェット"}
 {"id": "name:wolfxlibertymediumzipcase", "name": "Wolf x Liberty Medium Zip Case", "brand": "Wolf", "category": "生活用品"}
 {"id": "name:wonderskineyeliner", "name": "Wonderskin Eyeliner", "brand": "Wonderskin", "category": "生活用品"}
 {"id": "name:wonderskinlipstain", "name": "Wonderskin Lip Stain", "brand": "Wonderskin", "category": "生活用品"}

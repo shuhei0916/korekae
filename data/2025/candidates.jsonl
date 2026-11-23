@@ -995,3 +995,9 @@
 {"url": "https://secretstuff.substack.com/p/not-a-gift-guide-gift-guide-2025", "title": "not a gift guide 2025", "found_via": "search", "status": "skipped", "reason": "自称ギフトガイド（Not A Gift Guide (Gift Guide) 2025）で、購入品以外の推薦やウィッシュリストを含むため"}
 {"url": "https://elisabethmcknight.com/10-favorite-purchases-of-2025/", "title": "10 Favorite Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "elisabethmcknight-de6fb98b"}
 {"url": "https://katiecouric.com/?p=256086", "title": "Katie Couric staff purchased 2025", "found_via": "search", "status": "extracted", "source_id": "katiecouric-41fc7336"}
+{"url": "https://nlab.itmedia.co.jp/fav/articles/3927747/", "title": "ねとらぼ 2025", "found_via": "search", "status": "skipped", "reason": "2024年の買い物を扱う記事（公開2025-01-04）のため対象外"}
+{"url": "https://9to5mac.com/2025/12/29/i-used-a-lot-of-tech-products-in-2025-these-were-my-favorite/", "title": "9to5mac favorite 2025", "found_via": "search", "status": "extracted", "source_id": "9to5mac-714aab31"}
+{"url": "https://mobilesyrup.com/2025/11/14/my-favourite-amazon-purchases-of-2025/", "title": "MobileSyrup favourite amazon purchases 2025", "found_via": "search", "status": "extracted", "source_id": "mobilesyrup-e417a7d9"}
+{"url": "https://appleinsider.com/articles/26/01/01/williams-best-tech-in-2025-mac-studio-ipad-pro-and-so-much-from-elgato", "title": "appleinsider williams best tech 2025", "found_via": "search", "status": "extracted", "source_id": "appleinsider-395daf46"}
+{"url": "https://www.buzzfeed.com/maitlandquitmeyer/reviewers-best-purchase-2025", "title": "BuzzFeed reviewers best purchase 2025", "found_via": "search", "status": "skipped", "reason": "PR・アフィリエイト目的の商品まとめ（掲載品の多くは筆者の購入品ではなく、Amazonの購入者レビューの引用）"}
+{"url": "https://www.theartofdoingstuff.com/?p=178566", "title": "Art of Doing Stuff 2025", "found_via": "search", "status": "skipped", "reason": "2025年7月27日公開の途中経過（上半期）の記事のため対象外"}
