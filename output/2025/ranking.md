@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-804件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+809件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -9,11 +9,11 @@
 | 3 | [Apple iPhone 17](https://www.amazon.co.jp/dp/B0FQG91G3M) | Apple | 14 | 14 | 1 |
 | 4 | [Apple iPhone 17 Pro](https://www.amazon.co.jp/dp/B0FQFY14WC) | Apple | 14 | 14 | 0 |
 | 5 | [DJI Osmo Pocket 3](https://www.amazon.co.jp/dp/B0CG19FGQ5) | DJI | 10 | 10 | 1 |
-| 6 | [Amazon Kindle Paperwhite](https://www.amazon.co.jp/dp/B0CFPL6CFY) | Amazon | 9 | 9 | 1 |
-| 7 | [Anker Soundcore Liberty 5](https://www.amazon.co.jp/dp/B0DRVB48LJ) | Anker | 9 | 10 | 0 |
-| 8 | [Apple MacBook Air 13インチ M4](https://www.amazon.co.jp/dp/B0DZDMQYQL) | Apple | 9 | 9 | 0 |
-| 8 | [SwitchBot CO2センサー](https://www.amazon.co.jp/dp/B0DBLKNYPY) | SwitchBot | 9 | 9 | 0 |
-| 10 | [Bambu Lab A1 mini](https://www.amazon.co.jp/dp/B0CRYJBKQQ) | Bambu Lab | 8 | 8 | 2 |
+| 6 | [Bambu Lab A1 mini](https://www.amazon.co.jp/dp/B0CRYJBKQQ) | Bambu Lab | 9 | 9 | 2 |
+| 7 | [Amazon Kindle Paperwhite](https://www.amazon.co.jp/dp/B0CFPL6CFY) | Amazon | 9 | 9 | 1 |
+| 8 | [Anker Soundcore Liberty 5](https://www.amazon.co.jp/dp/B0DRVB48LJ) | Anker | 9 | 10 | 0 |
+| 9 | [Apple MacBook Air 13インチ M4](https://www.amazon.co.jp/dp/B0DZDMQYQL) | Apple | 9 | 9 | 0 |
+| 9 | [SwitchBot CO2センサー](https://www.amazon.co.jp/dp/B0DBLKNYPY) | SwitchBot | 9 | 9 | 0 |
 | 11 | [Anker Nano Charging Station](https://www.amazon.co.jp/dp/B0DPWTZ936) | Anker | 8 | 9 | 0 |
 | 12 | Audible | Audible | 8 | 8 | 0 |
 | 13 | [Edifier M60](https://www.amazon.co.jp/dp/B0D93NFXVL) | Edifier | 7 | 8 | 1 |
@@ -23,19 +23,19 @@
 | 16 | [Apple Watch Series 11](https://www.amazon.co.jp/dp/B0FQFWJX26) | Apple | 7 | 7 | 0 |
 | 18 | [Nikon Z5II](https://www.amazon.co.jp/dp/B0F3HNP44R) | Nikon | 6 | 9 | 1 |
 | 19 | [Apple iPhone 17 Pro Max](https://www.amazon.co.jp/dp/B0FRSYSQ4M) | Apple | 6 | 8 | 0 |
+| 20 | [Apple AirPods Max](https://www.amazon.co.jp/dp/B0DGJ8RY32) | Apple | 6 | 6 | 0 |
 | 20 | [Apple Watch Series 10](https://www.amazon.co.jp/dp/B0DGJ5BTFR) | Apple | 6 | 6 | 0 |
 | 20 | [Xiaomi Smart Band 10](https://www.amazon.co.jp/dp/B0DYF7HLQ2) | Xiaomi | 6 | 6 | 0 |
-| 22 | Apple iPhone 16 Pro | Apple | 5 | 6 | 0 |
-| 22 | [HUAWEI Band 10](https://www.amazon.co.jp/dp/B0DZH1XVYN) | HUAWEI | 5 | 6 | 0 |
-| 24 | [Anker Prime Power Bank Fusion](https://www.amazon.co.jp/dp/B0D7D8JP6Q) | Anker | 5 | 5 | 0 |
-| 24 | [Apple AirPods Max](https://www.amazon.co.jp/dp/B0DGJ8RY32) | Apple | 5 | 5 | 0 |
-| 24 | [Apple AirTag](https://www.amazon.co.jp/dp/B0936FGTX5) | Apple | 5 | 5 | 0 |
-| 24 | CHANEL ル ルージュ デュオ ウルトラ トゥニュ | CHANEL | 5 | 5 | 0 |
-| 24 | [Insta360 GO Ultra](https://www.amazon.co.jp/dp/B0FH22RB4S) | Insta360 | 5 | 5 | 0 |
-| 24 | Kindle Unlimited | Amazon | 5 | 5 | 0 |
-| 24 | [Samsung Galaxy Z Fold7](https://www.amazon.co.jp/dp/B0FGNN555T) | Samsung | 5 | 5 | 0 |
-| 24 | [UGREEN NASync DXP2800](https://www.amazon.co.jp/dp/B0DXKZV61R) | UGREEN | 5 | 5 | 0 |
-| 24 | [無印良品 竹材 蒸篭](https://www.amazon.co.jp/dp/B0DFM4RKVN) | 無印良品 | 5 | 5 | 0 |
+| 23 | Apple iPhone 16 Pro | Apple | 5 | 6 | 0 |
+| 23 | [HUAWEI Band 10](https://www.amazon.co.jp/dp/B0DZH1XVYN) | HUAWEI | 5 | 6 | 0 |
+| 25 | [Anker Prime Power Bank Fusion](https://www.amazon.co.jp/dp/B0D7D8JP6Q) | Anker | 5 | 5 | 0 |
+| 25 | [Apple AirTag](https://www.amazon.co.jp/dp/B0936FGTX5) | Apple | 5 | 5 | 0 |
+| 25 | CHANEL ル ルージュ デュオ ウルトラ トゥニュ | CHANEL | 5 | 5 | 0 |
+| 25 | [Insta360 GO Ultra](https://www.amazon.co.jp/dp/B0FH22RB4S) | Insta360 | 5 | 5 | 0 |
+| 25 | Kindle Unlimited | Amazon | 5 | 5 | 0 |
+| 25 | [Samsung Galaxy Z Fold7](https://www.amazon.co.jp/dp/B0FGNN555T) | Samsung | 5 | 5 | 0 |
+| 25 | [UGREEN NASync DXP2800](https://www.amazon.co.jp/dp/B0DXKZV61R) | UGREEN | 5 | 5 | 0 |
+| 25 | [無印良品 竹材 蒸篭](https://www.amazon.co.jp/dp/B0DFM4RKVN) | 無印良品 | 5 | 5 | 0 |
 | 33 | [Technics EAH-AZ100](https://www.amazon.co.jp/dp/B0DQ9N9S5V) | Technics | 4 | 5 | 2 |
 | 34 | [EarFun Clip](https://www.amazon.co.jp/dp/B0F89WH1KY) | EarFun | 4 | 5 | 1 |
 | 35 | Oura Ring | Oura | 4 | 4 | 1 |
@@ -532,10 +532,12 @@
 | 522 | &be メイクスポンジ | &be | 1 | 1 | 0 |
 | 522 | .OUNCE ルヴェル revel28 | .OUNCE | 1 | 1 | 0 |
 | 522 | 0fr. リング | 0fr. | 1 | 1 | 0 |
+| 522 | 100% Beeswax Taper Candles | Be Just | 1 | 1 | 0 |
 | 522 | 10倍面白くなる漫画演出論 |  | 1 | 1 | 0 |
 | 522 | 111SKIN Exosome Facecare Duo | 111SKIN | 1 | 1 | 0 |
 | 522 | 111SKIN Eye Masks | 111SKIN | 1 | 1 | 0 |
 | 522 | 12closet DEAR DAYS バックフレアオーバーシャツ | 12closet | 1 | 1 | 0 |
+| 522 | 150 lb. Stack Home Gym | Marcy | 1 | 1 | 0 |
 | 522 | 1616/arita japan スクエアプレート | 1616/arita japan | 1 | 1 | 0 |
 | 522 | 21st Century グルコン酸カリウム | 21st Century | 1 | 1 | 0 |
 | 522 | 24hコスメ ミネラルモイストスティックファンデ | 24hコスメ | 1 | 1 | 0 |
@@ -555,6 +557,7 @@
 | 522 | 3M スコッチブライト ボトルスポンジ | 3M | 1 | 1 | 0 |
 | 522 | [3M ポストイット 付箋 細い 710RP-K](https://www.amazon.co.jp/dp/B000IGQBNQ) | 3M | 1 | 1 | 0 |
 | 522 | 400 Thread Count Sheet |  | 1 | 1 | 0 |
+| 522 | 404: Soul Not Found | Mooncat | 1 | 1 | 0 |
 | 522 | 45RPM ボーイフレンドデニム | 45RPM | 1 | 1 | 0 |
 | 522 | 4灯シーリングライト クロスタイプ CL-4E26CW-A |  | 1 | 1 | 0 |
 | 522 | 5W1H 鉱物シリーズ vo.1 | 5W1H | 1 | 1 | 0 |
@@ -615,6 +618,7 @@
 | 522 | ALTRA TIMP 5 | ALTRA | 1 | 1 | 0 |
 | 522 | ALTRA TIMP 5 BOA | ALTRA | 1 | 1 | 0 |
 | 522 | ALTRA エスカランテ TOKYO | ALTRA | 1 | 1 | 0 |
+| 522 | AM/PM Modern Face Moisturizer | Prequel | 1 | 1 | 0 |
 | 522 | AMBITFUL A2PRO | AMBITFUL | 1 | 1 | 0 |
 | 522 | AMI PARIS AMI DE COEUR カーディガン | AMI PARIS | 1 | 1 | 0 |
 | 522 | AMIACALVA Gabardine Body Bag | AMIACALVA | 1 | 1 | 0 |
@@ -693,6 +697,7 @@
 | 522 | Able Carry Thirteen Day Back | Able Carry | 1 | 1 | 0 |
 | 522 | Ableton Live 12 | Ableton | 1 | 1 | 0 |
 | 522 | Ableton Move | Ableton | 1 | 1 | 0 |
+| 522 | Adjustable Comforter (Full/Queen) | Coop Sleep Goods | 1 | 1 | 0 |
 | 522 | [Adobe Creative Cloud Pro](https://www.amazon.co.jp/dp/B0DJVQMMP5) | Adobe | 1 | 1 | 0 |
 | 522 | Adrian Cashmere AC Tote | Adrian Cashmere | 1 | 1 | 0 |
 | 522 | Advanced Clinicals Retinol Advanced Firming Cream | Advanced Clinicals | 1 | 1 | 0 |
@@ -908,6 +913,7 @@
 | 522 | Astor Sun | Lowercase | 1 | 1 | 0 |
 | 522 | AstrHori 28mm F13 Macro 2:1 | AstrHori | 1 | 1 | 0 |
 | 522 | Athleta Lunar Sheen Utility Mid Rise Pant | Athleta | 1 | 1 | 0 |
+| 522 | Atlas Coffee Club (coffee subscription) | Atlas Coffee Club | 1 | 1 | 0 |
 | 522 | Atmosphere (Taylor Jenkins Reid) |  | 1 | 1 | 0 |
 | 522 | Attempting to deal with time and space ポスター |  | 1 | 1 | 0 |
 | 522 | Audrey うさ耳デニムキャップ | Audrey | 1 | 1 | 0 |
@@ -994,6 +1000,7 @@
 | 522 | BTtime 折りたたみ杖 | BTtime | 1 | 1 | 0 |
 | 522 | BUTTONS CLIP | BUTTONS | 1 | 1 | 0 |
 | 522 | Babaton Essential Cashmere Relaxed V-neck Sweater | Babaton | 1 | 1 | 0 |
+| 522 | Baby Bath Tub Filter | Canopy | 1 | 1 | 0 |
 | 522 | Baby Lotion | Pipette | 1 | 1 | 0 |
 | 522 | Bag Balm | Bag Balm | 1 | 1 | 0 |
 | 522 | Balanced Body ウルトラフィット サークル ミニ | Balanced Body | 1 | 1 | 0 |
@@ -1032,6 +1039,7 @@
 | 522 | [BenQ ScreenBar](https://www.amazon.co.jp/dp/B0785D93KD) | BenQ | 1 | 1 | 0 |
 | 522 | Benelli TNT 125 | Benelli | 1 | 1 | 0 |
 | 522 | Bettdow マジックキーボード | Bettdow | 1 | 1 | 0 |
+| 522 | Beyondfeel Running Shoe | lululemon | 1 | 1 | 0 |
 | 522 | [Bialetti ミルクフローサー](https://www.amazon.co.jp/dp/B06X9NYR94) | Bialetti | 1 | 1 | 0 |
 | 522 | [Bialetti モカエキスプレス](https://www.amazon.co.jp/dp/B0016H2PLS) | Bialetti | 1 | 1 | 0 |
 | 522 | [Bibetta お食事エプロン](https://www.amazon.co.jp/dp/B085PVCDXS) | Bibetta | 1 | 1 | 0 |
@@ -1085,6 +1093,7 @@
 | 522 | Brow Gel | Kosas | 1 | 1 | 0 |
 | 522 | Bryton Rider 650 | Bryton | 1 | 1 | 0 |
 | 522 | Bucket Purse | MANGO | 1 | 1 | 0 |
+| 522 | Buckley Shearling Slipper in Suede | Birkenstock | 1 | 1 | 0 |
 | 522 | Bud Vase | Porta Pallino | 1 | 1 | 0 |
 | 522 | Buly IL PICCOLO | Buly | 1 | 1 | 0 |
 | 522 | Buru Black Pants | Buru | 1 | 1 | 0 |
@@ -1307,6 +1316,7 @@
 | 522 | Cornix |  | 1 | 1 | 0 |
 | 522 | Corsair VANGUARD 96 | Corsair | 1 | 1 | 0 |
 | 522 | Costco 93% 填充鸭绒被 | Costco | 1 | 1 | 0 |
+| 522 | Cotton Flatweave Rug | Hook & Loom | 1 | 1 | 0 |
 | 522 | Cotton Underwear | Natori | 1 | 1 | 0 |
 | 522 | Cou Cou Intimates Rina Long Sleeve | Cou Cou Intimates | 1 | 1 | 0 |
 | 522 | Country Life Target-Mins カルシウム マグネシウム カリウム | Country Life | 1 | 1 | 0 |
@@ -1315,6 +1325,7 @@
 | 522 | Crafted World: Jonathan Anderson's LOEWE |  | 1 | 1 | 0 |
 | 522 | Creative Pebble Nova | クリエイティブ | 1 | 1 | 0 |
 | 522 | Creme & Powder Blush in She's Flushed | Patrick Ta | 1 | 1 | 0 |
+| 522 | Crispy Jalapeño Pieces | Trader Joe's | 1 | 1 | 0 |
 | 522 | Crochet Cover Up |  | 1 | 1 | 0 |
 | 522 | [Crucial DDR5-5600 CT2K64G56C46U5](https://www.amazon.co.jp/dp/B0DSQWFYPP) | Crucial | 1 | 1 | 0 |
 | 522 | [Crucial Pro DDR5メモリ CP2K16G56C46U5](https://www.amazon.co.jp/dp/B0C2B7W1W4) | Crucial | 1 | 1 | 0 |
@@ -1322,10 +1333,12 @@
 | 522 | Cubilux 3.5mm 5分配スプリッター | Cubilux | 1 | 1 | 0 |
 | 522 | CuboAi 赤ちゃんねんね見守りセット | CuboAi | 1 | 1 | 0 |
 | 522 | Cuisinart コードレスブレンダー | Cuisinart | 1 | 1 | 0 |
+| 522 | Curling Straightener | T3 | 1 | 1 | 0 |
 | 522 | Current Body Red Light Mask | Current Body | 1 | 1 | 0 |
 | 522 | CurrentBody Skin LED Light Therapy Mask | CurrentBody | 1 | 1 | 0 |
 | 522 | CurrentBody Skin LEDマルチライトマスク | CurrentBody Skin | 1 | 1 | 0 |
 | 522 | CurrentBody red light therapy mask | CurrentBody | 1 | 1 | 0 |
+| 522 | Curvy Runner | CICIL | 1 | 1 | 0 |
 | 522 | Custom Icons Bag | Abbode | 1 | 1 | 0 |
 | 522 | Cutting Board | John Boos & Co. | 1 | 1 | 0 |
 | 522 | Cuyana Travel Set | Cuyana | 1 | 1 | 0 |
@@ -1346,6 +1359,7 @@
 | 522 | DERIT TECH SHORT PANTS | DERIT | 1 | 1 | 0 |
 | 522 | DETECTIVE X CASE FILE #1 御仏の殺人 |  | 1 | 1 | 0 |
 | 522 | DEZIYUA 姿勢サポーター | DEZIYUA | 1 | 1 | 0 |
+| 522 | DF3 Putter | L.A.B. Golf | 1 | 1 | 0 |
 | 522 | DHC アスタキサンチン | DHC | 1 | 1 | 0 |
 | 522 | [DHC パーフェクト UVミルク](https://www.amazon.co.jp/dp/B0DBL2MRBW) | DHC | 1 | 1 | 0 |
 | 522 | DHC マルチビタミン | DHC | 1 | 1 | 0 |
@@ -1394,6 +1408,7 @@
 | 522 | Dell U3225QE | Dell | 1 | 1 | 0 |
 | 522 | [Dell 有線ANCヘッドセット WH5024](https://www.amazon.co.jp/dp/B0CV8J12F9) | Dell | 1 | 1 | 0 |
 | 522 | Denon PerL Pro AH-C15PL | Denon | 1 | 1 | 0 |
+| 522 | Dental Pod | Zima Dental | 1 | 1 | 0 |
 | 522 | DiFluid R2 Extract | DiFluid | 1 | 1 | 0 |
 | 522 | Diamond & Pearl Cut-Down Hoop Earrings | Jessica McCormack | 1 | 1 | 0 |
 | 522 | Diamond Drunk Fine Jewelry Cleaner | Diamond Drunk | 1 | 1 | 0 |
@@ -1413,6 +1428,7 @@
 | 522 | Dior バックステージ ロージー グロウ スティック | Dior | 1 | 1 | 0 |
 | 522 | Dior バックステージ ロージーグロウ | Dior | 1 | 1 | 0 |
 | 522 | Discoat カップ付ショートキャミソール | Discoat | 1 | 1 | 0 |
+| 522 | Distressed Flight Jacket | Banana Republic | 1 | 1 | 0 |
 | 522 | [Divoom Pixoo 64](https://www.amazon.co.jp/dp/B09MTLJKMY) | Divoom | 1 | 1 | 0 |
 | 522 | [Divoom Times Gate 5Way デジクロック](https://www.amazon.co.jp/dp/B0CDWJCJ3W) | Divoom | 1 | 1 | 0 |
 | 522 | Doctor's Best BioPQQ | Doctor's Best | 1 | 1 | 0 |
@@ -1466,6 +1482,7 @@
 | 522 | ECWCS GEN3 Level7 |  | 1 | 1 | 0 |
 | 522 | EDIFICE Japan made 200/2 ポプリンシャツ | EDIFICE | 1 | 1 | 0 |
 | 522 | EDISONmama 2wayネイルケアセット | EDISONmama | 1 | 1 | 0 |
+| 522 | EDJY Fingernail Cutter | EDJY | 1 | 1 | 0 |
 | 522 | EENOUR D10PRO | EENOUR | 1 | 1 | 0 |
 | 522 | EGABEER |  | 1 | 1 | 0 |
 | 522 | EIZO FlexScan EV2451 | EIZO | 1 | 1 | 0 |
@@ -1504,6 +1521,7 @@
 | 522 | [EarFun Air Pro 4i](https://www.amazon.co.jp/dp/B0FK4GM129) | EarFun | 1 | 1 | 0 |
 | 522 | EastForce ALIEN CHAIR PRO | EastForce | 1 | 1 | 0 |
 | 522 | EastForce エイリアンチェアプロ | EastForce | 1 | 1 | 0 |
+| 522 | Easy Fleece MR Jogger | Athleta | 1 | 1 | 0 |
 | 522 | Easy Hang キャリーハンガー | Easy Hang | 1 | 1 | 0 |
 | 522 | Easy Pant | GAP | 1 | 1 | 0 |
 | 522 | Eby Mesh Bra | Eby | 1 | 1 | 0 |
@@ -1525,6 +1543,7 @@
 | 522 | Elgato Stream Deck Neo | Elgato | 1 | 1 | 0 |
 | 522 | Elgato Wave Mic Arm LP | Elgato | 1 | 1 | 0 |
 | 522 | Emi Jay Big Effing Clip | Emi Jay | 1 | 1 | 0 |
+| 522 | Emma Lion Books |  | 1 | 1 | 0 |
 | 522 | Enzymedica Digest Basic | Enzymedica | 1 | 1 | 0 |
 | 522 | [EooCoo 超薄軽量マットカバー](https://www.amazon.co.jp/dp/B0D62YMNXL) | EooCoo | 1 | 1 | 0 |
 | 522 | Epix | Garmin | 1 | 1 | 0 |
@@ -1553,6 +1572,7 @@
 | 522 | Ewin トラックボールマウス | Ewin | 1 | 1 | 0 |
 | 522 | Ewin 折りたたみキーボード | Ewin | 1 | 1 | 0 |
 | 522 | Exped MegaMat Duo | Exped | 1 | 1 | 0 |
+| 522 | Expedition Edition | Field Notes | 1 | 1 | 0 |
 | 522 | Extra Virgin Olive Oil | Ya Albi | 1 | 1 | 0 |
 | 522 | F/CE. PERTEX WATERPROOF LAYERING JK | F/CE. | 1 | 1 | 0 |
 | 522 | F/style ロンド・キャットマット | F/style | 1 | 1 | 0 |
@@ -1610,6 +1630,7 @@
 | 522 | Face Mandelic Clearing Serum | Sofie Pavit | 1 | 1 | 0 |
 | 522 | Face Shield Flex | Colorescience | 1 | 1 | 0 |
 | 522 | FacePump Shine | FacePump | 1 | 1 | 0 |
+| 522 | Facial Gleanser | Prequel | 1 | 1 | 0 |
 | 522 | Factorio |  | 1 | 1 | 0 |
 | 522 | Faherty Superfine Alpaca Summit Sweater | Faherty | 1 | 1 | 0 |
 | 522 | Fairy 柔軟剤 Almond milk and manuka honey | Fairy | 1 | 1 | 0 |
@@ -1629,6 +1650,7 @@
 | 522 | [FineTrack Slim Smart Finder](https://www.amazon.co.jp/dp/B0D5415Q27) | UGREEN | 1 | 1 | 0 |
 | 522 | [Fintie iPad Pro 11 ケース](https://www.amazon.co.jp/dp/B096ZPMGNY) | Fintie | 1 | 1 | 0 |
 | 522 | Fire TV Stick |  | 1 | 1 | 0 |
+| 522 | Fitbit Ace | Fitbit | 1 | 1 | 0 |
 | 522 | Fitbit Inspire 3 | Fitbit | 1 | 1 | 0 |
 | 522 | FlexiSpot E7 | FlexiSpot | 1 | 1 | 0 |
 | 522 | FlexiSpot E7H | FlexiSpot | 1 | 1 | 0 |
@@ -1639,11 +1661,15 @@
 | 522 | FlexiSpot 電動昇降デスク | FlexiSpot | 1 | 1 | 0 |
 | 522 | FlexiSpot 電動昇降式デスク E7 Pro | FlexiSpot | 1 | 1 | 0 |
 | 522 | Flextop カメラストラップ ホルダー | Flextop | 1 | 1 | 0 |
+| 522 | Florence Leather Crossbody Bag | Go Forth Goods | 1 | 1 | 0 |
 | 522 | Floura Fiber Bars | Floura | 1 | 1 | 0 |
 | 522 | Flowerbomb | Viktor & Rolf | 1 | 1 | 0 |
+| 522 | Flume Lighter | Luma | 1 | 1 | 0 |
 | 522 | Foldology Origami Set | Foldology | 1 | 1 | 0 |
 | 522 | Food Hub Project うず潮の華 さつまいもチップス | Food Hub Project | 1 | 1 | 0 |
 | 522 | [Force: The biomechanics of training](https://www.amazon.co.jp/dp/B09GG8RNRP) |  | 1 | 1 | 0 |
+| 522 | Forerunner 55 GPS Running Smartwatch | Garmin | 1 | 1 | 0 |
+| 522 | Form Bed with Storage (Queen, Oak) | Sundays | 1 | 1 | 0 |
 | 522 | Fornaer コンセントカバー 6個セット | Fornaer | 1 | 1 | 0 |
 | 522 | Foundry Mews トップハンドルバッグ | Foundry Mews | 1 | 1 | 0 |
 | 522 | Four Hands Entryway Table | Four Hands | 1 | 1 | 0 |
@@ -1655,6 +1681,8 @@
 | 522 | Freddy Eyeglasses in Ristretto Tortoise | Warby Parker | 1 | 1 | 0 |
 | 522 | Free People Cable Knit Sweater | Free People | 1 | 1 | 0 |
 | 522 | FreeSip Sway Stainless Water Bottle | Owala | 1 | 1 | 0 |
+| 522 | Fresca (Grapefruit) | Fresca | 1 | 1 | 0 |
+| 522 | Fresh Serum | Fresh | 1 | 1 | 0 |
 | 522 | Friedman 412 cabinet | Friedman | 1 | 1 | 0 |
 | 522 | Fringer FR-EFTG1 | Fringer | 1 | 1 | 0 |
 | 522 | Fuel EXe 5 | Trek | 1 | 1 | 0 |
@@ -1691,6 +1719,7 @@
 | 522 | GIGASTONE 4K Camera Pro microSDXC | GIGASTONE | 1 | 1 | 0 |
 | 522 | GLOBAL WORK 推しごとキルティング2WAYトート | GLOBAL WORK | 1 | 1 | 0 |
 | 522 | [GMKtec K8 PLUS](https://www.amazon.co.jp/dp/B0G3PLYN89) | GMKtec | 1 | 1 | 0 |
+| 522 | GO Sport+ | JLab | 1 | 1 | 0 |
 | 522 | [GODOX AD200 Pro II](https://www.amazon.co.jp/dp/B0DGGNYHDL) | GODOX | 1 | 1 | 0 |
 | 522 | GOKUMIN プレミアム低反発枕plus+ | GOKUMIN | 1 | 1 | 0 |
 | 522 | GOKUMIN マットレス 極眠 gmw | GOKUMIN | 1 | 1 | 0 |
@@ -1701,6 +1730,7 @@
 | 522 | GRENLANDER Winter GL868 | GRENLANDER | 1 | 1 | 0 |
 | 522 | GRIPLUS 極薄・強力 滑り止めシール | GRIPLUS | 1 | 1 | 0 |
 | 522 | GSブラックティー | ジーエスフード | 1 | 1 | 0 |
+| 522 | GT2 Fairway Wood | Titleist | 1 | 1 | 0 |
 | 522 | GU MODE プレイマット | GU MODE | 1 | 1 | 0 |
 | 522 | GU スーパーワイドカーゴパンツ | GU | 1 | 1 | 0 |
 | 522 | GU バレルレッグジーンズ | GU | 1 | 1 | 0 |
@@ -1879,9 +1909,11 @@
 | 522 | Hagibis ミニモニター | Hagibis | 1 | 1 | 0 |
 | 522 | Hai Hai ベビーゲート | Hai Hai | 1 | 1 | 0 |
 | 522 | Hair Dye | Madison Reed | 1 | 1 | 0 |
+| 522 | Halo Modern Full Zip Hoodie | Vuori | 1 | 1 | 0 |
 | 522 | Hand Cream | L'Occitane | 1 | 1 | 0 |
 | 522 | Hand Cream | Soft Services | 1 | 1 | 0 |
 | 522 | Hand Serum | SIDIA | 1 | 1 | 0 |
+| 522 | Hand-Painted Serving Bowl | Pomelo Casa | 1 | 1 | 0 |
 | 522 | [Hands APP プロフェッショナルプロテクション ハンドクリーム](https://www.amazon.co.jp/dp/B0BH43ZS5S) | Hands APP | 1 | 1 | 0 |
 | 522 | HandyBio マッサージローラー | HandyBio | 1 | 1 | 0 |
 | 522 | [Hanes T-SHIRTS KURO](https://www.amazon.co.jp/dp/B0D93L2WST) | Hanes | 1 | 1 | 0 |
@@ -1931,6 +1963,7 @@
 | 522 | [HyperX QuadCast S](https://www.amazon.co.jp/dp/B08G8WH435) | HyperX | 1 | 1 | 0 |
 | 522 | [HyperX Wrist Rest HX-WR](https://www.amazon.co.jp/dp/B07GP7JXQY) | HyperX | 1 | 1 | 0 |
 | 522 | Hyperlite Mountain Gear WAYPOINT 35 | Hyperlite Mountain Gear | 1 | 1 | 0 |
+| 522 | Hypervolt 2 | Hyperice | 1 | 1 | 0 |
 | 522 | I'm Sorry by Petra Collins Blythe Doll Print Bag | I'm Sorry by Petra Collins | 1 | 1 | 0 |
 | 522 | ICEPARDAL 水泳グッズ（ラッシュガード・サーフパンツ） | ICEPARDAL | 1 | 1 | 0 |
 | 522 | ID-COOLING FROZN A620 PRO SE | ID-COOLING | 1 | 1 | 0 |
@@ -2065,6 +2098,7 @@
 | 522 | Jackery ポータブル電源 2000 New JE-2000D | Jackery | 1 | 1 | 0 |
 | 522 | Jane Win HOPE JW Original Pendant Coin | Jane Win | 1 | 1 | 0 |
 | 522 | Jenni Kayne Flynn V-Neck Pullover | Jenni Kayne | 1 | 1 | 0 |
+| 522 | Jet Lag Mask | Summer Fridays | 1 | 1 | 0 |
 | 522 | Jewelna Rose ロッティ・リュック | Jewelna Rose | 1 | 1 | 0 |
 | 522 | Jim Dunlop Primetone Jazz III XL Sculpted Plectra | Jim Dunlop | 1 | 1 | 0 |
 | 522 | John Boos R-Board Series Maple Cutting Board | John Boos | 1 | 1 | 0 |
@@ -2233,6 +2267,7 @@
 | 522 | LAST FRONTIER DESIGN first frost easy pant | LAST FRONTIER DESIGN | 1 | 1 | 0 |
 | 522 | [LC RACING BHC-1](https://www.amazon.co.jp/dp/B0BSKQ39JM) | LC RACING | 1 | 1 | 0 |
 | 522 | LECHOPPE 別注 BATONER EX COWCHIN | LECHOPPE | 1 | 1 | 0 |
+| 522 | LED Light Therapy Mask | Dr Dennis Gross | 1 | 1 | 0 |
 | 522 | LED Mask |  | 1 | 1 | 0 |
 | 522 | LED ブラケットライト | atRise | 1 | 1 | 0 |
 | 522 | LEERE × PUREBLACK STUDIO コラボリング | LEERE | 1 | 1 | 0 |
@@ -2391,6 +2426,7 @@
 | 522 | Lomicall タブレット ホルダー | Lomicall | 1 | 1 | 0 |
 | 522 | Lomicall 三脚 | Lomicall | 1 | 1 | 0 |
 | 522 | London Fog Raincoat | London Fog | 1 | 1 | 0 |
+| 522 | Long Sleeve Hooded T-Shirt | 32 Degrees | 1 | 1 | 0 |
 | 522 | Long Swan Sweater | Emily Dawn | 1 | 1 | 0 |
 | 522 | Longchamp Mini Bag | Longchamp | 1 | 1 | 0 |
 | 522 | Longchamp Épure XS Tote Bag | Longchamp | 1 | 1 | 0 |
@@ -2407,6 +2443,7 @@
 | 522 | LuLuLun OVER45 | LuLuLun | 1 | 1 | 0 |
 | 522 | LuLuLun トナーパッド ふきとりOFF | LuLuLun | 1 | 1 | 0 |
 | 522 | LuLuLun ハイドラVマスク | LuLuLun | 1 | 1 | 0 |
+| 522 | Lucent C Vitamin C Facial Serum | Prequel | 1 | 1 | 0 |
 | 522 | [Luckies 削れる 世界地図 パネル](https://www.amazon.co.jp/dp/B0D14WM8NB) | Luckies | 1 | 1 | 0 |
 | 522 | Luka Duffel | Calpak | 1 | 1 | 0 |
 | 522 | Lululemon Align 28" Leggings (navy) | Lululemon | 1 | 1 | 0 |
@@ -2563,6 +2600,7 @@
 | 522 | Madewell Perfect Belt | Madewell | 1 | 1 | 0 |
 | 522 | Madewell Plaid Cardigan Blazer | Madewell | 1 | 1 | 0 |
 | 522 | Madewell Slim Wide-Leg Jeans | Madewell | 1 | 1 | 0 |
+| 522 | Madrid Frame | Framebridge | 1 | 1 | 0 |
 | 522 | MagSafe充電スタンド |  | 1 | 1 | 0 |
 | 522 | Magnet |  | 1 | 1 | 0 |
 | 522 | Maison KOBE お香 スティック | Maison KOBE | 1 | 1 | 0 |
@@ -2610,6 +2648,7 @@
 | 522 | Martha Stewart Wellness ウェルネス グリーン ホウレンソウ＆レモン | Martha Stewart Wellness | 1 | 1 | 0 |
 | 522 | Martha Stewart Wellness ウェルネス レッド ザクロ＆パッションフルーツ | Martha Stewart Wellness | 1 | 1 | 0 |
 | 522 | Masque Vivant | Biologique Recherche | 1 | 1 | 0 |
+| 522 | Mast-R-Lift II Router Lift | JessEm | 1 | 1 | 0 |
 | 522 | Matador MINI POCKET BLANKET 4.0 20370063 | Matador | 1 | 1 | 0 |
 | 522 | [Maveek マグネットケーブルホルダー](https://www.amazon.co.jp/dp/B0CJJBWXGF) | Maveek | 1 | 1 | 0 |
 | 522 | Max | Yogibo | 1 | 1 | 0 |
@@ -2657,6 +2696,7 @@
 | 522 | Mineral Sun Glow |  | 1 | 1 | 0 |
 | 522 | Mini Rib Lace-Trim PJ Bottom | GAP | 1 | 1 | 0 |
 | 522 | Mini Rib Lace-Trim PJ Top | GAP | 1 | 1 | 0 |
+| 522 | Mini Waffle Maker | Dash | 1 | 1 | 0 |
 | 522 | Miramar Wide-Leg Jeans | Rag & Bone | 1 | 1 | 0 |
 | 522 | Miro V99 Power Bank | Miro | 1 | 1 | 0 |
 | 522 | Miss Mouth's Messy Eater Stain Treatment Spray | Miss Mouth's | 1 | 1 | 0 |
@@ -2687,6 +2727,7 @@
 | 522 | Mukti Organics Sunscreen | Mukti Organics | 1 | 1 | 0 |
 | 522 | Mulberry Amberley Satchel | Mulberry | 1 | 1 | 0 |
 | 522 | [MunzeYi 電気毛布 敷き掛け兼用](https://www.amazon.co.jp/dp/B0DFCKNWL5) | MunzeYi | 1 | 1 | 0 |
+| 522 | Muse Portable Lamp | Tala | 1 | 1 | 0 |
 | 522 | M·A·C シュガー クリスタル リップ オイル スティック | M·A·C | 1 | 1 | 0 |
 | 522 | M·A·C プレップ プライム 24 アワー エクステンド アイ ベース | M·A·C | 1 | 1 | 0 |
 | 522 | M・A・C グロー プレイ テンダートーク リップ バーム | M・A・C | 1 | 1 | 0 |
@@ -2990,6 +3031,7 @@
 | 522 | [PILOT フリクション消去用ラバー](https://www.amazon.co.jp/dp/B0D9J7KRWF) | PILOT | 1 | 1 | 0 |
 | 522 | PILOT ミューレックス | PILOT | 1 | 1 | 0 |
 | 522 | PILOT ローリート 樹脂モデル | PILOT | 1 | 1 | 0 |
+| 522 | PINE64 Pinecil | PINE64 | 1 | 1 | 0 |
 | 522 | PITAKA MagEZ Case 6 Google Pixel 10 Pro対応ケース | PITAKA | 1 | 1 | 0 |
 | 522 | [PLAUD NOTE](https://www.amazon.co.jp/dp/B0D1XTHJZK) | PLAUD | 1 | 1 | 0 |
 | 522 | PLEATS PLEASE ワンピース | PLEATS PLEASE | 1 | 1 | 0 |
@@ -3166,6 +3208,7 @@
 | 522 | Pura 4 | Pura | 1 | 1 | 0 |
 | 522 | Purriko Refrigerator Deodorizer | Purriko | 1 | 1 | 0 |
 | 522 | Pursonic Hot Air Blower Brush | Pursonic | 1 | 1 | 0 |
+| 522 | Putting Thing | WHYGOLF | 1 | 1 | 0 |
 | 522 | Q Acoustics M20 | Q Acoustics | 1 | 1 | 0 |
 | 522 | QCC Dongle Pro |  | 1 | 1 | 0 |
 | 522 | QCY MeloBuds N70 | QCY | 1 | 1 | 0 |
@@ -3274,6 +3317,7 @@
 | 522 | ReKERA エマルジョン リトル・サイエンティスト | ReKERA | 1 | 1 | 0 |
 | 522 | ReKERA リケラエマルジョン | ReKERA | 1 | 1 | 0 |
 | 522 | Ready or Not |  | 1 | 1 | 0 |
+| 522 | Rechargeable Motion Sensor Ceiling Light With Remote | Gotopceed | 1 | 1 | 0 |
 | 522 | Red Bull エナジードリンク | Red Bull | 1 | 1 | 0 |
 | 522 | Red Horse Hand Knit Llama Sweater | Fields Outfitting | 1 | 1 | 0 |
 | 522 | Redecker オーストリッチ羽はたき | Redecker | 1 | 1 | 0 |
@@ -3325,6 +3369,7 @@
 | 522 | SALOMON XT-6 EXPANSE | SALOMON | 1 | 1 | 0 |
 | 522 | SALOMON XT-6 GORE-TEX | SALOMON | 1 | 1 | 0 |
 | 522 | SALONIA スピーディー イオンドライヤー | SALONIA | 1 | 1 | 0 |
+| 522 | SALTT electrolyte drink | SALTT | 1 | 1 | 0 |
 | 522 | [SAM'U PHセンシティブトナーパッド](https://www.amazon.co.jp/dp/B0D7HGRF2Q) | SAM'U | 1 | 1 | 0 |
 | 522 | SAMKYO 冷凍庫 ZU70SD | SAMKYO | 1 | 1 | 0 |
 | 522 | SANDERS #1128 ミリタリーダービー | SANDERS | 1 | 1 | 0 |
@@ -3424,6 +3469,7 @@
 | 522 | SONY サウンドバー HT-A8000 | SONY | 1 | 1 | 0 |
 | 522 | SONY ブルーレイプレーヤー BDP-S1700 | SONY | 1 | 1 | 0 |
 | 522 | SONY モニターヘッドホン MDR-M1 | SONY | 1 | 1 | 0 |
+| 522 | SOS Daily Facial Rescue Spray | Tower 28 | 1 | 1 | 0 |
 | 522 | SOS Daily Rescue Facial Spray | Tower 28 | 1 | 1 | 0 |
 | 522 | SOSHIOTSUKI ブラックスラックス | SOSHIOTSUKI | 1 | 1 | 0 |
 | 522 | [SOTO アミカス](https://www.amazon.co.jp/dp/B088DZTFS9) | SOTO | 1 | 1 | 0 |
@@ -3510,6 +3556,7 @@
 | 522 | ScanSnap iX2500 |  | 1 | 1 | 0 |
 | 522 | Schneider Base | Schneider | 1 | 1 | 0 |
 | 522 | Scivation Xtend BCAA | Scivation | 1 | 1 | 0 |
+| 522 | Scuba OS Full Zip Hoodie | lululemon | 1 | 1 | 0 |
 | 522 | Sea Crystals エプソムソルト | Sea Crystals | 1 | 1 | 0 |
 | 522 | Sea New York セットアップ | Sea New York | 1 | 1 | 0 |
 | 522 | Seagate BarraCuda ST24000DM001/EC | Seagate | 1 | 1 | 0 |
@@ -3552,9 +3599,11 @@
 | 522 | Sisi Joia NOUE | Sisi Joia | 1 | 1 | 0 |
 | 522 | Skin Bae x Rosehip | The Daily Essential Co. | 1 | 1 | 0 |
 | 522 | Skullcandy Crusher PLYR 720 | Skullcandy | 1 | 1 | 0 |
+| 522 | Skylight Calendar | Skylight | 1 | 1 | 0 |
 | 522 | Skylight Max Calendar | Skylight | 1 | 1 | 0 |
 | 522 | Sleep Dress | Negative | 1 | 1 | 0 |
 | 522 | SlideNote |  | 1 | 1 | 0 |
+| 522 | Sloane Bag | Fount | 1 | 1 | 0 |
 | 522 | SmallRig カメラプレート 4438 | SmallRig | 1 | 1 | 0 |
 | 522 | [SmallRig 折りたたみドライバー、レンチセット AAK2213D](https://www.amazon.co.jp/dp/B07P35P21Z) | SmallRig | 1 | 1 | 0 |
 | 522 | SmartAngel スポンジベッド クマ 19 | 西松屋 | 1 | 1 | 0 |
@@ -3565,6 +3614,7 @@
 | 522 | Snif Candles | Snif | 1 | 1 | 0 |
 | 522 | Sockwell IN FLIGHT | Sockwell | 1 | 1 | 0 |
 | 522 | Sofie Pavitt skincare system | Sofie Pavitt | 1 | 1 | 0 |
+| 522 | Sofie Wide-Leg Jeans RJ2725H1FTH | Rag & Bone | 1 | 1 | 0 |
 | 522 | Soft Glass Lip Plumping Oil | Fara Homidi | 1 | 1 | 0 |
 | 522 | Soft Lounge Sleep Set | SKIMS | 1 | 1 | 0 |
 | 522 | [Softime 着る毛布](https://www.amazon.co.jp/dp/B0D7M61FLL) | Softime | 1 | 1 | 0 |
@@ -3610,6 +3660,7 @@
 | 522 | SteelSeries Arctis GameBuds for PlayStation | SteelSeries | 1 | 1 | 0 |
 | 522 | [Steelcase Gesture](https://www.amazon.co.jp/dp/B09C443NC3) | Steelcase | 1 | 1 | 0 |
 | 522 | Stefan Cooke Brown Patch Vintage Blue Jeans | Stefan Cooke | 1 | 1 | 0 |
+| 522 | Stelvio Raclette Party Grill | Swissmar | 1 | 1 | 0 |
 | 522 | Steven Madden Dusty Boots | Steven Madden | 1 | 1 | 0 |
 | 522 | [Straine シャンプー＆トリートメント](https://www.amazon.co.jp/dp/B0FQ55PDG6) | Straine | 1 | 1 | 0 |
 | 522 | String シェルフ | String | 1 | 1 | 0 |
@@ -3808,9 +3859,11 @@
 | 522 | The Best of Everything |  | 1 | 1 | 0 |
 | 522 | The Bigger Carry-On | AWAY | 1 | 1 | 0 |
 | 522 | The Cushion Lab Ergonomic Seat Cushion | The Cushion Lab | 1 | 1 | 0 |
+| 522 | The Dakota Shoulder Saddle Bag in Suede NU130 | Madewell | 1 | 1 | 0 |
 | 522 | The Full reSet Cutting Boards | MATERIAL | 1 | 1 | 0 |
 | 522 | The Grey Men's Skincare | The Grey | 1 | 1 | 0 |
 | 522 | The Hair Edit Detangling Comb | The Hair Edit | 1 | 1 | 0 |
+| 522 | The Lip Balm | La Mer | 1 | 1 | 0 |
 | 522 | The Low Tox Project Stainless Steel Canister 2500ml | The Low Tox Project | 1 | 1 | 0 |
 | 522 | The Mini Brush No. 001 | Crown Affair | 1 | 1 | 0 |
 | 522 | The Minimalist in Calico | Merit | 1 | 1 | 0 |
@@ -3868,6 +3921,7 @@
 | 522 | TrackMan iO Golf Simulator | TrackMan | 1 | 1 | 0 |
 | 522 | Traditional Weatherwear WAVERLY キルトジャケット | Traditional Weatherwear | 1 | 1 | 0 |
 | 522 | Trakke Merchant Tote | Trakke | 1 | 1 | 0 |
+| 522 | Tranquil MR Waffle Jogger | Athleta | 1 | 1 | 0 |
 | 522 | Transcend ESD410C | Transcend | 1 | 1 | 0 |
 | 522 | Transcend TS1TESD410C | トランセンド | 1 | 1 | 0 |
 | 522 | Treasure & Bond Jeans | Treasure & Bond | 1 | 1 | 0 |
@@ -4073,6 +4127,7 @@
 | 522 | Wacom Cintiq 16 TDTK168K4C | Wacom | 1 | 1 | 0 |
 | 522 | [Wacom Cintiq 24 TDTK246K4C](https://www.amazon.co.jp/dp/B0F9WBG2GW) | Wacom | 1 | 1 | 0 |
 | 522 | Wacom MovinkPad Pro 14 TDTHA140L0Z | Wacom | 1 | 1 | 0 |
+| 522 | Waffle Towel Set | Nossara | 1 | 1 | 0 |
 | 522 | Waitrose Fairtrade Italian Style Coffee Bags | Waitrose | 1 | 1 | 0 |
 | 522 | Walrus Audio Canvas Power HP+ | Walrus Audio | 1 | 1 | 0 |
 | 522 | Warby Parker Sunglasses | Warby Parker | 1 | 1 | 0 |
@@ -4080,6 +4135,7 @@
 | 522 | Watch the Wind WtW 半门襟套头抓绒中间层 | Watch the Wind | 1 | 1 | 0 |
 | 522 | Watch the Wind WtW 弹力可机洗美丽奴紧身打底衫 | Watch the Wind | 1 | 1 | 0 |
 | 522 | Watch the Wind WtW 成衣染轻量动态保暖半门襟卫衣 | Watch the Wind | 1 | 1 | 0 |
+| 522 | Water Dispenser | Brita | 1 | 1 | 0 |
 | 522 | Waterfront COKAGE+ | Waterfront | 1 | 1 | 0 |
 | 522 | We Might Just Make It After All |  | 1 | 1 | 0 |
 | 522 | Weezie Hand Towels | Weezie | 1 | 1 | 0 |
@@ -4089,8 +4145,10 @@
 | 522 | WiMiUS K13 | WiMiUS | 1 | 1 | 0 |
 | 522 | Wild Roman Face Moisturizer | Wild Roman | 1 | 1 | 0 |
 | 522 | Wilson nCode nPRO | Wilson | 1 | 1 | 0 |
+| 522 | Wine Glasses (Set of 4) | Fable | 1 | 1 | 0 |
 | 522 | Wit & Wisdom Absolution Black Jeans | Wit & Wisdom | 1 | 1 | 0 |
 | 522 | With Love From New York Stickers | Pink Olive | 1 | 1 | 0 |
+| 522 | Wolf x Liberty Medium Zip Case | Wolf | 1 | 1 | 0 |
 | 522 | Wonderskin Eyeliner | Wonderskin | 1 | 1 | 0 |
 | 522 | Wonderskin Lip Stain | Wonderskin | 1 | 1 | 0 |
 | 522 | Working Texture Spray | Kristin Ess | 1 | 1 | 0 |
@@ -7907,5 +7965,10 @@
 - [My Favorite Amazon Purchases of 2025](https://www.theblondissima.com/2025/11/my-favorite-amazon-purchases-of-2025.html)
 - [Top 5 things I bought last year (2025)](https://rachaelstray.com/top-5-things-i-bought-last-year-2025/)
 - [My Personal Top 5 Best Buys of 2025](https://yorihiroi-frontend.engineer/en/articles/7wOHVraYuh6NhIXUKDt5S5/)
+- [Favorite Buys of 2025](https://nick.blog/2025/12/11/favorite-buys-of-2025/)
+- [Best Purchases of 2025!](https://www.petiteimpact.com/2026/01/best-purchases-of-2025.html)
+- [The Best Things We Bought This Year](https://www.domino.com/style-shopping/domino-editors-best-products-2025/)
+- [The Best Products Our Staff Purchased in 2025](https://katiecouric.com/shopping/best-products-our-editors-purchased-in-2025/)
+- [Favorite Amazon Purchases of 2025](https://the-modern-dad.com/favorite-amazon-purchases-of-2025/)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
