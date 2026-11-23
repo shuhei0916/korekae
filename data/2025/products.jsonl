@@ -1012,7 +1012,7 @@
 {"id": "asin:B0DXKZV61R", "name": "UGREEN NASync DXP2800", "asin": "B0DXKZV61R", "brand": "UGREEN", "category": "ガジェット", "aliases": ["NASync DXP2800"]}
 {"id": "asin:B0DXPG6DSR", "name": "medicube アゼライン酸16BBカーミングセラム", "asin": "B0DXPG6DSR", "brand": "medicube", "category": "生活用品"}
 {"id": "asin:B0DXSHNYGW", "name": "Apple iPhone 16e", "asin": "B0DXSHNYGW", "brand": "Apple", "category": "ガジェット", "aliases": ["iPhone 16e"]}
-{"id": "asin:B0DY1CQ2VP", "name": "Sony REON POCKET PRO", "asin": "B0DY1CQ2VP", "brand": "Sony", "category": "家電"}
+{"id": "asin:B0DY1CQ2VP", "name": "Sony REON POCKET PRO", "asin": "B0DY1CQ2VP", "brand": "Sony", "category": "家電", "aliases": ["REON POCKET PRO"]}
 {"id": "asin:B0DY1RHVPB", "name": "ESI Amber i4", "asin": "B0DY1RHVPB", "brand": "ESI", "category": "ガジェット"}
 {"id": "asin:B0DY2K1C6V", "name": "あずまんが大王 1", "asin": "B0DY2K1C6V", "category": "本"}
 {"id": "asin:B0DY7HVWT2", "name": "ByUR グロークッション シルキーヌードクッション", "asin": "B0DY7HVWT2", "brand": "ByUR", "category": "生活用品"}
@@ -1399,6 +1399,7 @@
 {"id": "name:amazonfiretvstick4kmax", "name": "Amazon Fire TV Stick 4K Max", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonfiretvstickhd", "name": "Amazon Fire TV Stick HD", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindle16gb", "name": "Amazon Kindle 16GB", "brand": "Amazon", "category": "ガジェット"}
+{"id": "name:amazonkindlecolorsoft", "name": "Kindle Colorsoft", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindlepaperwhite第12世代", "name": "Amazon Kindle Paperwhite 第12世代", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindlescribe", "name": "Amazon Kindle Scribe", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindleunlimited", "name": "Kindle Unlimited", "brand": "Amazon", "category": "サービス", "aliases": ["Amazon Kindle Unlimited"]}
@@ -1755,6 +1756,7 @@
 {"id": "name:blundstonechelseaboots", "name": "Blundstone Chelsea Boots", "brand": "Blundstone", "category": "ファッション"}
 {"id": "name:blundstoneサイドゴアブーツbs063089", "name": "Blundstone サイドゴアブーツ BS063089", "brand": "Blundstone", "category": "ファッション"}
 {"id": "name:bmcjapan食事エプロン", "name": "BMC JAPAN 食事エプロン", "brand": "BMC JAPAN", "category": "生活用品"}
+{"id": "name:bobovre3pro", "name": "BOBOVR E3 Pro", "brand": "BOBOVR", "category": "ガジェット"}
 {"id": "name:bodumchambordコーヒープレス192816", "name": "BODUM CHAMBORD コーヒープレス 1928-16", "brand": "BODUM", "category": "生活用品"}
 {"id": "name:bodycologyバスフィズ", "name": "Bodycology バスフィズ", "brand": "Bodycology", "category": "生活用品"}
 {"id": "name:bombassaturdayslipper", "name": "Saturday Slipper", "brand": "BOMBAS", "category": "ファッション"}
@@ -2786,6 +2788,7 @@
 {"id": "name:keenhyperportclogleather", "name": "KEEN HYPERPORT CLOG LEATHER", "brand": "KEEN", "category": "ファッション"}
 {"id": "name:keenオールジェンダーユニーク", "name": "KEEN オールジェンダーユニーク", "brand": "KEEN", "category": "ファッション"}
 {"id": "name:kefls50meta", "name": "KEF LS50 Meta", "brand": "KEF", "category": "ガジェット"}
+{"id": "name:kefqconcertometa", "name": "KEF Q Concerto Meta", "brand": "KEF", "category": "家電"}
 {"id": "name:keltyminiverticalshoulder", "name": "KELTY MINI VERTICAL SHOULDER", "brand": "KELTY", "category": "ファッション"}
 {"id": "name:kemperprofilerplayer", "name": "Kemper PROFILER PLAYER", "brand": "Kemper", "category": "ガジェット"}
 {"id": "name:kenkoミストフィルターブラックミストno05n", "name": "Kenko ミストフィルター ブラックミスト No.05 N", "brand": "Kenko", "category": "ガジェット"}
@@ -2835,6 +2838,7 @@
 {"id": "name:kiuエアコンディションドベスト", "name": "Kiu エアコンディションドベスト", "brand": "Kiu", "category": "ファッション"}
 {"id": "name:kivaoutdoorsinsulatedventurewideshort", "name": "KIVA OUTDOORS INSULATED VENTURE WIDE SHORT", "brand": "KIVA OUTDOORS", "category": "生活用品"}
 {"id": "name:kivyglassbutterdish", "name": "Glass Butter Dish", "brand": "KIVY", "category": "生活用品"}
+{"id": "name:kiwidesigng4proコントローラーグリップ", "name": "KIWI design G4 Pro コントローラーグリップ", "brand": "KIWI design", "category": "ガジェット"}
 {"id": "name:kizawa軽量折りたたみ傘", "name": "KIZAWA 軽量折りたたみ傘", "brand": "KIZAWA", "category": "生活用品"}
 {"id": "name:kizikmensathens2", "name": "kizik Men's Athens 2", "brand": "kizik", "category": "ファッション"}
 {"id": "name:kizukileathershopwoodtrayr", "name": "WOOD TRAY R", "brand": "KIZUKI LEATHER SHOP", "category": "生活用品"}
@@ -4225,6 +4229,7 @@
 {"id": "name:switchbot温湿度計プラス", "name": "SwitchBot 温湿度計プラス", "brand": "SwitchBot", "category": "生活用品"}
 {"id": "name:switchbot空気清浄機交換用脱臭フィルター", "name": "SwitchBot 空気清浄機 交換用 脱臭フィルター", "brand": "SwitchBot", "category": "生活用品"}
 {"id": "name:switchbot防水温湿度計w3400010", "name": "SwitchBot 防水温湿度計 W3400010", "brand": "SwitchBot", "category": "ガジェット"}
+{"id": "name:switchbot顔認証パッド", "name": "SwitchBot 顔認証パッド", "brand": "SwitchBot", "category": "ガジェット"}
 {"id": "name:sykiastonesquarepierce", "name": "SYKIA Stone Square Pierce", "brand": "SYKIA", "category": "ファッション"}
 {"id": "name:syncwiremagsafeリング両面マグネット", "name": "Syncwire MagSafe リング 両面マグネット", "brand": "Syncwire", "category": "ガジェット"}
 {"id": "name:sézaneevamediumhoopsinsilver", "name": "Eva Medium Hoops in Silver", "brand": "Sézane", "category": "ファッション"}
@@ -5224,6 +5229,7 @@
 {"id": "name:サヴィルクリフォードフランネルスーツ", "name": "サヴィルクリフォード フランネルスーツ", "brand": "サヴィルクリフォード", "category": "ファッション"}
 {"id": "name:サーモスjov402", "name": "サーモス JOV-402", "brand": "サーモス", "category": "生活用品"}
 {"id": "name:サーモスポケットバッグrex0101", "name": "サーモス ポケットバッグ REX-0101", "brand": "サーモス", "category": "生活用品"}
+{"id": "name:サーモス小型150ml水筒", "name": "サーモス 小型150ml水筒", "brand": "サーモス", "category": "生活用品"}
 {"id": "name:サーモス山専用ボトル", "name": "サーモス 山専用ボトル", "brand": "サーモス", "category": "生活用品"}
 {"id": "name:サーモス真空断熱スープジャーjed500", "name": "サーモス 真空断熱スープジャー JED-500", "brand": "サーモス", "category": "生活用品"}
 {"id": "name:サーモス真空断熱タンブラー", "name": "サーモス 真空断熱タンブラー", "brand": "サーモス", "category": "生活用品"}
@@ -6168,6 +6174,7 @@
 {"id": "name:ヴィターレバルベリスカノニコネイビーブレザー", "name": "ヴィターレバルベリスカノニコ ネイビーブレザー", "brand": "ヴィターレバルベリスカノニコ", "category": "ファッション"}
 {"id": "name:ヴィノスやまざき蔵直ワインセット", "name": "ヴィノスやまざき 蔵直ワインセット", "brand": "ヴィノスやまざき", "category": "食品"}
 {"id": "name:ヴェリタスブロイノンアルコールビール", "name": "ヴェリタスブロイ ノンアルコールビール", "brand": "ヴェリタスブロイ", "category": "食品"}
+{"id": "name:一加ace6t", "name": "一加Ace 6T", "brand": "一加", "category": "ガジェット"}
 {"id": "name:一条さんちのお献立て", "name": "一条さんちのお献立て", "category": "本"}
 {"id": "name:一汁三菜おぼん献立", "name": "一汁三菜おぼん献立", "category": "本"}
 {"id": "name:一生幸せになれる料理147お魚イラストレシピ大百科", "name": "一生幸せになれる料理147 お魚イラストレシピ大百科", "category": "本"}
@@ -6274,6 +6281,7 @@
 {"id": "name:华为智慧屏5se优享版65寸", "name": "华为 智慧屏5 SE 优享版 65寸", "brand": "华为", "category": "家電"}
 {"id": "name:华为毕昇x1黑白激光打印机", "name": "华为 毕昇X1 黑白激光打印机", "brand": "华为", "category": "家電"}
 {"id": "name:印傳marlowe指輪入れ", "name": "印傳×MARLOWE 指輪入れ", "brand": "印傳×MARLOWE", "category": "ファッション"}
+{"id": "name:友望云朵20洗地机", "name": "友望云朵2.0洗地机", "brand": "友望", "category": "家電"}
 {"id": "name:吉冨士工芸せいろ用蒸し板", "name": "吉冨士工芸 せいろ用蒸し板", "brand": "吉冨士工芸", "category": "生活用品"}
 {"id": "name:吉冨士工芸竹せいろ", "name": "吉冨士工芸 竹せいろ", "brand": "吉冨士工芸", "category": "生活用品"}
 {"id": "name:吉冨士工芸竹せいろ2段21cmふたつき", "name": "吉冨士工芸 竹せいろ 2段 21cm ふたつき", "brand": "吉冨士工芸", "category": "生活用品"}
@@ -6327,6 +6335,7 @@
 {"id": "name:大谷印舗オリジナルイラストゴム印", "name": "大谷印舗 オリジナルイラストゴム印", "brand": "大谷印舗", "category": "生活用品"}
 {"id": "name:天久聖一アパレルしりとりスウェット", "name": "天久聖一アパレル しりとり スウェット", "brand": "天久聖一アパレル", "category": "ファッション"}
 {"id": "name:天久聖一アパレル混沌スウェット", "name": "天久聖一アパレル 混沌 スウェット", "brand": "天久聖一アパレル", "category": "ファッション"}
+{"id": "name:天猫魔屏c3max", "name": "天猫魔屏C3 Max", "brand": "天猫", "category": "家電"}
 {"id": "name:天馬傘ハンガーラック美styleprx", "name": "天馬 傘ハンガーラック 美style PRX", "brand": "天馬", "category": "生活用品"}
 {"id": "name:太知ゆでたまご名人かんたん蒸し器se001", "name": "太知 ゆでたまご名人 かんたん蒸し器 SE-001", "brand": "太知", "category": "家電"}
 {"id": "name:太美工芸セールス勧誘お断りマグネット", "name": "太美工芸 セールス 勧誘 お断り マグネット", "brand": "太美工芸", "category": "生活用品"}
@@ -6514,6 +6523,7 @@
 {"id": "name:永楽屋細辻伊兵衛商店手ぬぐい雛祭り", "name": "永楽屋細辻伊兵衛商店 手ぬぐい「雛祭り」", "brand": "永楽屋細辻伊兵衛商店", "category": "生活用品"}
 {"id": "name:永田ツッコミアクスタ", "name": "永田ツッコミアクスタ", "category": "その他"}
 {"id": "name:永谷園粒あられ", "name": "永谷園 粒あられ", "brand": "永谷園", "category": "食品"}
+{"id": "name:汉王n10pro二代", "name": "汉王N10 Pro二代", "brand": "汉王", "category": "ガジェット"}
 {"id": "name:汗かきエステ気分シリーズ", "name": "汗かきエステ気分シリーズ", "category": "生活用品"}
 {"id": "name:池田遊子の木彫仏像", "name": "池田遊子の木彫仏像", "brand": "池田遊子", "category": "その他"}
 {"id": "name:池袋グランドシネマサンシャイン有料会員", "name": "池袋グランドシネマサンシャイン 有料会員", "brand": "池袋グランドシネマサンシャイン", "category": "サービス"}
