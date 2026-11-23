@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-809件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+812件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -737,6 +737,7 @@
 | 522 | Amazfit Bip 6 | Amazfit | 1 | 1 | 0 |
 | 522 | [Amazon Basics USB延長ケーブル](https://www.amazon.co.jp/dp/B00NH11PEY) | Amazon Basics | 1 | 1 | 0 |
 | 522 | [Amazon Basics 充電式 AAA NiMH バッテリー](https://www.amazon.co.jp/dp/B007B9NXAC) | Amazon Basics | 1 | 1 | 0 |
+| 522 | Amazon Echo Show 15 | Amazon | 1 | 1 | 0 |
 | 522 | Amazon Echo Spot | Amazon | 1 | 1 | 0 |
 | 522 | Amazon Fire HD 10 タブレット | Amazon | 1 | 1 | 0 |
 | 522 | Amazon Fire HD 8 2022 | Amazon | 1 | 1 | 0 |
@@ -875,6 +876,7 @@
 | 522 | Apple iPad | Apple | 1 | 1 | 0 |
 | 522 | Apple iPad Air (M3) 11インチ | Apple | 1 | 1 | 0 |
 | 522 | Apple iPad Air + 妙控键盘（Magic Keyboard） | Apple | 1 | 1 | 0 |
+| 522 | Apple iPad Air 11-inch (2025) | Apple | 1 | 1 | 0 |
 | 522 | Apple iPad Air 11インチ (M2) | Apple | 1 | 1 | 0 |
 | 522 | Apple iPad Air 11インチ M3 | Apple | 1 | 1 | 0 |
 | 522 | Apple iPad Air M1 | Apple | 1 | 1 | 0 |
@@ -892,6 +894,7 @@
 | 522 | [Aputure Amaran100x-S](https://www.amazon.co.jp/dp/B0BRRKG51Y) | Aputure | 1 | 1 | 0 |
 | 522 | Aqara Camera G100 | Aqara | 1 | 1 | 0 |
 | 522 | Aquazzura Pool Slides | Aquazzura | 1 | 1 | 0 |
+| 522 | Aravi Organic Advanced Barrier Repair Moisturizer | Aravi Organic | 1 | 1 | 0 |
 | 522 | Arc'teryx BLADE 20 | Arc'teryx | 1 | 1 | 0 |
 | 522 | Arey supplement and serum hair system | Arey | 1 | 1 | 0 |
 | 522 | AriRi アップルウォッチ バンド ミラネーゼメッシュ | AriRi | 1 | 1 | 0 |
@@ -1232,6 +1235,7 @@
 | 522 | Caslon Cashmere Crewneck Sweater | Nordstrom | 1 | 1 | 0 |
 | 522 | Casselini 刺繍バッグ | Casselini | 1 | 1 | 0 |
 | 522 | Castellanos Mocasines 800 de piel (burgundy) | Castellanos | 1 | 1 | 0 |
+| 522 | Catbird Initial Signet Ring | Catbird | 1 | 1 | 0 |
 | 522 | Catlog 2 | Catlog | 1 | 1 | 0 |
 | 522 | Caudalíe Resveratrol-Lift Firming Cashmere Cream | Caudalíe | 1 | 1 | 0 |
 | 522 | Cavallini & Co. 果物柄エプロン | Cavallini & Co. | 1 | 1 | 0 |
@@ -1323,6 +1327,7 @@
 | 522 | [Coyktonty Osmo Pocket 3 レンズスクリーン 保護ケース](https://www.amazon.co.jp/dp/B0D65TJK4S) | Coyktonty | 1 | 1 | 0 |
 | 522 | Cozy Bliss Faux Fur Throw Blanket | Cozy Bliss | 1 | 1 | 0 |
 | 522 | Crafted World: Jonathan Anderson's LOEWE |  | 1 | 1 | 0 |
+| 522 | Cream of Nature Pure Honey Curl Activator | Cream of Nature | 1 | 1 | 0 |
 | 522 | Creative Pebble Nova | クリエイティブ | 1 | 1 | 0 |
 | 522 | Creme & Powder Blush in She's Flushed | Patrick Ta | 1 | 1 | 0 |
 | 522 | Crispy Jalapeño Pieces | Trader Joe's | 1 | 1 | 0 |
@@ -1392,6 +1397,7 @@
 | 522 | David Thomas McNaught Guitars Street Lethal | David Thomas McNaught Guitars | 1 | 1 | 0 |
 | 522 | David Thomas McNaught Guitars VSC | David Thomas McNaught Guitars | 1 | 1 | 0 |
 | 522 | Davines Love Smoothing Shampoo | Davines | 1 | 1 | 0 |
+| 522 | Dawn Powerwash Spray (Pine Scent) | Dawn | 1 | 1 | 0 |
 | 522 | Dazzle Dry Nail Polish | Dazzle Dry | 1 | 1 | 0 |
 | 522 | [De'Longhi ドリップコーヒーメーカー クレシドラ ICM17270J](https://www.amazon.co.jp/dp/B07Q7TNLDN) | De'Longhi | 1 | 1 | 0 |
 | 522 | [De'Longhi マグニフィカ イーヴォ ECAM29081XTB](https://www.amazon.co.jp/dp/B0CSK4C52D) | De'Longhi | 1 | 1 | 0 |
@@ -1732,6 +1738,8 @@
 | 522 | GSブラックティー | ジーエスフード | 1 | 1 | 0 |
 | 522 | GT2 Fairway Wood | Titleist | 1 | 1 | 0 |
 | 522 | GU MODE プレイマット | GU MODE | 1 | 1 | 0 |
+| 522 | GU MODE プレイマット 厚み4cm | GU MODE | 1 | 1 | 0 |
+| 522 | GU MODE ベビーサークル 置くだけ | GU MODE | 1 | 1 | 0 |
 | 522 | GU スーパーワイドカーゴパンツ | GU | 1 | 1 | 0 |
 | 522 | GU バレルレッグジーンズ | GU | 1 | 1 | 0 |
 | 522 | GU バレルレッグプルオンパンツ | GU | 1 | 1 | 0 |
@@ -1746,6 +1754,7 @@
 | 522 | Gambit Carbon Full Face Helmet | Specialized | 1 | 1 | 0 |
 | 522 | GameSir G8 Plus | GameSir | 1 | 1 | 0 |
 | 522 | Gamesir G7 PRO | Gamesir | 1 | 1 | 0 |
+| 522 | Gamork キャスター付き可動式昇降デスク | Gamork | 1 | 1 | 0 |
 | 522 | Gap Cotton Blend Sweater | Gap | 1 | 1 | 0 |
 | 522 | Gap Mid Rise Ultra Soft Denim Easy Horseshoe Jeans | Gap | 1 | 1 | 0 |
 | 522 | Gautier Divine | Gautier | 1 | 1 | 0 |
@@ -1919,6 +1928,7 @@
 | 522 | [Hanes T-SHIRTS KURO](https://www.amazon.co.jp/dp/B0D93L2WST) | Hanes | 1 | 1 | 0 |
 | 522 | Hansleep ブランケット | Hansleep | 1 | 1 | 0 |
 | 522 | [Hanx ペルチェ式 ワンドア冷蔵庫](https://www.amazon.co.jp/dp/B0CJDPFLFQ) | Hanx | 1 | 1 | 0 |
+| 522 | Haruharu Wonder Black Rice Bakuchiol Eye Cream | Haruharu Wonder | 1 | 1 | 0 |
 | 522 | Hasselblad フォトグラフィーキット | Hasselblad | 1 | 1 | 0 |
 | 522 | Hatch Alarm Clock | Hatch | 1 | 1 | 0 |
 | 522 | Hatteras Large Quilted Hammock with TRI-BEAM Metal Stand | Hatteras | 1 | 1 | 0 |
@@ -1960,6 +1970,7 @@
 | 522 | Huepar デジタル角度計 | Huepar | 1 | 1 | 0 |
 | 522 | Hulken Bag（Large・Rose Gold） | Hulken | 1 | 1 | 0 |
 | 522 | HydroJug トラベラータンブラー | HydroJug | 1 | 1 | 0 |
+| 522 | Hyper Tough 27 Gallon Snap Lid Plastic Storage Bin | Hyper Tough | 1 | 1 | 0 |
 | 522 | [HyperX QuadCast S](https://www.amazon.co.jp/dp/B08G8WH435) | HyperX | 1 | 1 | 0 |
 | 522 | [HyperX Wrist Rest HX-WR](https://www.amazon.co.jp/dp/B07GP7JXQY) | HyperX | 1 | 1 | 0 |
 | 522 | Hyperlite Mountain Gear WAYPOINT 35 | Hyperlite Mountain Gear | 1 | 1 | 0 |
@@ -2134,6 +2145,7 @@
 | 522 | KATE THE BB EX-2 | KATE | 1 | 1 | 0 |
 | 522 | KATE ザ・アイカラー | KATE | 1 | 1 | 0 |
 | 522 | KATE メロウブラウンアイズ BR-8 | KATE | 1 | 1 | 0 |
+| 522 | KATOJI ベビーチェア ムース 22509 | KATOJI | 1 | 1 | 0 |
 | 522 | [KATOMOKU plywood clock 22 km-121LBRC](https://www.amazon.co.jp/dp/B097JMWPF7) | KATOMOKU | 1 | 1 | 0 |
 | 522 | KB16 | DOIO | 1 | 1 | 0 |
 | 522 | KDM by BRITHOUSE プリズムゴート M5 | KDM by BRITHOUSE | 1 | 1 | 0 |
@@ -2440,6 +2452,7 @@
 | 522 | Lotion P50 | Biologique Recherche | 1 | 1 | 0 |
 | 522 | Louis Poulsen Saturn | Louis Poulsen | 1 | 1 | 0 |
 | 522 | Louis Poulsen パンテラ 160 ポータブル V3 | Louis Poulsen | 1 | 1 | 0 |
+| 522 | Louis Vuitton Key Pouch S Monogram M13559 | Louis Vuitton | 1 | 1 | 0 |
 | 522 | LuLuLun OVER45 | LuLuLun | 1 | 1 | 0 |
 | 522 | LuLuLun トナーパッド ふきとりOFF | LuLuLun | 1 | 1 | 0 |
 | 522 | LuLuLun ハイドラVマスク | LuLuLun | 1 | 1 | 0 |
@@ -2665,6 +2678,7 @@
 | 522 | Mejuri Duo Ring | Mejuri | 1 | 1 | 0 |
 | 522 | Mejuri Dôme Slim Ring | Mejuri | 1 | 1 | 0 |
 | 522 | Mejuri Garnet Heirloom Ring | Mejuri | 1 | 1 | 0 |
+| 522 | Mejuri Initial Necklace | Mejuri | 1 | 1 | 0 |
 | 522 | Meking レフ板 反射板 3-in-1 | Meking | 1 | 1 | 0 |
 | 522 | Melvory Tinted BB Cream SPF 15 | Melvory | 1 | 1 | 0 |
 | 522 | Men's White T-Shirts | Gilden | 1 | 1 | 0 |
@@ -2869,6 +2883,7 @@
 | 522 | Ninja ブラスト ポータブルブレンダー BC151BK | Ninja | 1 | 1 | 0 |
 | 522 | Nintendo Sound Clock Alarmo | Nintendo | 1 | 1 | 0 |
 | 522 | Nintendo Switch 2 マリオカートセット | Nintendo | 1 | 1 | 0 |
+| 522 | Nintendo Switch OLED | Nintendo | 1 | 1 | 0 |
 | 522 | Noctua NH-U12A | Noctua | 1 | 1 | 0 |
 | 522 | Noise Dept ARGENT SERUM BUNDLE | Noise Dept | 1 | 1 | 0 |
 | 522 | Nokian Tyres Outpost nAT | Nokian Tyres | 1 | 1 | 0 |
@@ -3142,6 +3157,7 @@
 | 522 | [Petio 高さも角度も変えられる 食事台](https://www.amazon.co.jp/dp/B0851VJJNP) | Petio | 1 | 1 | 0 |
 | 522 | [Petit Jewel YU-NA リングホルダーネックレス](https://www.amazon.co.jp/dp/B0CTK3QC74) | Petit Jewel YU-NA | 1 | 1 | 0 |
 | 522 | Phantom ファントム |  | 1 | 1 | 0 |
+| 522 | Philips 75 Class 4K Ultra HD TV 75PUL7552-F7 | Philips | 1 | 1 | 0 |
 | 522 | Philips Hue スマート電球 E26 | Philips Hue | 1 | 1 | 0 |
 | 522 | Philips SmartSleep Wake-up Light | Philips | 1 | 1 | 0 |
 | 522 | Philips Sonicare Rechargeable Toothbrush HX3681 | Philips Sonicare | 1 | 1 | 0 |
@@ -3228,6 +3244,8 @@
 | 522 | Quince Mongolian Cashmere Oversized Crewneck Sweater | Quince | 1 | 1 | 0 |
 | 522 | Quince Mongolian Cashmere Wrap | Quince | 1 | 1 | 0 |
 | 522 | Qwerkywriter タイプライター風キーボード | Qwerkywriter | 1 | 1 | 0 |
+| 522 | R and Co Badlands | R and Co | 1 | 1 | 0 |
+| 522 | R and Co Cool Wind | R and Co | 1 | 1 | 0 |
 | 522 | R.E.P.O |  | 1 | 1 | 0 |
 | 522 | [RANVOO ハンディファン FS2](https://www.amazon.co.jp/dp/B0DX25Y6MP) | RANVOO | 1 | 1 | 0 |
 | 522 | RAPIDFIRE Keto Coffee | RAPIDFIRE | 1 | 1 | 0 |
@@ -4109,6 +4127,7 @@
 | 522 | WARABEAT!! パラチノース | WARABEAT!! | 1 | 1 | 0 |
 | 522 | [WD Black SN850X 8TB](https://www.amazon.co.jp/dp/B0DFFQT6DN) | WD | 1 | 1 | 0 |
 | 522 | WEEKENDER HUNGBAG Bento | WEEKENDER | 1 | 1 | 0 |
+| 522 | WEIMALL ベビーサークル 折りたたみ ベビーフェンス GAD009WH | WEIMALL | 1 | 1 | 0 |
 | 522 | [WEIMALL ランドリーバスケット 3段 スリム](https://www.amazon.co.jp/dp/B0BJ1G5KPB) | WEIMALL | 1 | 1 | 0 |
 | 522 | WELEDA ラベンダー オイル | WELEDA | 1 | 1 | 0 |
 | 522 | WENS アトラス 水筒 AWPB-1001MD | WENS | 1 | 1 | 0 |
@@ -4321,6 +4340,7 @@
 | 522 | by Amazon スパゲッティ 1.6mm | by Amazon | 1 | 1 | 0 |
 | 522 | by Amazon ニトリル 手袋 パウダーフリー | by Amazon | 1 | 1 | 0 |
 | 522 | [by Amazon パックご飯 国産米 低温製法米](https://www.amazon.co.jp/dp/B0D7MNMMBB) | by Amazon | 1 | 1 | 0 |
+| 522 | by Amazon ベビー おしりふき 純水99% 厚手タイプ | by Amazon | 1 | 1 | 0 |
 | 522 | by Amazon マヌカハニーナッツ | by Amazon | 1 | 1 | 0 |
 | 522 | by Amazon メープルキャラメリゼナッツ 20P | by Amazon | 1 | 1 | 0 |
 | 522 | by Amazon ロカボナッツ チョコレート | by Amazon | 1 | 1 | 0 |
@@ -4364,6 +4384,7 @@
 | 522 | e-ina-iina ぺたんこポーチ | e-ina-iina | 1 | 1 | 0 |
 | 522 | e.l.f. Holy Hydration! Melting Skin Cleanser | e.l.f. | 1 | 1 | 0 |
 | 522 | eMAXIS Slim 全世界株式(オール・カントリー) |  | 1 | 1 | 0 |
+| 522 | eNewton Bracelets | eNewton | 1 | 1 | 0 |
 | 522 | [eXtremeRate PS5コントローラー用 LUNA再設計フロントシェル](https://www.amazon.co.jp/dp/B0D48LV8GL) | eXtremeRate | 1 | 1 | 0 |
 | 522 | [eXtremeRate PS5コントローラー用 クリアバックハウジングボトムシェル](https://www.amazon.co.jp/dp/B0B4Z35NCG) | eXtremeRate | 1 | 1 | 0 |
 | 522 | [eXtremeRate PS5コントローラー用 交換ボタン（BDM-010&020対応）](https://www.amazon.co.jp/dp/B0B8CZTX5M) | eXtremeRate | 1 | 1 | 0 |
@@ -5198,6 +5219,7 @@
 | 522 | [コロンビア Mトレイルコミュート II グローブ CM7483](https://www.amazon.co.jp/dp/B0FX95T2L4) | コロンビア | 1 | 1 | 0 |
 | 522 | コロンビア グレートスモーキーガーデン ボディバッグ PU8732 | コロンビア | 1 | 1 | 0 |
 | 522 | コンセントに刺すタイプの照明 |  | 1 | 1 | 0 |
+| 522 | コンビ おしりふき温め器 クイックウォーマー コンパクト | コンビ | 1 | 1 | 0 |
 | 522 | コンビニ人間 |  | 1 | 1 | 0 |
 | 522 | コーエーテクモ ゼルダ無双 封印戦記 | コーエーテクモ | 1 | 1 | 0 |
 | 522 | コープ 生協の宅配 | コープ | 1 | 1 | 0 |
@@ -5279,6 +5301,7 @@
 | 522 | シマダヤ 健美麺 糖質30%カット本そば | シマダヤ | 1 | 1 | 0 |
 | 522 | [シマノ 24 ヴァンフォード C2500SXG](https://www.amazon.co.jp/dp/B0D95CY7SQ) | シマノ | 1 | 1 | 0 |
 | 522 | シマノ ラフトエアジャケット VF-053U | シマノ | 1 | 1 | 0 |
+| 522 | シモジマ HEIKO PP食パン袋 半斤用 | シモジマ | 1 | 1 | 0 |
 | 522 | シモンズ マットレス | シモンズ | 1 | 1 | 0 |
 | 522 | シャクティ シャクティマット | シャクティ | 1 | 1 | 0 |
 | 522 | シャクティ 指圧マット | シャクティ | 1 | 1 | 0 |
@@ -5559,6 +5582,7 @@
 | 522 | [テイジン ごろ寝マット](https://www.amazon.co.jp/dp/B0FV8XW7VS) | テイジン | 1 | 1 | 0 |
 | 522 | テスコム 毛だまトレタ KD778 | テスコム | 1 | 1 | 0 |
 | 522 | テルモ WOMAN℃ 電子体温計 ET-W525ZZ | テルモ | 1 | 1 | 0 |
+| 522 | テレビリモコン for シャープ AQUOS SH-E615-B | HELVAK | 1 | 1 | 0 |
 | 522 | テンシャル BAKUNE ベロア | テンシャル | 1 | 1 | 0 |
 | 522 | テンピュール アイマスク | テンピュール | 1 | 1 | 0 |
 | 522 | テンピュール イーズ サポートピロー 83300200 | テンピュール | 1 | 1 | 0 |
@@ -5852,6 +5876,7 @@
 | 522 | ピジョン ステール Suteru | ピジョン | 1 | 1 | 0 |
 | 522 | ピジョン ベビーミルクローション | ピジョン | 1 | 1 | 0 |
 | 522 | ピジョン ベビー全身泡ソープ | ピジョン | 1 | 1 | 0 |
+| 522 | ピジョン 哺乳びんスチーム除菌・乾燥器 POCHITTO ホワイト | ピジョン | 1 | 1 | 0 |
 | 522 | ピジョン 哺乳びんスチーム除菌・乾燥器 ポチット | ピジョン | 1 | 1 | 0 |
 | 522 | ピジョン 母乳アシスト さく乳器 電動 handy fit + | ピジョン | 1 | 1 | 0 |
 | 522 | ピジョン 母乳パッド フィットアップ | ピジョン | 1 | 1 | 0 |
@@ -6428,6 +6453,7 @@
 | 522 | 下村企販 銅製 排水口カバー 42901 | 下村企販 | 1 | 1 | 0 |
 | 522 | [不二ラテックス DXひえぷるやわらかまくら 保冷枕](https://www.amazon.co.jp/dp/B0C1Z98QJ6) | 不二ラテックス | 1 | 1 | 0 |
 | 522 | [不二貿易 ボックススツール 86139](https://www.amazon.co.jp/dp/B08Q3NWLK4) | 不二貿易 | 1 | 1 | 0 |
+| 522 | 不二貿易 折りたたみ コンテナ かご Lサイズ 86450 | 不二貿易 | 1 | 1 | 0 |
 | 522 | 不器用な先輩。 |  | 1 | 1 | 0 |
 | 522 | [不滅（集英社文庫）](https://www.amazon.co.jp/dp/4087603695) |  | 1 | 1 | 0 |
 | 522 | 世界99 |  | 1 | 1 | 0 |
@@ -7970,5 +7996,8 @@
 - [The Best Things We Bought This Year](https://www.domino.com/style-shopping/domino-editors-best-products-2025/)
 - [The Best Products Our Staff Purchased in 2025](https://katiecouric.com/shopping/best-products-our-editors-purchased-in-2025/)
 - [Favorite Amazon Purchases of 2025](https://the-modern-dad.com/favorite-amazon-purchases-of-2025/)
+- [My Favorite Products of 2025: Tech, Home & Beauty Picks](https://www.chachafance.com/2026/01/my-favorite-products-of-2025-tech-home.html)
+- [2025 Best Purchases](https://thenutmegmillennial.com/2025/12/31/2025-best-purchases/)
+- [2025年買ってよかったもの 0歳育児編](https://lovemac.jp/22246)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
