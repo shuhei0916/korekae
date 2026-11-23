@@ -1009,3 +1009,8 @@
 {"url": "https://forum-zh.obsidian.md/t/topic/45332", "title": "obsidian forum 2025 年度好物", "found_via": "search", "status": "skipped", "reason": "2025年1月公開のObsidianプラグイン投票名簿で、購入品の記事ではなくソフトウェア・プラグインの一覧"}
 {"url": "https://www.zhihu.com/tardis/jm/ans/2002104543450793406", "title": "知乎 2025 年度好物", "found_via": "search", "status": "skipped", "reason": "取得失敗（動的描画で本文なし、恒久的）"}
 {"url": "https://www.thenewslens.com/article/262977", "title": "關鍵評論網 2025", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
+{"url": "https://www.marieclaire.com/fashion/self-checkout-13-best-things-2025-tried-and-tested", "title": "Marie Claire 13 best things 2025", "found_via": "search", "status": "extracted", "source_id": "marieclaire-1dd3e0ba"}
+{"url": "https://www.whowhatwear.com/fashion/shopping/shopping-favorites-2025", "title": "Who What Wear shopping favorites 2025", "found_via": "search", "status": "extracted", "source_id": "whowhatwear-669f4d4c"}
+{"url": "https://benable.com/Kyliejpaylor/favorite-purchases-of-2025-9f", "title": "favorite purchases of 2025", "found_via": "search", "status": "todo"}
+{"url": "https://chatelaine.com/style/fashion/best-purchases-editors-picks-december-2025/", "title": "Chatelaine best purchases 2025", "found_via": "search", "status": "skipped", "reason": "編集部の12月の購入品（月次記事）"}
+{"url": "https://www.excite.co.jp/news/article/TBSRadio_103572/", "title": "長谷川あかり 2025年のベストバイ", "found_via": "search", "status": "extracted", "source_id": "excite-6df7fc95"}
