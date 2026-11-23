@@ -969,3 +969,10 @@
 {"url": "https://alifewellsaved.substack.com/p/my-2025-favorite-purchases", "title": "my 2025 favorite purchases", "found_via": "search", "status": "skipped", "reason": "記事の大半がアフィリエイトリンクと自分の割引コード（ブランドごとのプロモコード）を伴う宣伝形式で、ShopMyでのギフティング依頼にも触れており、提供品の有無が本文から判断できない。また Khaite Arizona boots など2024年購入品が混在し、2025年に買ったものが中心とは言えない。"}
 {"url": "https://mentor.email/p/my-favorite-objects-a-house-walkthrough", "title": "My best purchases of the past years - 2025 edition", "found_via": "search", "status": "skipped", "reason": "タイトルが「My best purchases of the past years - 2025 edition」で、本文は家中にある過去数年の愛用品を紹介するハウスツアー（音声記事）。2025年に買ったものが中心ではないため。"}
 {"url": "https://oldlens.exblog.jp/33862523", "title": "2025 ベストバイ＆ワーストバイ", "found_via": "search", "status": "extracted", "source_id": "oldlens-1a6ba7c4"}
+{"url": "https://turiage.com/best-fishing-gear-2025-review/", "title": "2025年に買って良かった釣り具6選", "found_via": "search", "status": "extracted", "source_id": "turiage-5dfdd62e"}
+{"url": "https://bbg-mountain.com/2025/12/28/gear-of-the-year-2025/", "title": "GEAR OF THE YEAR 2025", "found_via": "search", "status": "skipped", "reason": "運営元の店舗（TMEオンラインストア）への誘導が全商品にある自店宣伝記事のため"}
+{"url": "https://katuochannel.com/2025goodgear/", "title": "2025年買って良かった物などなど多数", "found_via": "search", "status": "extracted", "source_id": "katuochannel-ab9032b7"}
+{"url": "https://kure-kura.com/2025-best-buy/", "title": "今年 買って良かったもの 6選 ベストバイ2025", "found_via": "search", "status": "extracted", "source_id": "kure-kura-37dd5d6f"}
+{"url": "https://gadgecon.fun/article-id7190/", "title": "2025 買ってよかった釣具", "found_via": "search", "status": "skipped", "reason": "公開日が2025-01-26で、2025年の年間まとめではなく上半期（年明け時点）の記事のため"}
+{"url": "https://alifeunfolding.com/my-favorite-things-that-worked-for-me-in-2025-and-im-taking-them-into-2026/", "title": "My favorite things that worked for me in 2025", "found_via": "search", "status": "extracted", "source_id": "alifeunfolding-21bffecc"}
+{"url": "https://www.clouzhouz.com/the-internet-made-me-buy-it-our-50-best-finds-from-2025/", "title": "Our 50 Best Finds From 2025", "found_via": "search", "status": "extracted", "source_id": "clouzhouz-44982cf3"}
