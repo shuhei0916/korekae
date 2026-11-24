@@ -1128,3 +1128,5 @@
 {"url": "https://sspai.com/104802", "title": "2025 年度好物", "found_via": "search", "status": "skipped", "reason": "既存 sspai-dbee2899 と同一記事"}
 {"url": "https://onimaga.jp/2025-ibought-10.html", "title": "ミニマリストの買ってよかったもの10選（2025年編）", "found_via": "search", "status": "extracted", "source_id": "onimaga-b16e9a9f"}
 {"url": "https://bornonfifth.com/my-2025-favorites-25-products-worth-buying-again-and-again/", "title": "My 2025 favorites", "found_via": "search", "status": "skipped", "reason": "アフィリエイトリンク（LTK/rstyle）でほぼ全商品を紹介するショップ紹介型の記事で、販促記事に当たる。筆者が購入したと明記されておらず、ブランド不明の商品（ダupe・無印の服飾品など）が多い。（判断に迷う場合は呼び出し元で再確認を。2025-12-22公開、Emily Hertz筆者、本文は全文読めた）"}
+{"url": "https://bluecollarredlipstick.com/2025/12/favourite-purchases-of-2025/", "title": "Favourite Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "bluecollarredlipstick-1fb074d9"}
+{"url": "https://lovingcolour.substack.com/p/25-my-favourite-purchases-for-2025-41e", "title": "My Favourite Purchases for 2025", "found_via": "search", "status": "skipped", "reason": "本文に商品情報なし。ポッドキャスト音声のみで、Substackの説明文に商品名・ブランドの記載がないため抽出不可。"}

@@ -1538,6 +1538,7 @@
 {"id": "name:anthropicclaudemax200ドル", "name": "Claude Max（200ドル）", "brand": "Anthropic", "category": "その他"}
 {"id": "name:anthropicclaudepro", "name": "Claude Pro", "brand": "Anthropic", "category": "サービス"}
 {"id": "name:anthropologiepartybagcharm", "name": "Party Bag Charm", "brand": "Anthropologie", "category": "ファッション"}
+{"id": "name:anthropologieドレス型番詳細不明", "name": "ドレス（型番・詳細不明）", "brand": "Anthropologie", "category": "ファッション"}
 {"id": "name:anuaアゼライン酸15インテンスカーミングセラム", "name": "anua アゼライン酸15 インテンスカーミングセラム", "brand": "anua", "category": "生活用品"}
 {"id": "name:anuaダークスポットセラム", "name": "Anua ダークスポットセラム", "brand": "Anua", "category": "その他"}
 {"id": "name:anuaハートリーフ77スージングトナー", "name": "Anua ハートリーフ77％スージングトナー", "brand": "Anua", "category": "生活用品"}
@@ -4859,6 +4860,7 @@
 {"id": "name:simmonsビューティーレスト65インチポケットコイルマットレス", "name": "Simmons ビューティーレスト 6.5インチポケットコイルマットレス", "brand": "Simmons", "category": "生活用品"}
 {"id": "name:simmon指輪", "name": "simmon 指輪", "brand": "simmon", "category": "ファッション"}
 {"id": "name:simonerochaフラワードレス", "name": "Simone Rocha フラワードレス", "brand": "Simone Rocha", "category": "ファッション"}
+{"id": "name:simsamドレス型番詳細不明", "name": "ドレス（型番・詳細不明）", "brand": "Sim & Sam", "category": "ファッション"}
 {"id": "name:sincerejapanナチュラルローゼルストリング", "name": "Sincere Japan ナチュラルローゼルストリング", "brand": "Sincere Japan", "category": "生活用品"}
 {"id": "name:sinnpureteマインドフルフレグランスノンアルコール", "name": "SINN PURETE マインドフルフレグランス ノンアルコール", "brand": "SINN PURETE", "category": "その他"}
 {"id": "name:sisijoianoue", "name": "Sisi Joia NOUE", "brand": "Sisi Joia", "category": "ファッション"}
@@ -5433,6 +5435,7 @@
 {"id": "name:uniqloショートパンツ", "name": "UNIQLO ショートパンツ", "brand": "UNIQLO", "category": "ファッション"}
 {"id": "name:uniqloスウェットワイドパンツ", "name": "UNIQLO スウェットワイドパンツ", "brand": "UNIQLO", "category": "ファッション"}
 {"id": "name:uniqloスフレヤーンチャンキーストール", "name": "UNIQLO スフレヤーンチャンキーストール", "brand": "UNIQLO", "category": "ファッション"}
+{"id": "name:uniqloバレルパンツ型番不明", "name": "バレルパンツ（型番不明）", "brand": "Uniqlo", "category": "ファッション"}
 {"id": "name:uniqloブラトップ", "name": "UNIQLO ブラトップ", "brand": "UNIQLO", "category": "ファッション"}
 {"id": "name:uniqloボアフリースリラックスカーディガン", "name": "UNIQLO ボアフリースリラックスカーディガン", "brand": "UNIQLO", "category": "ファッション"}
 {"id": "name:uniqlo感動パンツ", "name": "UNIQLO 感動パンツ", "brand": "UNIQLO", "category": "ファッション"}
