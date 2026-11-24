@@ -1073,3 +1073,10 @@
 {"url": "https://song.al/haowu2025", "title": "2025在日本，我的年度好物分享", "found_via": "search", "status": "extracted", "source_id": "song-768e3c56"}
 {"url": "https://blog.douchi.space/shopping-2025/", "title": "2025 年度购物总结", "found_via": "search", "status": "extracted", "source_id": "blog-9eb9e828"}
 {"url": "https://v2ex.com/t/1195070", "title": "2025 及历年个人年度好物推荐", "found_via": "search", "status": "extracted", "source_id": "v2ex-e804ab33"}
+{"url": "https://louisahatt.substack.com/p/bought-worn-sold-my-best-and-worst", "title": "my best and worst buys of 2025", "found_via": "search", "status": "extracted", "source_id": "louisahatt-c9ae9fb8"}
+{"url": "https://caifuhao.eastmoney.com/news/20251127123607041248180", "title": "2025我的年度好物分享", "found_via": "search", "status": "skipped", "reason": "同一筆者（song.al）の転載で重複"}
+{"url": "https://bamboobone9.com/posts/shopping/2025-shopping-wardrobe-recap/", "title": "2025年度总结｜衣柜回顾", "found_via": "search", "status": "extracted", "source_id": "bamboobone9-74982b58"}
+{"url": "https://battlele.com/2025-buy/", "title": "2025 年度好物推荐 - Battle Le", "found_via": "search", "status": "extracted", "source_id": "battlele-e4b5e313"}
+{"url": "https://www.bboy.app/2025/12/31/2025%E5%B9%B4%E6%80%BB%E7%BB%93/", "title": "2025年总结 bboy", "found_via": "search", "status": "extracted", "source_id": "bboy-0fc9a93e"}
+{"url": "http://www.cherylshops.net/2026/01/the-best-things-i-bought-in-2025-part-2.html", "title": "The best things I bought in 2025, part 2", "found_via": "search", "status": "skipped", "reason": "取得失敗（ROBOTS_UNREACHABLE、恒久的）"}
+{"url": "https://fannyadams.substack.com/p/10-best-things-i-bought-part-2", "title": "10 Best Things I Bought, Part 2", "found_via": "search", "status": "skipped", "reason": "有料記事（ペイウォールで本文が読めない）"}
