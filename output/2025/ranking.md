@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-917件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+918件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -2097,6 +2097,7 @@
 | 657 | Glossier You Doux | Glossier | 1 | 1 | 0 |
 | 657 | [GoPro HERO12 Black](https://www.amazon.co.jp/dp/B0CH4LL3Z8) | GoPro | 1 | 1 | 0 |
 | 657 | GoPro HERO13 Black クリエイターエディション | GoPro | 1 | 1 | 0 |
+| 657 | Golden Tree Coffee Blend | Oslo Coffee Roasters | 1 | 1 | 0 |
 | 657 | Gone Before Goodbye |  | 1 | 1 | 0 |
 | 657 | Good Fish | Good Fish | 1 | 1 | 0 |
 | 657 | Good Girl | Carolina Herrera | 1 | 1 | 0 |
@@ -4841,6 +4842,7 @@
 | 657 | Wine Glasses (Set of 4) | Fable | 1 | 1 | 0 |
 | 657 | Wit & Wisdom Absolution Black Jeans | Wit & Wisdom | 1 | 1 | 0 |
 | 657 | With Love From New York Stickers | Pink Olive | 1 | 1 | 0 |
+| 657 | Women's Compression Calf Socks (black-grey) | Bombas | 1 | 1 | 0 |
 | 657 | Wonderskin Eyeliner | Wonderskin | 1 | 1 | 0 |
 | 657 | Wood Cutting Board | MacKenzie-Childs | 1 | 1 | 0 |
 | 657 | Working Texture Spray | Kristin Ess | 1 | 1 | 0 |
@@ -9022,5 +9024,6 @@
 - [30代独身男性の2025年ベストバイ](https://murayoshinouen.com/entry/2025/12/21/162223)
 - [散財2025](https://creators.bengo4.com/entry/2025/12/24/000000)
 - [2025年 買ってよかったガジェットまとめ](https://mono96.jp/sanzai/75226/)
+- [Your Brain on Money: My 2025 Roundup](https://yourbrainonmoney.substack.com/p/your-brain-on-money-my-2025-roundup)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
