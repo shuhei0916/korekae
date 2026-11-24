@@ -1143,3 +1143,6 @@
 {"url": "https://www.320sycamoreblog.com/2025/12/favorite-things-2025-some-of-my.html", "title": "Favorite Things 2025", "found_via": "search", "status": "extracted", "source_id": "320sycamoreblog-8f3d6b3c"}
 {"url": "https://twotwentyone.substack.com/p/my-favorite-things-2025", "title": "My Favorite Things 2025", "found_via": "search", "status": "extracted", "source_id": "twotwentyone-2ae14b65"}
 {"url": "https://jolynneshane.com/favorite-things-2025.html", "title": "My Favorite Things 2025", "found_via": "search", "status": "skipped", "reason": "ホリデーのギフトガイド（記事自身が「holiday gift guides」の一本と明言し、giftable な物の提案が中心）のため"}
+{"url": "https://ahopefulword.substack.com/p/my-favorite-things-2025-edition", "title": "My Favorite Things (2025 edition)", "found_via": "search", "status": "extracted", "source_id": "ahopefulword-bb814f47"}
+{"url": "https://sobaditsgoodryanbailey.substack.com/p/a-few-of-our-favorite-things-of-2025", "title": "A Few of Our Favorite Things of 2025", "found_via": "search", "status": "skipped", "reason": "販促記事と判断。自社ショップ(Threadless)の自社グッズや商品購入リンクが中心の「ファン向けおすすめ」リストで、筆者の購入を示す記述がない。"}
+{"url": "https://theheatherhogan.substack.com/p/5-favorite-everythings-of-2025", "title": "5 Favorite Everythings of 2025", "found_via": "search", "status": "extracted", "source_id": "theheatherhogan-cc1812f1"}
