@@ -1318,6 +1318,7 @@
 {"id": "name:abrasusお財布ショルダー", "name": "abrAsus お財布ショルダー", "brand": "abrAsus", "category": "ファッション"}
 {"id": "name:abrasusつなぎスリープウェア", "name": "abrAsus つなぎスリープウェア", "brand": "abrAsus", "category": "ファッション"}
 {"id": "name:acasism2ssdケースtbu501pro", "name": "ACASIS M.2 SSDケース TBU501Pro", "brand": "ACASIS", "category": "ガジェット"}
+{"id": "name:accsoontoprigs40cameraslider", "name": "Accsoon TopRig S40 Camera Slider", "brand": "Accsoon", "category": "ガジェット"}
 {"id": "name:acefarmroadace05893", "name": "ACE Farm Road ace-05893", "brand": "ACE", "category": "生活用品"}
 {"id": "name:acefastaceclippro", "name": "ACEFAST AceClip Pro", "brand": "ACEFAST", "category": "ガジェット"}
 {"id": "name:activegearストレッチクロスショーツレギンス", "name": "ACTIVEGEAR ストレッチクロスショーツ+レギンス", "brand": "ACTIVEGEAR", "category": "ファッション"}
@@ -1616,7 +1617,7 @@
 {"id": "name:applemacmini", "name": "Apple Mac mini", "brand": "Apple", "category": "ガジェット", "aliases": ["Mac mini"]}
 {"id": "name:applemacmini2024m4", "name": "Apple Mac mini 2024 M4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacminim12020", "name": "Apple Mac mini (M1, 2020)", "brand": "Apple", "category": "ガジェット"}
-{"id": "name:applemacminim4", "name": "Apple Mac mini M4", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:applemacminim4", "name": "Apple Mac mini M4", "brand": "Apple", "category": "ガジェット", "aliases": ["Mac mini (M4)"]}
 {"id": "name:applemacminim41010核24g512g", "name": "Apple Mac mini M4 (10+10核 24G 512G)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacminim416gb256gb", "name": "Apple Mac mini M4 (16GB/256GB)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacminim4pro", "name": "Apple Mac mini M4 Pro", "brand": "Apple", "category": "ガジェット"}
@@ -1806,6 +1807,7 @@
 {"id": "name:bedsurequeenduvetcoversetblack3pc", "name": "Bedsure Queen Duvet Cover Set Black 3pc", "brand": "Bedsure", "category": "生活用品"}
 {"id": "name:bedsurequeenpillowssetof2", "name": "Bedsure Queen Pillows Set of 2", "brand": "Bedsure", "category": "生活用品"}
 {"id": "name:bedsurequiltedcomforterduvetinsertqueen", "name": "Bedsure Quilted Comforter Duvet Insert Queen", "brand": "Bedsure", "category": "生活用品"}
+{"id": "name:beelinkmemininas", "name": "Beelink Me Mini NAS", "brand": "Beelink", "category": "ガジェット"}
 {"id": "name:beheランニングポーチ", "name": "BeHe ランニングポーチ", "brand": "BeHe", "category": "その他"}
 {"id": "name:beihoo洗顔用リストバンド", "name": "BEIHOO 洗顔用 リストバンド", "brand": "BEIHOO", "category": "生活用品"}
 {"id": "name:bejust100beeswaxtapercandles", "name": "100% Beeswax Taper Candles", "brand": "Be Just", "category": "生活用品"}
@@ -2015,6 +2017,7 @@
 {"id": "name:canonmg6130", "name": "Canon MG6130", "brand": "Canon", "category": "家電"}
 {"id": "name:canonpowershotg9x", "name": "Canon PowerShot G9 X", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canonpowershotv10psv10", "name": "Canon PowerShot V10 PSV10", "brand": "Canon", "category": "ガジェット"}
+{"id": "name:canonr50v", "name": "Canon R50 V", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canonrf200800mmf639isusm", "name": "CANON RF200-800mm F6.3-9 IS USM", "brand": "CANON", "category": "ガジェット"}
 {"id": "name:canonrf24mmf18macroisstm", "name": "Canon RF24mm F1.8 MACRO IS STM", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canonrf45mmf12stm", "name": "Canon RF45mm F1.2 STM", "brand": "Canon", "category": "ガジェット"}
@@ -2094,6 +2097,7 @@
 {"id": "name:chloéブーツ", "name": "CHLOÉ ブーツ", "brand": "CHLOÉ", "category": "ファッション"}
 {"id": "name:choosingkeepingノート", "name": "Choosing Keeping ノート", "brand": "Choosing Keeping", "category": "生活用品"}
 {"id": "name:chosfoxgeonixrev2", "name": "Chosfox Geonix Rev.2", "brand": "Chosfox", "category": "ガジェット"}
+{"id": "name:choyongvoyagerinternetradio", "name": "Choyong Voyager Internet Radio", "brand": "Choyong", "category": "家電"}
 {"id": "name:chrismcmillanblowdryspray", "name": "Chris McMillan Blow Dry Spray", "brand": "Chris McMillan", "category": "その他"}
 {"id": "name:chrispowスマホリング両面マグネット", "name": "スマホリング 両面マグネット", "brand": "ChrisPow", "category": "ガジェット"}
 {"id": "name:christopherobincleansingscrub", "name": "Christophe Robin Cleansing Scrub", "brand": "Christophe Robin", "category": "その他"}
@@ -3403,6 +3407,7 @@
 {"id": "name:leaplumin低重心アルカスイス規格ボールヘッド", "name": "Leaplumin 低重心 アルカスイス規格 ボールヘッド", "brand": "Leaplumin", "category": "ガジェット"}
 {"id": "name:leapraupeスーツケース交換用ハンドル", "name": "Leap Raupe スーツケース 交換用ハンドル", "brand": "Leap Raupe", "category": "生活用品"}
 {"id": "name:leathermanarc", "name": "Leatherman ARC", "brand": "Leatherman", "category": "アウトドア"}
+{"id": "name:leathermanwavealpha", "name": "Leatherman Wave Alpha", "brand": "Leatherman", "category": "生活用品"}
 {"id": "name:lebereeブラトップ", "name": "leberee ブラトップ", "brand": "leberee", "category": "ファッション"}
 {"id": "name:lebonneshoppesweaters", "name": "Le Bonne Shoppe Sweaters", "brand": "Le Bonne Shoppe", "category": "ファッション"}
 {"id": "name:lechoppe別注batonerexcowchin", "name": "LECHOPPE 別注 BATONER EX COWCHIN", "brand": "LECHOPPE", "category": "ファッション"}
