@@ -1059,3 +1059,5 @@
 {"url": "https://nekosakamiti.com/bestbuy_2025/", "title": "2025年のベストバイ 20代SE", "found_via": "search", "status": "extracted", "source_id": "nekosakamiti-cd4d2137"}
 {"url": "https://norakura-gadget.com/%E2%80%902025%E5%B9%B4%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E2%80%90%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AA%E3%81%A9%E3%83%99%E3%82%B9/", "title": "2025年買ってよかったもの norakura gadget", "found_via": "search", "status": "extracted", "source_id": "norakura-gadget-6b567be7"}
 {"url": "https://kajetblog.com/?p=50131", "title": "kajetblog", "found_via": "search", "status": "skipped", "reason": "提供品を含むと本文に明記されており（購入品と提供品を個別に区別できない）、提供品除外の判定ができないため"}
+{"url": "https://www.salary-man.net/entry/matome2025", "title": "2025年使ってよかったガジェットやデスク関連アイテムまとめ", "found_via": "search", "status": "skipped", "reason": "記事内に「記事内にPRを含む場合があります」というPR表記があり、各商品にAmazon/楽天等のアフィリエイトリンクが付くため除外"}
+{"url": "https://nobico.php.co.jp/2025/12/25/post_40609/", "title": "2025年、ママ・パパが買ってよかったものは？", "found_via": "search", "status": "extracted", "source_id": "nobico-5122caba"}
