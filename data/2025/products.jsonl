@@ -1548,6 +1548,7 @@
 {"id": "name:appleairpods", "name": "Apple AirPods", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods4", "name": "Apple AirPods 4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpods4wirelessearbudsactivenoisecancellation", "name": "Apple AirPods 4 Wireless Earbuds（Active Noise Cancellation）", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:appleairpods4標準版", "name": "AirPods 4 標準版", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpodspro2", "name": "Apple AirPods Pro2", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple AirPods Pro 2"]}
 {"id": "name:appleairpodspro2usbc", "name": "Apple AirPods Pro 2 USB-C", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleairpodspro3rdgeneration", "name": "AirPods Pro (3rd Generation)", "brand": "Apple", "category": "ガジェット"}
@@ -1794,6 +1795,7 @@
 {"id": "name:beplain緑豆弱酸性洗顔フォーム", "name": "beplain 緑豆弱酸性 洗顔フォーム", "brand": "beplain", "category": "その他"}
 {"id": "name:bettdowマジックキーボード", "name": "Bettdow マジックキーボード", "brand": "Bettdow", "category": "ガジェット"}
 {"id": "name:betterdayscohydrationsticks", "name": "BETTERDAYS CO. Hydration Sticks", "brand": "BETTERDAYS CO.", "category": "食品"}
+{"id": "name:betterhomesgardenswyattvelvetofficechairオリーブ", "name": "Wyatt Velvet Office Chair オリーブ", "brand": "Better Homes & Gardens", "category": "生活用品"}
 {"id": "name:beyondyogaspacedyeretrocroppedpant", "name": "Beyond Yoga Spacedye Retro Cropped Pant", "brand": "Beyond Yoga", "category": "ファッション"}
 {"id": "name:beyondパーソナルジム", "name": "BEYOND パーソナルジム", "brand": "BEYOND", "category": "サービス"}
 {"id": "name:beスパークルトリートメント", "name": "&be スパークルトリートメント", "brand": "&be", "category": "生活用品"}
@@ -1961,6 +1963,7 @@
 {"id": "name:canmakeラスティングマルチアイベースwp", "name": "CANMAKE ラスティングマルチアイベース WP", "brand": "CANMAKE", "category": "生活用品"}
 {"id": "name:cannatechcbnグミ", "name": "CannaTech CBN グミ", "brand": "CannaTech", "category": "食品"}
 {"id": "name:canona4インクジェット複合機xk130", "name": "Canon A4インクジェット複合機 XK130", "brand": "Canon", "category": "家電"}
+{"id": "name:canoneosr50ミラーレスカメラ", "name": "EOS R50 ミラーレスカメラ", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canoneosr5markii", "name": "Canon EOS R5 Mark II", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canoneosr6", "name": "Canon EOS R6", "brand": "Canon", "category": "ガジェット"}
 {"id": "name:canonixy650", "name": "Canon IXY 650", "brand": "Canon", "category": "ガジェット"}
@@ -2281,6 +2284,7 @@
 {"id": "name:djimic3", "name": "DJI Mic 3", "brand": "DJI", "category": "ガジェット"}
 {"id": "name:djiosmo360スタンダードコンボ", "name": "DJI Osmo 360 スタンダードコンボ", "brand": "DJI", "category": "ガジェット"}
 {"id": "name:djiosmoaction5pro", "name": "DJI Osmo Action 5 Pro", "brand": "DJI", "category": "ガジェット"}
+{"id": "name:dji大疆osmo360全景運動相機標準セット", "name": "Osmo 360 全景運動相機 標準セット", "brand": "DJI（大疆）", "category": "ガジェット"}
 {"id": "name:doctorsbestbiopqq", "name": "Doctor's Best BioPQQ", "brand": "Doctor's Best", "category": "食品"}
 {"id": "name:doctorsbest高吸収性マグネシウム", "name": "Doctor's Best 高吸収性マグネシウム", "brand": "Doctor's Best", "category": "食品"}
 {"id": "name:doctorsbest高濃度トランスレスベラトロール600", "name": "Doctor's Best 高濃度トランスレスベラトロール600", "brand": "Doctor's Best", "category": "食品"}
@@ -2455,6 +2459,7 @@
 {"id": "name:evoonかわるガジェットポーチ20", "name": "かわるガジェットポーチ2.0", "brand": "Evoon", "category": "生活用品"}
 {"id": "name:evoonマルチビジネスパックmini", "name": "Evoon マルチビジネスパックMini", "brand": "Evoon", "category": "ファッション"}
 {"id": "name:evoonマルチビジネスリュックemma", "name": "Evoon マルチビジネスリュック Emma", "brand": "Evoon", "category": "ファッション"}
+{"id": "name:eweadn前行者x87ultra三模機械键盘87键", "name": "X87 ULTRA 三模 機械键盘 87键", "brand": "EWEADN（前行者）", "category": "ガジェット"}
 {"id": "name:ewinトラックボールマウス", "name": "Ewin トラックボールマウス", "brand": "Ewin", "category": "ガジェット"}
 {"id": "name:ewin折りたたみキーボード", "name": "Ewin 折りたたみキーボード", "brand": "Ewin", "category": "ガジェット"}
 {"id": "name:excelカラーエディットスリムブロウ", "name": "excel カラーエディットスリムブロウ", "brand": "excel", "category": "その他"}
@@ -2580,6 +2585,8 @@
 {"id": "name:fujifilmxt50", "name": "Fujifilm X-T50", "brand": "Fujifilm", "category": "ガジェット"}
 {"id": "name:fujifilmxt501545mm", "name": "FUJIFILM X-T50 15-45mm", "brand": "FUJIFILM", "category": "ガジェット"}
 {"id": "name:fujifilmxt501650mmf2845套机", "name": "FUJIFILM X-T50 16-50mm f/2.8-4.5 套机", "brand": "FUJIFILM", "category": "ガジェット"}
+{"id": "name:fujifilm富士instaxmini12", "name": "instax mini 12", "brand": "FUJIFILM（富士）", "category": "ガジェット"}
+{"id": "name:fujifilm富士instaxmini7", "name": "instax mini 7+", "brand": "FUJIFILM（富士）", "category": "ガジェット"}
 {"id": "name:fujikoあぶらとりウォーターパウダーneo", "name": "Fujiko あぶらとりウォーターパウダーNeo", "brand": "Fujiko", "category": "生活用品"}
 {"id": "name:fullyグリーントマトクレイマスククレンザー120ml", "name": "FULLY グリーントマト クレイマスククレンザー 120ml", "brand": "FULLY", "category": "生活用品"}
 {"id": "name:fulngお風呂排水口ゴミ受け", "name": "FULNG お風呂排水口ゴミ受け", "brand": "FULNG", "category": "生活用品"}
@@ -2929,6 +2936,7 @@
 {"id": "name:ikeaタワシ", "name": "IKEA タワシ", "brand": "IKEA", "category": "生活用品"}
 {"id": "name:ikeaテーブルランプ", "name": "IKEA テーブルランプ", "brand": "IKEA", "category": "家電"}
 {"id": "name:ikeaフローセットイージーチェア", "name": "IKEA フローセット イージーチェア", "brand": "IKEA", "category": "生活用品"}
+{"id": "name:ikfr5イヤホン", "name": "R5 イヤホン", "brand": "ikf", "category": "ガジェット"}
 {"id": "name:ikmultimediaarcstudio", "name": "IK Multimedia ARC Studio", "brand": "IK Multimedia", "category": "ガジェット"}
 {"id": "name:iliabalmytinthydratinglipbalmlullaby", "name": "Ilia Balmy Tint Hydrating Lip Balm (Lullaby)", "brand": "Ilia", "category": "その他"}
 {"id": "name:ilialipcrayoninbanquette", "name": "Lip Crayon in Banquette", "brand": "Ilia", "category": "その他"}
@@ -3270,6 +3278,7 @@
 {"id": "name:legogameboy", "name": "LEGO Game Boy", "brand": "LEGO", "category": "その他"}
 {"id": "name:legostitch", "name": "LEGO Stitch", "brand": "LEGO", "category": "その他"}
 {"id": "name:legoturningred", "name": "LEGO Turning Red", "brand": "LEGO", "category": "その他"}
+{"id": "name:legoフレンチカフェセット", "name": "LEGO フレンチカフェ セット", "brand": "LEGO", "category": "その他"}
 {"id": "name:legoレゴゲームボーイ", "name": "レゴ ゲームボーイ", "brand": "LEGO", "category": "その他"}
 {"id": "name:lehaベアトップドレス", "name": "LEHA ベアトップドレス", "brand": "LEHA", "category": "ファッション"}
 {"id": "name:leicadlux8", "name": "LEICA D-LUX8", "brand": "LEICA", "category": "ガジェット"}
@@ -4251,6 +4260,7 @@
 {"id": "name:potterybarnwirelesstouchtablelamps", "name": "Pottery Barn Wireless Touch Table Lamps", "brand": "Pottery Barn", "category": "生活用品"}
 {"id": "name:povoデータ追加1gb180日間", "name": "povo データ追加1GB 180日間", "brand": "povo", "category": "サービス"}
 {"id": "name:powderpuffcollectionpowderpuffpullover", "name": "Powderpuff Pullover", "brand": "Powderpuff Collection", "category": "ファッション"}
+{"id": "name:powersheetsfreshstartweeklygoalplanner", "name": "Fresh Start Weekly Goal Planner", "brand": "Powersheets", "category": "その他"}
 {"id": "name:poyポーイミッフィーちゃん柄", "name": "POY（ポーイ）ミッフィーちゃん柄", "brand": "POY", "category": "生活用品"}
 {"id": "name:pradabucklesmallleatherhandbagwithbelt", "name": "Prada Buckle Small Leather Handbag With Belt", "brand": "Prada", "category": "ファッション"}
 {"id": "name:pradacollapserenylonsneakers", "name": "Collapse Re-Nylon Sneakers", "brand": "Prada", "category": "ファッション"}
@@ -4640,6 +4650,7 @@
 {"id": "name:skullcandycrusherplyr720", "name": "Skullcandy Crusher PLYR 720", "brand": "Skullcandy", "category": "ガジェット"}
 {"id": "name:skyeデスクチェア", "name": "SKYE デスクチェア", "brand": "SKYE", "category": "生活用品"}
 {"id": "name:skylightcalendar", "name": "Skylight Calendar", "brand": "Skylight", "category": "ガジェット"}
+{"id": "name:skylightcalendar15インチ", "name": "Skylight Calendar 15インチ", "brand": "Skylight", "category": "ガジェット"}
 {"id": "name:skylightmaxcalendar", "name": "Skylight Max Calendar", "brand": "Skylight", "category": "ガジェット"}
 {"id": "name:skyworthsmarttv", "name": "SKYWORTH Smart TV", "brand": "SKYWORTH", "category": "家電"}
 {"id": "name:slamdunk", "name": "SLAM DUNK", "category": "本"}
@@ -4776,6 +4787,7 @@
 {"id": "name:sugaart額装", "name": "SUGA ART 額装", "brand": "SUGA ART", "category": "サービス"}
 {"id": "name:sugiyama電気ひざかけ", "name": "Sugiyama 電気ひざかけ", "brand": "Sugiyama", "category": "家電"}
 {"id": "name:suicaのペンギン招き猫ぬいニャー", "name": "Suicaのペンギン 招き猫ぬい（ニャー）", "brand": "Suicaのペンギン", "category": "その他"}
+{"id": "name:suiddy磁吸充電宝", "name": "磁吸充電宝", "brand": "SUIDDY", "category": "ガジェット"}
 {"id": "name:suisaiビューティークリアパウダーウォッシュ", "name": "suisai ビューティークリア パウダーウォッシュ", "brand": "suisai", "category": "生活用品"}
 {"id": "name:summerfridaysblushbutterbalmhydratingcreamblushwithpeptides", "name": "Summer Fridays Blush Butter Balm Hydrating Cream Blush with Peptides", "brand": "Summer Fridays", "category": "その他"}
 {"id": "name:summerfridaysjetlagmask", "name": "Jet Lag Mask", "brand": "Summer Fridays", "category": "その他"}

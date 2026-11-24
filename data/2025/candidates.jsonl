@@ -1080,3 +1080,7 @@
 {"url": "https://www.bboy.app/2025/12/31/2025%E5%B9%B4%E6%80%BB%E7%BB%93/", "title": "2025年总结 bboy", "found_via": "search", "status": "extracted", "source_id": "bboy-0fc9a93e"}
 {"url": "http://www.cherylshops.net/2026/01/the-best-things-i-bought-in-2025-part-2.html", "title": "The best things I bought in 2025, part 2", "found_via": "search", "status": "skipped", "reason": "取得失敗（ROBOTS_UNREACHABLE、恒久的）"}
 {"url": "https://fannyadams.substack.com/p/10-best-things-i-bought-part-2", "title": "10 Best Things I Bought, Part 2", "found_via": "search", "status": "skipped", "reason": "有料記事（ペイウォールで本文が読めない）"}
+{"url": "https://keikolynn.substack.com/p/my-top-5-favorite-most-useful-purchases", "title": "My Top 5 Favorite, Most Useful Purchases of 2025", "found_via": "search", "status": "skipped", "reason": "商品が1つだけ"}
+{"url": "https://smallstuffcounts.com/best-of-2025/", "title": "Best of 2025 - My Top Purchases", "found_via": "search", "status": "extracted", "source_id": "smallstuffcounts-0bd6d5fd"}
+{"url": "https://m.shihuo.cn/page/findCommunityDetail?fromSource=&id=5661216&source_kouling=", "title": "2025年度好东西｜学生党10件实用数码好物", "found_via": "search", "status": "extracted", "source_id": "m-136035da"}
+{"url": "https://www.dcard.tw/@xmouse/post/261135943", "title": "Dcard 年度好物", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
