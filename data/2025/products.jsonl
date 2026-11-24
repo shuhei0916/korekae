@@ -2387,6 +2387,7 @@
 {"id": "name:driesvannotenbibsweater", "name": "Dries Van Noten Bib Sweater", "brand": "Dries Van Noten", "category": "ファッション"}
 {"id": "name:driesvannotenプリントシャツ古着", "name": "プリントシャツ（古着）", "brand": "DRIES VAN NOTEN", "category": "ファッション"}
 {"id": "name:drinkmate炭酸水メーカー", "name": "Drinkmate 炭酸水メーカー", "brand": "Drinkmate", "category": "家電"}
+{"id": "name:drizzaliciousbites", "name": "Drizzalicious bites", "brand": "Drizzalicious", "category": "食品"}
 {"id": "name:drizziliciousminiricecakes", "name": "Drizzilicious Mini Rice Cakes", "brand": "Drizzilicious", "category": "食品"}
 {"id": "name:drkcコントロールリペアセラム", "name": "Dr.K Cコントロール リペアセラム", "brand": "Dr.K", "category": "生活用品"}
 {"id": "name:drkcコントロールリペアセラム30ml", "name": "Dr.K Cコントロールリペアセラム 30mL", "brand": "Dr.K", "category": "生活用品"}
@@ -3381,6 +3382,7 @@
 {"id": "name:lanvinéclatdarpège", "name": "Lanvin Éclat d'Arpège", "brand": "Lanvin", "category": "ファッション"}
 {"id": "name:larocheposaycicaplastbalm", "name": "La Roche-Posay Cicaplast Balm", "brand": "La Roche-Posay", "category": "生活用品"}
 {"id": "name:larocheposaydoublerepairfacemoisturizer", "name": "La Roche-Posay Double Repair Face Moisturizer", "brand": "La Roche-Posay", "category": "その他"}
+{"id": "name:larocheposaydoublerepairmoisturizer", "name": "Double Repair Moisturizer", "brand": "La Roche-Posay", "category": "生活用品"}
 {"id": "name:larocheposayeffaclarserum", "name": "La Roche-Posay Effaclar Serum", "brand": "La Roche-Posay", "category": "生活用品"}
 {"id": "name:larocheposayuvイデアxlプロテクショントーンアップ", "name": "LA ROCHE POSAY UVイデア XL プロテクショントーンアップ", "brand": "LA ROCHE POSAY", "category": "生活用品"}
 {"id": "name:larocheposayトーンアップuv", "name": "La Roche-Posay トーンアップUV", "brand": "La Roche-Posay", "category": "生活用品"}
@@ -3549,7 +3551,7 @@
 {"id": "name:lomicallタブレットホルダー", "name": "Lomicall タブレット ホルダー", "brand": "Lomicall", "category": "ガジェット"}
 {"id": "name:lomicall三脚", "name": "Lomicall 三脚", "brand": "Lomicall", "category": "ガジェット"}
 {"id": "name:londonfograincoat", "name": "London Fog Raincoat", "brand": "London Fog", "category": "ファッション"}
-{"id": "name:longchamplargetote", "name": "Longchamp large tote", "brand": "Longchamp", "category": "ファッション"}
+{"id": "name:longchamplargetote", "name": "Longchamp large tote", "brand": "Longchamp", "category": "ファッション", "aliases": ["Large Tote"]}
 {"id": "name:longchamplepliagelargetotedarkgreen", "name": "Le Pliage Large Tote (dark green)", "brand": "Longchamp", "category": "ファッション"}
 {"id": "name:longchamplepliagemediumnylonshouldertotepaper", "name": "Le Pliage Medium Nylon Shoulder Tote (Paper)", "brand": "Longchamp", "category": "ファッション"}
 {"id": "name:longchampminibag", "name": "Longchamp Mini Bag", "brand": "Longchamp", "category": "ファッション"}
@@ -4099,6 +4101,7 @@
 {"id": "name:niubee透明レコードラックアクリル製", "name": "NIUBEE 透明 レコードラック アクリル製", "brand": "NIUBEE", "category": "生活用品"}
 {"id": "name:niveadeepmoistureolivelemonリップクリーム", "name": "NIVEA Deep Moisture Olive&Lemon リップクリーム", "brand": "NIVEA", "category": "生活用品"}
 {"id": "name:nkjemisinthebrokenearthtrilogythefifthseasontheobeliskgatethestonesky", "name": "The Broken Earth Trilogy (The Fifth Season / The Obelisk Gate / The Stone Sky)", "brand": "N.K. Jemisin", "category": "本"}
+{"id": "name:no7ceramidesandhyaluronicacid", "name": "No7 Ceramides and Hyaluronic Acid", "brand": "No7", "category": "生活用品"}
 {"id": "name:nobstoothpaste", "name": "NOBS Toothpaste", "brand": "NOBS", "category": "生活用品"}
 {"id": "name:nocoffeemediumshoulderbag", "name": "NO COFFEE MEDIUM SHOULDER BAG", "brand": "NO COFFEE", "category": "ファッション"}
 {"id": "name:nocontentストール", "name": "no content ストール", "brand": "no content", "category": "ファッション"}
@@ -4800,6 +4803,7 @@
 {"id": "name:scopeusemecoldorhot", "name": "scope USE ME COLD OR HOT", "brand": "scope", "category": "生活用品"}
 {"id": "name:scopeアズ茶碗", "name": "scope アズ茶碗", "brand": "scope", "category": "生活用品"}
 {"id": "name:scopeキャニスプーン", "name": "scope キャニ スプーン", "brand": "scope", "category": "生活用品"}
+{"id": "name:scrubdaddy", "name": "Scrub Daddy", "brand": "Scrub Daddy", "category": "生活用品"}
 {"id": "name:seacrystalsエプソムソルト", "name": "Sea Crystals エプソムソルト", "brand": "Sea Crystals", "category": "美容"}
 {"id": "name:seagatebarracudast24000dm001ec", "name": "Seagate BarraCuda ST24000DM001/EC", "brand": "Seagate", "category": "ガジェット"}
 {"id": "name:seagatebasic外付けハードディスクhdsgda6u3", "name": "Seagate Basic 外付けハードディスク HD-SGDA6U3", "brand": "Seagate", "category": "ガジェット"}
@@ -5058,6 +5062,7 @@
 {"id": "name:subuサンダル", "name": "SUBU サンダル", "brand": "SUBU", "category": "ファッション"}
 {"id": "name:sudiok2pro", "name": "Sudio K2 Pro", "brand": "Sudio", "category": "ガジェット"}
 {"id": "name:sugaart額装", "name": "SUGA ART 額装", "brand": "SUGA ART", "category": "サービス"}
+{"id": "name:sugarpaperlabels", "name": "Sugar Paper labels", "brand": "Sugar Paper", "category": "生活用品"}
 {"id": "name:sugiyama電気ひざかけ", "name": "Sugiyama 電気ひざかけ", "brand": "Sugiyama", "category": "家電"}
 {"id": "name:suicaのペンギン招き猫ぬいニャー", "name": "Suicaのペンギン 招き猫ぬい（ニャー）", "brand": "Suicaのペンギン", "category": "その他"}
 {"id": "name:suiddy磁吸充電宝", "name": "磁吸充電宝", "brand": "SUIDDY", "category": "ガジェット"}
@@ -5091,8 +5096,8 @@
 {"id": "name:swansonrelora", "name": "Swanson Relora", "brand": "Swanson", "category": "食品"}
 {"id": "name:swansonsodグリアジン複合体", "name": "Swanson SODグリアジン複合体", "brand": "Swanson", "category": "食品"}
 {"id": "name:swarovskiconstellaリング", "name": "SWAROVSKI Constella リング", "brand": "SWAROVSKI", "category": "ファッション"}
-{"id": "name:swarovskicrystaleternityring", "name": "Swarovski Crystal Eternity Ring", "brand": "Swarovski", "category": "ファッション"}
-{"id": "name:swarovskicrystaltennisbracelet", "name": "Swarovski Crystal Tennis Bracelet", "brand": "Swarovski", "category": "ファッション"}
+{"id": "name:swarovskicrystaleternityring", "name": "Swarovski Crystal Eternity Ring", "brand": "Swarovski", "category": "ファッション", "aliases": ["Crystal Eternity Ring"]}
+{"id": "name:swarovskicrystaltennisbracelet", "name": "Swarovski Crystal Tennis Bracelet", "brand": "Swarovski", "category": "ファッション", "aliases": ["Crystal Tennis Bracelet"]}
 {"id": "name:swedishstockingsfrankachecktights", "name": "Swedish Stockings Franka Check Tights", "brand": "Swedish Stockings", "category": "ファッション"}
 {"id": "name:sweedbeautycloudmascara", "name": "Sweed Beauty Cloud Mascara", "brand": "Sweed Beauty", "category": "生活用品"}
 {"id": "name:sweetestbatchblueberries", "name": "Sweetest Batch Blueberries", "brand": "Sweetest Batch", "category": "食品"}
@@ -5367,6 +5372,7 @@
 {"id": "name:tradeoneゲルクッション", "name": "TRADE ONE ゲルクッション", "brand": "TRADE ONE", "category": "生活用品"}
 {"id": "name:traderjoescrispyjalapeñopieces", "name": "Crispy Jalapeño Pieces", "brand": "Trader Joe's", "category": "食品"}
 {"id": "name:traderjoeshoneyhydrationfacemask", "name": "Trader Joe's Honey Hydration Face Mask", "brand": "Trader Joe's", "category": "その他"}
+{"id": "name:traderjoesvanillalipmask", "name": "Vanilla Lip Mask", "brand": "Trader Joe's", "category": "生活用品"}
 {"id": "name:traditionalweatherwearwaverlyキルトジャケット", "name": "Traditional Weatherwear WAVERLY キルトジャケット", "brand": "Traditional Weatherwear", "category": "ファッション"}
 {"id": "name:trakkemerchanttote", "name": "Trakke Merchant Tote", "brand": "Trakke", "category": "ファッション"}
 {"id": "name:transcendesd410c", "name": "Transcend ESD410C", "brand": "Transcend", "category": "ガジェット"}
