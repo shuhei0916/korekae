@@ -1099,3 +1099,12 @@
 {"url": "https://leetilghman.substack.com/p/my-favorite-things-of-2025", "title": "My favorite things of 2025 - Lee Tilghman", "found_via": "search", "status": "skipped", "reason": "有料記事（ペイウォールあり、本文の大部分が読めない）"}
 {"url": "https://gabriellagofis.substack.com/p/things-i-loved-in-2025", "title": "Things I loved in 2025 - Gabriella Gofis", "found_via": "search", "status": "skipped", "reason": "有料記事（ペイウォールで本文が読めない）"}
 {"url": "https://note.com/okj_0916/n/n8bf240d7dd60", "title": "Shopping Memo: Best Purchases of 2025 +α｜おかじま", "found_via": "search", "status": "extracted", "source_id": "note-okj_0916-1e13f32a"}
+{"url": "https://seeannajane.substack.com/p/my-2025-favorites-the-best-sellers", "title": "My 2025 Favorites - See Anna Jane", "found_via": "search", "status": "skipped", "reason": "読者に売れた商品（ベストセラー）の紹介が中心で、筆者の購入品かどうかが不明確"}
+{"url": "https://byangelicarose.substack.com/p/lets-talk-2025-favorites", "title": "Let's Talk 2025 Favorites", "found_via": "search", "status": "extracted", "source_id": "byangelicarose-bb711d15"}
+{"url": "https://itsasamthing.substack.com/p/2025-favorites", "title": "2025 Favorites - Samantha Jo", "found_via": "search", "status": "skipped", "reason": "単一ブランドのみで2026年10月公開（販促色が強い）"}
+{"url": "https://laurenncunningham.substack.com/p/favorites-of-2025", "title": "Favorites of 2025 - Lauren Cunningham", "found_via": "search", "status": "extracted", "source_id": "laurenncunningham-e90d0fca"}
+{"url": "https://therivkireport.substack.com/p/2025-favorites", "title": "2025 Favorites - The Rivki Report", "found_via": "search", "status": "skipped", "reason": "商品が1つだけ"}
+{"url": "https://carlycolvert.substack.com/p/my-2025-favorites", "title": "My 2025 Favorites - Carly Colvert", "found_via": "search", "status": "extracted", "source_id": "carlycolvert-364b3fa1"}
+{"url": "https://heresyourbite.substack.com/p/my-2025-favorites-with-a-few-good", "title": "My 2025 Favorites - Claire", "found_via": "search", "status": "skipped", "reason": "記事内に #thrivemarketpartner のPR表記があり、割引・販促中心の内容"}
+{"url": "https://zoehecht.substack.com/p/my-25-favorites-of-2025", "title": "My 25 Favorites of 2025 - Zoë Hecht", "found_via": "search", "status": "extracted", "source_id": "zoehecht-c2efc944"}
+{"url": "https://genjutudoll0528.hatenablog.com/entry/2025/12/12/215011", "title": "2025年ドール関連で買ってよかったもの", "found_via": "search", "status": "extracted", "source_id": "hatena-genjutudoll0528-9e745146"}
