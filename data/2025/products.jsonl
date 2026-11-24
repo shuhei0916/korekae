@@ -1604,6 +1604,7 @@
 {"id": "name:applemacbookair", "name": "Apple MacBook Air", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair13inchm4skyblue", "name": "Apple MacBook Air 13-inch M4 (Sky Blue)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair13インチ", "name": "Apple MacBook Air 13インチ", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:applemacbookair15inch2025m410cpu10gpu24gb512gbmidnight", "name": "MacBook Air 15-inch (2025) M4 (10 CPU/10 GPU, 24GB/512GB, Midnight)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair15インチm3", "name": "Apple MacBook Air 15インチ M3", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair15インチm4", "name": "Apple MacBook Air 15インチ M4", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookairm1", "name": "Apple MacBook Air M1", "brand": "Apple", "category": "ガジェット"}
@@ -2997,6 +2998,7 @@
 {"id": "name:hunterhunterカルタ", "name": "HUNTER×HUNTER カルタ", "category": "ゲーム"}
 {"id": "name:hunterエクスプローラーアンクルジップブーツ", "name": "HUNTER エクスプローラー アンクル ジップ ブーツ", "brand": "HUNTER", "category": "ファッション"}
 {"id": "name:hunterトラベルスニーカー", "name": "HUNTER トラベル スニーカー", "brand": "HUNTER", "category": "ファッション"}
+{"id": "name:hydroflaskinsulatedshakerbottle型番不明", "name": "Insulated Shaker Bottle（型番不明）", "brand": "Hydro Flask", "category": "生活用品"}
 {"id": "name:hydrojugトラベラータンブラー", "name": "HydroJug トラベラータンブラー", "brand": "HydroJug", "category": "生活用品"}
 {"id": "name:hypericehypervolt2", "name": "Hypervolt 2", "brand": "Hyperice", "category": "家電", "aliases": ["Hyperice Hypervolt 2"]}
 {"id": "name:hyperlitemountaingearjunction55l", "name": "HYPERLITE MOUNTAIN GEAR JUNCTION 55L", "brand": "HYPERLITE MOUNTAIN GEAR", "category": "ファッション"}
@@ -4039,6 +4041,7 @@
 {"id": "name:newbalanceハイリバウンディングインソールlam55634", "name": "New Balance ハイリバウンディングインソール LAM55634", "brand": "New Balance", "category": "ファッション"}
 {"id": "name:newbalance大谷翔平選手着用モデルニットトラックパンツストレートamp51203", "name": "New Balance 大谷翔平選手着用モデル ニットトラックパンツ(ストレート) AMP51203", "brand": "New Balance", "category": "ファッション"}
 {"id": "name:newera9thirtythechemicalbrotherswearethenight", "name": "NEW ERA 9THIRTY The Chemical Brothers/We Are the Night", "brand": "NEW ERA", "category": "ファッション"}
+{"id": "name:newestorleathertraveljournal型番不明", "name": "Leather Travel Journal（型番不明）", "brand": "Newestor", "category": "生活用品"}
 {"id": "name:newhattanウォッシュドローキャップ", "name": "NEWHATTAN ウォッシュド ロー キャップ", "brand": "NEWHATTAN", "category": "ファッション"}
 {"id": "name:nextoragenxf2pro256g", "name": "Nextorage NX-F2PRO256G", "brand": "Nextorage", "category": "ガジェット"}
 {"id": "name:nextoragenxp2segシリーズ", "name": "Nextorage NX-P2SE Gシリーズ", "brand": "Nextorage", "category": "ガジェット"}
@@ -4264,6 +4267,7 @@
 {"id": "name:oslocoffeeroastersgoldentreecoffeeblend", "name": "Golden Tree Coffee Blend", "brand": "Oslo Coffee Roasters", "category": "食品"}
 {"id": "name:osmdダイアリーシールフリー84794", "name": "OS MDダイアリーシール フリー 84794", "brand": "OS", "category": "生活用品"}
 {"id": "name:osoifolderbrot", "name": "OSOI FOLDER BROT", "brand": "OSOI", "category": "ファッション"}
+{"id": "name:osprey20lバックパック型番不明", "name": "20L バックパック（型番不明）", "brand": "Osprey", "category": "アウトドア"}
 {"id": "name:ottostylejp吸音パネルリブウッド", "name": "ottostyle.jp 吸音パネル リブウッド", "brand": "ottostyle.jp", "category": "生活用品"}
 {"id": "name:ouaileaveinconditionerstbartsscent", "name": "Ouai Leave In Conditioner（St. Barts Scent）", "brand": "Ouai", "category": "その他"}
 {"id": "name:ounceルヴェルrevel28", "name": ".OUNCE ルヴェル revel28", "brand": ".OUNCE", "category": "生活用品"}
@@ -4798,6 +4802,7 @@
 {"id": "name:savetheduckgigajacket", "name": "Giga Jacket", "brand": "Save the Duck", "category": "ファッション"}
 {"id": "name:savettebag", "name": "Savette Bag", "brand": "Savette", "category": "ファッション"}
 {"id": "name:savetteslimsymmetrypochette", "name": "Savette Slim Symmetry Pochette", "brand": "Savette", "category": "ファッション"}
+{"id": "name:savottakeikka50lbag型番不明", "name": "Keikka 50L Bag（型番不明）", "brand": "Savotta", "category": "アウトドア"}
 {"id": "name:scansnapix110", "name": "ScanSnap iX110", "category": "ガジェット"}
 {"id": "name:scansnapix2500", "name": "ScanSnap iX2500", "category": "ガジェット"}
 {"id": "name:scearnウールカシミヤパンツ", "name": "SCEARN ウールカシミヤパンツ", "brand": "SCEARN", "category": "ファッション"}
@@ -5172,6 +5177,7 @@
 {"id": "name:techarttzm02電子マウントアダプターaf", "name": "TECHART TZM-02 電子マウントアダプター AF", "brand": "TECHART", "category": "ガジェット"}
 {"id": "name:technicseahaz80", "name": "Technics EAH-AZ80", "brand": "Technics", "category": "ガジェット"}
 {"id": "name:technicsワイヤレスイヤホンaz80", "name": "Technics ワイヤレスイヤホン AZ-80", "brand": "Technics", "category": "ガジェット"}
+{"id": "name:teelovoフォンウォレット型番不明", "name": "フォンウォレット（型番不明）", "brand": "Teelovo", "category": "ガジェット"}
 {"id": "name:teenageengineeringep40ep2350launchkit", "name": "teenage engineering EP-40 + EP-2350 launch kit", "brand": "teenage engineering", "category": "ガジェット"}
 {"id": "name:teiqガラスフィルムgfdsblc04", "name": "TEIQ ガラスフィルム GFDS-BLC-04", "brand": "TEIQ", "category": "ガジェット"}
 {"id": "name:teklaバスローブ", "name": "TEKLA バスローブ", "brand": "TEKLA", "category": "生活用品"}
