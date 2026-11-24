@@ -1084,3 +1084,13 @@
 {"url": "https://smallstuffcounts.com/best-of-2025/", "title": "Best of 2025 - My Top Purchases", "found_via": "search", "status": "extracted", "source_id": "smallstuffcounts-0bd6d5fd"}
 {"url": "https://m.shihuo.cn/page/findCommunityDetail?fromSource=&id=5661216&source_kouling=", "title": "2025年度好东西｜学生党10件实用数码好物", "found_via": "search", "status": "extracted", "source_id": "m-136035da"}
 {"url": "https://www.dcard.tw/@xmouse/post/261135943", "title": "Dcard 年度好物", "found_via": "search", "status": "skipped", "reason": "取得失敗（client_error、恒久的）"}
+{"url": "https://actuallygoodthings.substack.com/p/high-five-25", "title": "High-five, '25", "found_via": "search", "status": "extracted", "source_id": "actuallygoodthings-26574c91"}
+{"url": "https://aprillockhart.substack.com/p/my-favorite-things-of-2025", "title": "My favorite things of 2025 - April Lockhart", "found_via": "search", "status": "skipped", "reason": "有料記事（Substackのペイウォールで本文の大部分が読めない。冒頭のリストのみ閲覧可）"}
+{"url": "https://www.scarymommy.com/shopping/best-purchases-of-2025", "title": "Scary Mommy best purchases of 2025", "found_via": "search", "status": "skipped", "reason": "筆者の購入品ではない（TikTokの読者投稿を集めたまとめ記事）"}
+{"url": "https://korekore.sakura.ne.jp/a0453/", "title": "2025年の「買って良かった」物のまとめ", "found_via": "search", "status": "extracted", "source_id": "korekore-8abf137b"}
+{"url": "https://hilahsthings.substack.com/p/my-favorite-things-of-2025", "title": "My favorite things of 2025 - Hilah Stahl", "found_via": "search", "status": "extracted", "source_id": "hilahsthings-8a8b16ca"}
+{"url": "https://blog.melissau.com/p/my-favorite-things-of-2025", "title": "My favorite things of 2025 - Melissa Urban", "found_via": "search", "status": "skipped", "reason": "PR表記あり（記事内のOzlo Sleepbudsがスポンサー投稿になることがあると明記）"}
+{"url": "https://thistlewoodfarms.com/21-of-my-favorite-things-of-2025/", "title": "21 Of My Favorite Things Of 2025", "found_via": "search", "status": "extracted", "source_id": "thistlewoodfarms-2fe10c30"}
+{"url": "https://haleynahman.substack.com/p/my-favorite-things-of-2025", "title": "My favorite things of 2025 - Haley Nahman", "found_via": "search", "status": "extracted", "source_id": "haleynahman-2c4e3b40"}
+{"url": "https://pinterestingplans.com/favorite-things-2025/", "title": "Favorite Things 2025 - Pinteresting Plans", "found_via": "search", "status": "skipped", "reason": "ギフトガイド形式（\"A Gift Guide of My Most-Loved Purchases\"）でアフィリエイトリンク中心"}
+{"url": "https://stevekamb.com/my-favorite-things-of-2025-and-a-look-to-2026/", "title": "My Favorite Things of 2025 - Steve Kamb", "found_via": "search", "status": "extracted", "source_id": "stevekamb-5ff29df1"}

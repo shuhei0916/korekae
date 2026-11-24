@@ -702,7 +702,7 @@
 {"product_id": "asin:B0D2KYFMX6", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "asin:B0D2W5LD8G", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "asin:B0D2W63XYY", "mention_count": 4, "source_count": 4, "author_count": 4, "top_rank_count": 0}
-{"product_id": "asin:B0D2YN71LH", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
+{"product_id": "asin:B0D2YN71LH", "mention_count": 3, "source_count": 3, "author_count": 3, "top_rank_count": 0}
 {"product_id": "asin:B0D31V9ZQD", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "asin:B0D34RQRMP", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "asin:B0D3GXP6YP", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
@@ -1452,6 +1452,7 @@
 {"product_id": "name:ancellmzipuphoodie", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:andiemalibuswimsuit", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:andobilmagringpromax", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:andrewseangreerless", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:angashionジューサーミキサー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:angelicprettyリボンカチューシャ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:aninebingroyjeans", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -1717,6 +1718,7 @@
 {"product_id": "name:ayrearlymorningstee", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ayrjeans", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ayrpoppedcollartateshirt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:ayrtheslackerjeansholidaywash", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:azlatrinity", "mention_count": 2, "source_count": 2, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:azlatrinityusbc", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:azra枕カバー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -1746,6 +1748,7 @@
 {"product_id": "name:baobaolucentmatte", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:baobaolucentトートバッグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:barazzonilacaffettiera", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:barbarakingsolverdemoncopperhead", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:barbourwinterbeadnellwaterproofjacket", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:barrellegsweatpants", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:barth中性重炭酸入浴剤", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -1762,6 +1765,7 @@
 {"product_id": "name:batonersunshinecashmerecrewneck", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:batonerニット", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:battlefield6", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:baublebarcustomsuitcasebraceletkit", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:baublebarcustomtote", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:baublebarinitialnecklace", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bauhutteチルトフットレストワイド", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -1854,8 +1858,10 @@
 {"product_id": "name:blundstoneサイドゴアブーツbs063089", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bmcjapan食事エプロン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bobovre3pro", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:bodenchelseawellieboots", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bodumchambordコーヒープレス192816", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bodycologyバスフィズ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:boggbag", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bombassaturdayslipper", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bombasslippers", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:bonmoment伝説の毛布", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2062,6 +2068,7 @@
 {"product_id": "name:ciosmartcobyslim10000mah", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ciosmartcobyslimiiwireless208k", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:cioカラビナ付きケーブルホルダー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:cioシリコンケーブルctoc2mpd100w", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:cioシリコンケーブルtypec延長ケーブル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:cioスパイラルケーブルctoc", "mention_count": 3, "source_count": 3, "author_count": 3, "top_rank_count": 0}
 {"product_id": "name:cioスパイラルシリコンケーブル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2149,6 +2156,7 @@
 {"product_id": "name:compressportfreebelt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:confis麻のルームシューズ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:coophomegoodsoriginalcutoutadjustablepillow", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:cooporiginalcutoutpillow", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:coopsleepgoodsadjustablecomforterfullqueen", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:coospoサイクルコンピュータ機種名不明", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:corefitフェイスポインター7th", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2169,6 +2177,7 @@
 {"product_id": "name:coucouintimatesthemidislipdress", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:countrylifetargetminsカルシウムマグネシウムカリウム", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:cozyblissfauxfurthrowblanket", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:cozyearthwovenpajamaset", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:craftedworldjonathanandersonsloewe", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:crashgatetroacoffeetable", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:creamofnaturepurehoneycurlactivator", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2178,6 +2187,7 @@
 {"product_id": "name:crocsstompembellishedclog", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:crownaffairhairtowel", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:crownaffairtheminibrushno001", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:crownaffairvolumizingconditioner", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:crucianiストレッチコットンtシャツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:créer人感センサーライト", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:cubilux35mm5分配スプリッター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2322,6 +2332,7 @@
 {"product_id": "name:drowsysleepmask", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:drpepperダイエットドクターペッパー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:drumohrウールミドルゲージプルオーバーニットパーカー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:drunkelephantlippebalm", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:drwuウルトラハイドレーティングティンティッドディフェンスローション", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:drマグザム姿勢サポーター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:dsdurgaamberkisoeaudeparfume", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2365,7 +2376,7 @@
 {"product_id": "name:ebymeshbra", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ebyreliefbra", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ebysheerbralette", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
-{"product_id": "name:ebywirelessbralette", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:ebywirelessbralette", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:eccosoft7sneakers", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:echtpowerコントローラー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ecoflowdelta2maxs", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2416,6 +2427,7 @@
 {"product_id": "name:emilydawnlongswansweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:emmalionbooks", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:emme6重ガーゼケット", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:emmelinecleindeadweightessaysonhungerandharm", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:emmimizunoスニーカー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:emmiキャミソールロングワンピース", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:enewtonbracelets", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2476,6 +2488,7 @@
 {"product_id": "name:fahertypants", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:fahertystripedfishermansweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:fahertysuperfinealpacasummitsweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:faiableultimatecomfortoversizedfleecelinedsweatshirt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:fairy柔軟剤almondmilkandmanukahoney", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:falconeriultrasoftcashmerecrewnecksweaterwithsetinsleeves", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:fallonbyrneギネスソーダブレッド", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2565,6 +2578,7 @@
 {"product_id": "name:fredrikpackersdaypacktipi", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:freepeoplecableknitsweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:freepeoplehotshotonesie", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:freetheoceanreusableswedishdishcloth", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:frescagrapefruit", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:freshserum", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:frettegreenwichduvetcover", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2608,6 +2622,7 @@
 {"product_id": "name:gapmidriseultrasoftdenimeasyhorseshoejeans", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gapminiriblacetrimpjbottom", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gapminiriblacetrimpjtop", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:gapultrasoftjeans", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:gapくまさんケーブルニットタイツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gapブーツフィットレザーパンツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:garminepix", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2644,6 +2659,7 @@
 {"product_id": "name:gigastone4kcamerapromicrosdxc", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gigiburristenleyturban", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gildenmenswhitetshirts", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:giurominigiurokitdelizia", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:globalwork推しごとキルティング2wayトート", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:glossierlipliner", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:glossieryoudoux", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2674,6 +2690,7 @@
 {"product_id": "name:goop15glycolicacidovernightglowpeel", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:goprohero13blackクリエイターエディション", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gorillagripruggripper", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:gorjanalouhuggies", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gorjanarings3本重ね型番不明", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gosentolenovotab8ケース", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gossamergearpikusling", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2693,12 +2710,14 @@
 {"product_id": "name:grazaoliveoilbjornqorn", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:greefulシステム手帳s", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:greekfreakseasoning", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:greenhousepd65w充電器ghacu2gfbk", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:greenlabelrelaxingmroliveeoiglr2wayトートバッグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:greenpanmini", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:greenpanreserveprocookwareset", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gregoryzulu24lt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:grenlanderwintergl868", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:gretaballetflat", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:grimmsblockscsh1012", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:griplus極薄強力滑り止めシール", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:grongグロングスーパー大麦バーリーマックス押し麦", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:grongプロテインホエイプロテインベーシック", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2765,6 +2784,7 @@
 {"product_id": "name:hauslabsfoundation", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:hayバスローブ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:healthysolorganicgrassfedtallowbarsoap", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:heathbitsenglishtoffeebits", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:heavenmayhemcarinowatch", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:heavenmayhemminiknotearrings", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:heenieheeniemiho裾レースリボンフリルミニワンピ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -2922,6 +2942,7 @@
 {"product_id": "name:ikeamariusマリウススツール", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ikeaofantligt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ikeaolovレッグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:ikeapax", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:ikearensare衣類用バッグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ikearåskogロースコグワゴン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ikeasatsumasプラントスタンド", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3006,6 +3027,7 @@
 {"product_id": "name:izxi自動搾乳機", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jabraspeak275", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jackeryポータブル電源2000newje2000d", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:jacquelineharpmaniwhohaveneverknownmen", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jaegerlecoultreレベルソクラシックスモールセコンド", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:jamesrouchedloafers", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:janewinhopejworiginalpendantcoin", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3029,6 +3051,7 @@
 {"product_id": "name:jennikayneflynnvneckpullover", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jessemmastrliftiirouterlift", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jessicamccormackdiamondpearlcutdownhoopearrings", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:jeudemeureddcream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jewelnaroseロッティリュック", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jianティーシロップ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jian漢方ドリンク", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3047,6 +3070,7 @@
 {"product_id": "name:jins目が小さくならないメガネ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jins老眼鏡", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jins調光サングラス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:jisulifedeskfanportablerechargeable", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jjcdk29円形アイカップ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jkプランガラスキャビネットキャッツプリンセスtssgt0120wh", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jlabgosport", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3058,6 +3082,7 @@
 {"product_id": "name:jmウエストン180シグニチャーローファー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:jodanアロマリング", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:johnbooscocuttingboard", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:johnboosmaplecuttingboard18x12x112", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:johnboosrboardseriesmaplecuttingboard", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:johndoeアノラックパーカ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:johnsmedleyモックネックニット", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3086,7 +3111,7 @@
 {"product_id": "name:jwandersonヘッジホッグクラッチ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:k18airwashdryshampoo", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:k18charcoaldetoxshampoo", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
-{"product_id": "name:k18leaveinmolecularrepairhairmask", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
+{"product_id": "name:k18leaveinmolecularrepairhairmask", "mention_count": 3, "source_count": 3, "author_count": 3, "top_rank_count": 0}
 {"product_id": "name:k3btheprofessionalspec7wayダウン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kaanasalaytasquaretoenakedsandals", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kadokawa佐藤正午熟柿", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3179,6 +3204,7 @@
 {"product_id": "name:kissyouイオン歯ブラシ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kitenリポソームビタミンcサプリメント", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kitintoレンジで簡単ゆでたまごメーカー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:kitschflatcloudclip", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kiuエアコンディションドベスト", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kivaoutdoorsinsulatedventurewideshort", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kivyglassbutterdish", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3213,6 +3239,7 @@
 {"product_id": "name:ktcm27t6", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kufuuお薬手帳ケース", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kundalシャンプー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:kurilluminatingnailconcealer", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kurogames鳴潮", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kuroデザートスプーン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:kutfromtheklothhollyskirt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3227,6 +3254,7 @@
 {"product_id": "name:laconicラコニック手帳a5オリーブ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ladlemarkハイロタオル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lagomジェルトゥウォータークレンザー", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
+{"product_id": "name:lairdsuperfoodproteincreamer", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lakaティント", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lakepajamas", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lakerobe", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3441,6 +3469,7 @@
 {"product_id": "name:lululemonalign28leggingsnavy", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lululemonbeyondfeelrunningshoe", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lululemonfastandfreelegging", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:lululemonnuluspaghettistrapcami", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lululemonrainrebeljacket", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lululemonscubaosfullziphoodie", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:lululemonwundertraingloves", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3482,6 +3511,7 @@
 {"product_id": "name:madewellthedakotashouldersaddlebaginsuedenu130", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:madisonreedhairdye", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:madisonreedroottouchupkit", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:magdaszabothedoor", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:magenep715ペダル型パワーメーター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:magnet", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:magniflexecosandro", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3508,6 +3538,7 @@
 {"product_id": "name:makeinvitaminc100deepmoistskinlotion", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:makeroom", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:makeupbymariosoftsculptskinenhancer", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:makeupforeverartistcolorpencil", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:makitaインパクトレンチtw152d", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:makita充電式コーヒーメーカーcm501dz", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:maldonsseasalt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3575,6 +3606,7 @@
 {"product_id": "name:mayflashf700elite", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mazamadesignsmgobottle", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mazdacx30", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:mccannsoriginalinstantirishoatmeal", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mcdodo67wpd充電器", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mcdodoライトニングtousbc変換アダプタ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mco折りたためるトラベルケトルmbetk02wh", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3582,6 +3614,7 @@
 {"product_id": "name:medicubecollagengelmasks", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:medicubecollagenjellycream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:medicubedeepvitacpads", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:medicubepdrnpinkcollagen", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:medicubezeroporepads", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mediqtto着圧ソックス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:medium霊媒探偵城塚翡翠", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3696,6 +3729,7 @@
 {"product_id": "name:mokulサイズバスタオル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mokumokuipad専用タブレットテーブル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:moleskine手帳2025年", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:mollyssuds", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:momoconceptロックタンブラー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:momotarojeansジーンズ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:moneyforwardme", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3727,6 +3761,7 @@
 {"product_id": "name:moonrakersムーンテックtシャツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:mooplantムープラント", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:morethantapaslounge都庁前", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:morganhouseltheartofspendingmoney", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:morgannosliphoopstandincl3hoops", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:morinザッハトルテ誕生日ケーキ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:morningsnacksdummyplug", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3788,6 +3823,7 @@
 {"product_id": "name:méméリング", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:naconrevolution5proコントローラーps5rp5jp", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nailsincバックトゥーライフトリートメントベースコート", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:nailtiquesformula2nailprotein", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nalgeneカラーボトル広口", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nangaengineeredgarmentszipcoat", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nangaマウンテンロッジフーディ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3910,6 +3946,7 @@
 {"product_id": "name:nittoフラットハンドルb853aa", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:niubee透明レコードラックアクリル製", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:niveadeepmoistureolivelemonリップクリーム", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:nkjemisinthebrokenearthtrilogythefifthseasontheobeliskgatethestonesky", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nobstoothpaste", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nocoffeemediumshoulderbag", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nocontentストール", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3924,6 +3961,7 @@
 {"product_id": "name:nonfictionネロリドリームオードパルファム", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nonslipmatforhhkb", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:noodlebooroomspray", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:noomafolkpouflow", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nordeaハーフキャップムードライト", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nordicasauna", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nordicnaturalsultimateomega", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -3953,6 +3991,7 @@
 {"product_id": "name:nowfoods鉄分18mg", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nttドコモdアニメストア", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:nubianheritageアフリカンブラックソープボディウォッシュ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:numbuzinnadno9toner", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:numbuzinno9toner", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:numbuzinシートマスク1番ヒアルロニックパントテン酸ガーゼマスク", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:numbuzinシートマスク5番白玉グルタチオンcふりかけマスク", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4013,6 +4052,7 @@
 {"product_id": "name:onenova毎日使えるメリノウールブラ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:onepiece", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:oneplus13", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:onesizeontildawnsettingspray", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:onitsukatigerdentigrels", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:onitsukatigermexico66", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:onitsukatigermexico66sd", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4145,8 +4185,10 @@
 {"product_id": "name:patagoniaダウン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:patagoniaダスパーカ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:pathprojectshoodie", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:patmcgrathlabslustgloss", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:patricktablushinshegoestothegym", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:patricktacremepowderblushinshesflushed", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:paulaschoiceazelaicacidbooster", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:paulgreengoldplatformsneaker", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:paypayカード", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:pcすっきり君ノートパソコンスタンド縦置き", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
@@ -4184,6 +4226,7 @@
 {"product_id": "name:philipsevnia24m2n3201a", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philipsevnia27m2n5501", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philipshueスマート電球e26", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:philipsonetoothbrush", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philipspowerbankdlp2557cb", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philipssmartsleepwakeuplight", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philipssonicarerechargeabletoothbrushhx3681", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4192,6 +4235,7 @@
 {"product_id": "name:philipsモバイルバッテリー", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:philipsモバイルバッテリーコンセント一体型dlp4350cw", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:philips電動シェーバー7000シリーズs793", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:phlurfatherfigure", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:phlurfatherfigureeaudeparfum", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:phlurhairandskinfragranceheavycream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:phoebephiloローファー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4227,6 +4271,7 @@
 {"product_id": "name:pixiopx275wave", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:pixiopx27uwave", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:pizzarevoマリナーラ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:plantifiquefootpeelmask", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:plaudnotepinaiボイスレコーダー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:plaudnotepro", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:pleatspleaseワンピース", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4295,6 +4340,7 @@
 {"product_id": "name:pureologyshampooconditioner", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:purrikorefrigeratordeodorizer", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:pursonichotairblowerbrush", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:pyrexprepwaremeasuringcups124cup", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:qacousticsm20", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:qboo折りたたみ椅子アウトドアチェア軽楽耐", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:qccdonglepro", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4318,8 +4364,10 @@
 {"product_id": "name:quincemongoliancashmereoversizedcrewnecksweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:quincemongoliancashmeretee", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:quincemongoliancashmerewrap", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:quinceorganiccottonpintuckmaxiskirt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:quincestripedlinenbedsheets", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:quntisモニターライト", "mention_count": 4, "source_count": 4, "author_count": 4, "top_rank_count": 0}
+{"product_id": "name:quremicroinfusionsystem", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:qwerkywriterタイプライター風キーボード", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:rabmythicultra360", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:radiushpnx30", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4390,6 +4438,7 @@
 {"product_id": "name:rekeraリケラエマルジョン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:relabeautyシェリースキンクリスタルライティングcc", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:relabeautyシェリースキンリムーバー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:rembrandtdeeplywhitestrips", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:repo", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:repossiantiferスタッドピアス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:repossiantiferハートスモールフープイヤリング", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4458,6 +4507,7 @@
 {"product_id": "name:ropépicnicpassage旅するボストンバッグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:rosyrosaマルチファンデパフスリム", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:roterfadentaschenbegleiter", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:rothyscozyclogs", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:rotring1300", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:rotring600ミッドナイトブルー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:rotringexecutivegraphite", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
@@ -4531,6 +4581,8 @@
 {"product_id": "name:santamarianovellapotpourri", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:santamarianovellaオーデコロンマスク", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:santamarianovellaポプリ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:sarahssilksprimaryplaysilkset", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:sarahssilkswaldorfplaystand", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sarrraiリング", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:satechimacminiスタンドハブ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:satisfactory", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4554,6 +4606,7 @@
 {"product_id": "name:seagatebasic外付けハードディスクhdsgda6u3", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:seanewyorkセットアップ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:secrid卡夹钱包", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:seescandiesbridgemix", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:segafavedreamswitch", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sena50s", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sennaromaretreatscalptreatmentshampoo", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4644,6 +4697,7 @@
 {"product_id": "name:skechersbobssparrowflextooyou", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:skechershandsfreeslipins", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:skechersスリップインズヘイゼル177586", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:skimsfitseverybodythong", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:skimssoftloungesleepset", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:skin1004madagascarcentellaampoule", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:skin1004センテラアンプル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4672,6 +4726,7 @@
 {"product_id": "name:sofiepavitfacemandelicclearingserum", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sofiepavittskincaresystem", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sofinaipソフィーナipゴールデンタイムリペア深夜浸透クリーム", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:softservicesbuffingbar", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:softservicescareacream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:softserviceshandcream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:softservicestheraplushovernightrepairtreatment", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4728,6 +4783,8 @@
 {"product_id": "name:sourhousedoughbed", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:souyustickexpeditionodr126", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:soトロピカルウールスラックス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:spanxairessentialsturtlenecktunic", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:spanxairessentialswidelegpants", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sparcoスノーソックスシールド", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:specializedgambitcarbonfullfacehelmet", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:specializedturbolevoslkids", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4738,6 +4795,7 @@
 {"product_id": "name:spoilすきま爽快掃除ブラシ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:spokepencilmodel7", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:spotify年間プラン", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:squattypottyoslobamboofolding", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sssteinmoutoninnerreversiblepaddedjacket", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ssyfei電気ケトル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:stabilistapplewatch携帯充電器", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -4789,11 +4847,13 @@
 {"product_id": "name:suicaのペンギン招き猫ぬいニャー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:suiddy磁吸充電宝", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:suisaiビューティークリアパウダーウォッシュ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:sulwhasooovernightvitalizingmask", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:summerfridaysblushbutterbalmhydratingcreamblushwithpeptides", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:summerfridaysjetlagmask", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:summerfridaysrichcushioncream", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:summitcreativetenzingロールトップ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sundayafternoonultrastorm", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:sundayrileyaquamarinemelt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sundaysformbedwithstoragequeenoak", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:sunnyランドセルラックスリムタイプ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:sunriseonthereaping", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5008,6 +5068,7 @@
 {"product_id": "name:tomwoodtwisthoops", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:toneトルクレンチt4mn200ql", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:tonybiancogatsbyloafers", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:tonyschocolonelymilkchocolatecaramelseasaltandcookiemixlilbits", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:toolstolivebyシザーズ3", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:topadre4in165w自動巻き取り式充電器", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:topeakプレッシャーライト仏式バルブ用アダプター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5036,6 +5097,7 @@
 {"product_id": "name:totemecoat", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:totemedowntownshearlingboots", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:totemesuitingskirt", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:totescanスマートトートラベル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:totowashletc5", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:toto携帯ウォシュレットyew4w3", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:toto棚付紙巻器木質棚yh501fmr", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5044,6 +5106,7 @@
 {"product_id": "name:tourboxeliteplus", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:toutyestsacloquet", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:towelblanketthehottestfire", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:tower28serumconcealer", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:tower28sosdailyfacialrescuespray", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:tower28sosdailyrescuefacialspray", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:towerバスルームタブレットホルダー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5098,6 +5161,7 @@
 {"product_id": "name:uciy吊り下げ収納衣類ラック", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ufitvibratingballmini", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ugreen130wシガーソケットカーチャージャー3ポート", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:ugreen30w充電器", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ugreennasyncdh2300", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ugreennasyncdxp4800plus", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 0}
 {"product_id": "name:ugreennexode100w充電器cd226", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5137,6 +5201,7 @@
 {"product_id": "name:umakesパワーグリップ極み", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:umbuzostandingdeskwalnut", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:unbytomoyoyoshidaリング", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:uncommongoodsbloomingfloralergonomicgardenersapron", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:underarmouruaアスリートリカバリースリープパンツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:underarmouruaアスリートリカバリースリープロングスリーブシャツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:undercoverma1", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5156,6 +5221,7 @@
 {"product_id": "name:uniqlojシャツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:uniqlosweatset", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:uniqlouドライexクルーネックtシャツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:uniqloxjwandersonsweater", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:uniqloウォッシャブルニットリブパンツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:uniqloウォッシャブルミラノリブクルーネックセーター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:uniqloショートパンツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5284,7 +5350,7 @@
 {"product_id": "name:weekenderhungbagbento", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:weeziehandtowels", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:weimallベビーサークル折りたたみベビーフェンスgad009wh", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
-{"product_id": "name:weledaskinfood", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
+{"product_id": "name:weledaskinfood", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 1}
 {"product_id": "name:weledaラベンダーオイル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:wemightjustmakeitafterall", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:wensアトラス水筒awpb1001md", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5363,6 +5429,7 @@
 {"product_id": "name:yatoカシミアタートルネックセーター", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:yeeトレンチコート", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:yeeワイドパンツ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:yelanomfurnituresliders312inch", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:yetirambler", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:yetiramblermug", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:yetiramblerコーヒーマグ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5512,6 +5579,7 @@
 {"product_id": "name:ぺんてるオレンズネロ", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ぺんてるキテラケリー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ぺんてるグラフギア1000", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:ぺんてるサインペン赤", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
 {"product_id": "name:ぺんてるハンディラインs", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ぺんてるマルチ8", "mention_count": 2, "source_count": 2, "author_count": 2, "top_rank_count": 1}
 {"product_id": "name:ぺんてる限定グラフギア500", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -5540,6 +5608,7 @@
 {"product_id": "name:わたしたちが光の速さで進めないなら", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:アイオペuvシールドサンアンプル", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:アイオーデータ機器sspjutc", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:アイネックスpd100w対応usb20typec電源スイッチケーブル30cmu20ccmf03p10s", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:アイリスオーヤマdcjetkcfsdc182t", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:アイリスオーヤマシュレッダー", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:アイリスオーヤマスキマクス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 1}
@@ -6187,6 +6256,7 @@
 {"product_id": "name:タマリスヘアケミストモイストアドmo", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:タリーズコーヒーバリスタズブラック", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:タンスのゲンマットレス", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:タンスのゲン座椅子renewふわもこup6517000381702", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:タンスのゲン除湿機79700006", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:タンパクオトメピュアプロテイン100", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:ターニーsltz500", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
@@ -7043,6 +7113,7 @@
 {"product_id": "name:不二貿易折りたたみコンテナかごlサイズ86450", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:不器用な先輩", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:不明seriouslysogood料理本", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
+{"product_id": "name:不明thecouragetobedisliked", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:不明地政学あの国の本当の思惑を見抜く", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:不明大富豪アニキの教え", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
 {"product_id": "name:不明天狗の台所", "mention_count": 1, "source_count": 1, "author_count": 1, "top_rank_count": 0}
