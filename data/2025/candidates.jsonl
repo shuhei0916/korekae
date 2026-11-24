@@ -1151,3 +1151,9 @@
 {"url": "https://www.eleanorkonik.com/p/some-stuff-im-surprisingly-happy", "title": "Some stuff I'm surprisingly happy I bought in 2025", "found_via": "search", "status": "extracted", "source_id": "eleanorkonik-9891a58e"}
 {"url": "https://aconsideredstyle.substack.com/p/everything-i-bought-in-2025", "title": "Everything I Bought In 2025", "found_via": "search", "status": "skipped", "reason": "商品が1つだけ"}
 {"url": "https://joukegaastra.com/9-things-i-didnt-regret-buying-in-2025/", "title": "9 Things I Didn't Regret Buying in 2025", "found_via": "search", "status": "extracted", "source_id": "joukegaastra-09b47db5"}
+{"url": "https://hillarykerr.substack.com/p/19-things-i-dont-regret-buying-in-622", "title": "19 Things I Don't Regret Buying in 2025", "found_via": "search", "status": "extracted", "source_id": "hillarykerr-3be612f5"}
+{"url": "https://somethinggoodblog.substack.com/p/things-i-dont-regret-buying-in-2025", "title": "Things I Don't Regret Buying in 2025", "found_via": "search", "status": "skipped", "reason": "有料記事で本文が読めない"}
+{"url": "https://allisonvalenta.substack.com/p/10-clothing-items-i-really-dont-regret", "title": "10 Clothing Items I Really Don't Regret Buying in 2025", "found_via": "search", "status": "skipped", "reason": "有料記事で本文が読めず、取得できたのはタイトル・メタ情報のみ（商品名が一つも読めない）"}
+{"url": "https://tessinspired.substack.com/p/amazon-purchases-2025", "title": "2025 Amazon Purchases: The Wins & Losses", "found_via": "search", "status": "extracted", "source_id": "tessinspired-ac058334"}
+{"url": "https://ameblo.jp/rogstyle/entry-12949580998.html", "title": "今年購入してよかったもの８選 50代からの暮らし", "found_via": "search", "status": "extracted", "source_id": "ameblo-4a88b742"}
+{"url": "https://www.koto6.com/entry/entry/a-list-of-the-best-things-people-in-their-50s-bought-this-year", "title": "50代が選ぶ 今年買って大正解だったものリスト", "found_via": "search", "status": "skipped", "reason": "2024年の振り返り記事（公開2024-12-29。本文の「今年」は2024年の購入で、2025年の振り返りではない）"}
