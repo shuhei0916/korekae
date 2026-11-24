@@ -1061,3 +1061,6 @@
 {"url": "https://kajetblog.com/?p=50131", "title": "kajetblog", "found_via": "search", "status": "skipped", "reason": "提供品を含むと本文に明記されており（購入品と提供品を個別に区別できない）、提供品除外の判定ができないため"}
 {"url": "https://www.salary-man.net/entry/matome2025", "title": "2025年使ってよかったガジェットやデスク関連アイテムまとめ", "found_via": "search", "status": "skipped", "reason": "記事内に「記事内にPRを含む場合があります」というPR表記があり、各商品にAmazon/楽天等のアフィリエイトリンクが付くため除外"}
 {"url": "https://nobico.php.co.jp/2025/12/25/post_40609/", "title": "2025年、ママ・パパが買ってよかったものは？", "found_via": "search", "status": "extracted", "source_id": "nobico-5122caba"}
+{"url": "https://toietmoi519.com/2025-bestbuy5/", "title": "40代主婦が2025年買ってよかった物ベスト5", "found_via": "search", "status": "extracted", "source_id": "toietmoi519-a9658057"}
+{"url": "https://monorevi.jp/amazon-2025/", "title": "40代メンズがAmazonで買ってよかったもの 2025", "found_via": "search", "status": "skipped", "reason": "PR表記あり（「本記事にはPRが含まれます」）に加え、タイトルが「2026年版」で2025年以外の購入品（2026年購入分）を含むため"}
+{"url": "https://foodistnote.recipe-blog.jp/article/277639/", "title": "編集部が選ぶ2025年使ってよかったキッチングッズ5選", "found_via": "search", "status": "skipped", "reason": "Aima（アイランド株式会社の販売サイト）で販売中の商品を紹介する店舗販売商品の紹介記事のため（各商品に「ご購入はこちら（Aima）」リンクあり）"}

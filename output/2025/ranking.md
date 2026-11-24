@@ -1,10 +1,10 @@
 # 2025年 買ってよかったものランキング
 
-873件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+874件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
-| 1 | [Nintendo Switch 2](https://www.amazon.co.jp/dp/B0G3SXHCLJ) | Nintendo | 46 | 47 | 1 |
+| 1 | [Nintendo Switch 2](https://www.amazon.co.jp/dp/B0G3SXHCLJ) | Nintendo | 47 | 48 | 1 |
 | 2 | [Apple AirPods Pro 3](https://www.amazon.co.jp/dp/B0FQFQDN6K) | Apple | 22 | 23 | 1 |
 | 3 | [Apple iPhone 17](https://www.amazon.co.jp/dp/B0FQG91G3M) | Apple | 14 | 14 | 1 |
 | 4 | [Apple iPhone 17 Pro](https://www.amazon.co.jp/dp/B0FQFY14WC) | Apple | 14 | 14 | 0 |
@@ -2748,6 +2748,7 @@
 | 584 | [MOONDROP SPACE TRAVEL 2](https://www.amazon.co.jp/dp/B0FL7FZ58Z) | MOONDROP | 1 | 1 | 0 |
 | 584 | MOONRAKERS ムーンテック Tシャツ | MOONRAKERS | 1 | 1 | 0 |
 | 584 | MORE THAN TAPAS LOUNGE 都庁前 |  | 1 | 1 | 0 |
+| 584 | MOROCCANOIL トリートメント 100ml | MOROCCANOIL | 1 | 1 | 0 |
 | 584 | MORRflate Air Hub | MORRflate | 1 | 1 | 0 |
 | 584 | MOSMEE 電気毛布 | MOSMEE | 1 | 1 | 0 |
 | 584 | MOTHER The Hustler Roller Sneak | MOTHER | 1 | 1 | 0 |
@@ -3317,6 +3318,7 @@
 | 584 | [Panasonic ドラム式洗濯乾燥機 NA-LX127DL-W](https://www.amazon.co.jp/dp/B0DFC4S159) | Panasonic | 1 | 1 | 0 |
 | 584 | Panasonic ドラム式洗濯乾燥機 NA-LX127EL | Panasonic | 1 | 1 | 0 |
 | 584 | Panasonic ナノケア ULTIMATE EH-NC50 | Panasonic | 1 | 1 | 0 |
+| 584 | Panasonic ナノケア ULTIMATE EH-NC50-K | Panasonic | 1 | 1 | 0 |
 | 584 | Panasonic ナノケア ヘアドライヤー EH-NA0J-A | Panasonic | 1 | 1 | 0 |
 | 584 | Panasonic ヒーターレス気化式加湿機 FE-KX05C | Panasonic | 1 | 1 | 0 |
 | 584 | Panasonic ビストロ NE-BS8D | Panasonic | 1 | 1 | 0 |
@@ -3555,6 +3557,7 @@
 | 584 | ReFa CLEAR | ReFa | 1 | 1 | 0 |
 | 584 | ReFa FINE BUBBLE ONE | ReFa | 1 | 1 | 0 |
 | 584 | [ReFa FINE BUBBLE U ファインバブルシャワーヘッド](https://www.amazon.co.jp/dp/B0CVMQ652R) | ReFa | 1 | 1 | 0 |
+| 584 | ReFa カールアイロン プロ 38mm | ReFa | 1 | 1 | 0 |
 | 584 | [ReFa ストレートアイロン プロ](https://www.amazon.co.jp/dp/B0CP6WT27N) | ReFa | 1 | 1 | 0 |
 | 584 | ReFa ファインバブルS シャワーヘッド | ReFa | 1 | 1 | 0 |
 | 584 | ReFa ファインバブルU | ReFa | 1 | 1 | 0 |
@@ -8525,5 +8528,6 @@
 - [【ベストバイ】2025年のベストバイ！20代SEの「生活にすっかり溶け込んでしまったTier1アイテム」見ていきな？【ガジェットレビュー】](https://nekosakamiti.com/bestbuy_2025/)
 - [‐2025年買ってよかったもの‐ガジェットなどベストバイを軽く紹介！](https://norakura-gadget.com/%E2%80%902025%E5%B9%B4%E8%B2%B7%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE%E2%80%90%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AA%E3%81%A9%E3%83%99%E3%82%B9/)
 - [2025年、ママ・パパが「買ってよかったもの」は？ 神アイテムから意外なものまで](https://nobico.php.co.jp/2025/12/25/post_40609/)
+- [40代主婦が2025年買ってよかった物ベスト５](https://toietmoi519.com/2025-bestbuy5/)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
