@@ -483,6 +483,7 @@
 {"id": "asin:B0BTY98HD7", "name": "エピラット 脱色クリーム スピーディー", "asin": "B0BTY98HD7", "brand": "エピラット", "category": "美容"}
 {"id": "asin:B0BVLYPYT1", "name": "SwitchBot 防水温湿度計", "asin": "B0BVLYPYT1", "brand": "SwitchBot", "category": "ガジェット"}
 {"id": "asin:B0BVQMTBDM", "name": "アスベル エバンペダルペール", "asin": "B0BVQMTBDM", "brand": "アスベル", "category": "生活用品"}
+{"id": "asin:B0BW37QY2V", "name": "Amazon Fire TV Stick 4K Max", "asin": "B0BW37QY2V", "brand": "Amazon", "category": "ガジェット"}
 {"id": "asin:B0BWDSC5ZB", "name": "ロジクール MX KEYS mini KX700GRd", "asin": "B0BWDSC5ZB", "brand": "ロジクール", "category": "ガジェット", "aliases": ["Logicool MX KEYS mini KX700", "Logicool MX Keys Mini KX700", "ロジクール MX Keys mini KX700"]}
 {"id": "asin:B0BWF14TBL", "name": "Garmin Forerunner 265", "asin": "B0BWF14TBL", "brand": "Garmin", "category": "ガジェット"}
 {"id": "asin:B0BWQ3DL5V", "name": "River Side Rambler RSR Stove", "asin": "B0BWQ3DL5V", "brand": "River Side Rambler", "category": "その他"}
@@ -628,7 +629,7 @@
 {"id": "asin:B0CQTP3WM4", "name": "象印 水筒 SM-RS50", "asin": "B0CQTP3WM4", "brand": "象印", "category": "生活用品"}
 {"id": "asin:B0CQTYSZSL", "name": "マグネット LED ブラケットライト", "asin": "B0CQTYSZSL", "brand": "Feallive", "category": "家電"}
 {"id": "asin:B0CQX5W878", "name": "象印 水筒 SX-JS40-HM", "asin": "B0CQX5W878", "brand": "象印", "category": "生活用品"}
-{"id": "asin:B0CQX67KTW", "name": "Anker Power Bank", "asin": "B0CQX67KTW", "brand": "Anker", "category": "ガジェット"}
+{"id": "asin:B0CQX67KTW", "name": "Anker Power Bank", "asin": "B0CQX67KTW", "brand": "Anker", "category": "ガジェット", "aliases": ["Anker Power Bank (10000mAh, 22.5W)"]}
 {"id": "asin:B0CQXHQXZR", "name": "Hbada E3 Air オフィスチェア", "asin": "B0CQXHQXZR", "brand": "Hbada", "category": "生活用品"}
 {"id": "asin:B0CQXMT3QC", "name": "Amazonベーシック シングルモニターアーム", "asin": "B0CQXMT3QC", "brand": "Amazonベーシック", "category": "ガジェット"}
 {"id": "asin:B0CQYDJQG6", "name": "simplus バケツ洗濯機 SP-BKWM01", "asin": "B0CQYDJQG6", "brand": "simplus", "category": "家電"}
@@ -1440,7 +1441,6 @@
 {"id": "name:amazonfirehd10タブレット", "name": "Amazon Fire HD 10 タブレット", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonfirehd82022", "name": "Amazon Fire HD 8 2022", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonfirehd8キッズプロ", "name": "Amazon Fire HD 8 キッズプロ", "brand": "Amazon", "category": "ガジェット"}
-{"id": "name:amazonfiretvstick4kmax", "name": "Amazon Fire TV Stick 4K Max", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonfiretvstickhd", "name": "Amazon Fire TV Stick HD", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindle16gb", "name": "Amazon Kindle 16GB", "brand": "Amazon", "category": "ガジェット"}
 {"id": "name:amazonkindlecolorsoft", "name": "Kindle Colorsoft", "brand": "Amazon", "category": "ガジェット"}
@@ -1505,7 +1505,6 @@
 {"id": "name:ankernanopowerbank10000mah", "name": "Anker Nano Power Bank 10000mAh", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernanopowerbank10000mah45w巻取り式usbcケーブル", "name": "Anker Nano Power Bank (10000mAh, 45W, 巻取り式 USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankernebulacapsule3laser", "name": "Anker Nebula Capsule 3 Laser", "brand": "Anker", "category": "家電"}
-{"id": "name:ankerpowerbank10000mah225w", "name": "Anker Power Bank (10000mAh, 22.5W)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbank10000mahfusionbuiltinusbcケーブル", "name": "Anker Power Bank (10000mAh, Fusion, Built-In USB-C ケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbank25000mahbuiltin巻取り式usbcケーブル", "name": "Anker Power Bank (25000mAh, Built-In & 巻取り式USB-Cケーブル)", "brand": "Anker", "category": "ガジェット"}
 {"id": "name:ankerpowerbank30wfusion", "name": "Anker Power Bank (30W, Fusion)", "brand": "Anker", "category": "ガジェット"}
