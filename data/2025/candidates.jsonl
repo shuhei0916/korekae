@@ -1169,3 +1169,6 @@
 {"url": "https://ameblo.jp/miscellaneous-things/entry-12951514767.html", "title": "2025年 アラフォー主婦の買って良かったジュエリー", "found_via": "search", "status": "skipped", "reason": "2回続けて取得失敗（SERVER_ERROR）"}
 {"url": "https://kotakotablog.com/minimalist-best-buy2025-second-half", "title": "2025年下半期 ミニマリストが買って良かったもの", "found_via": "search", "status": "skipped", "reason": "記事に「PRを含みます」表記があり（アフィリエイトリンク付き）、販促記事の除外ルールに該当すると判断してスキップ。PR表記の扱いが通常のアフィリエイト記事まで含むかは確認が必要かもしれません（本文自体は2025年下半期の筆者購入品の記事で、全文読めました）。"}
 {"url": "https://consciouslyconsidered.substack.com/p/top-10-purchases-of-2025", "title": "Top 10 purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "consciouslyconsidered-296620bb"}
+{"url": "https://foodieatheart21.substack.com/p/favorite-costco-purchases-of-2025", "title": "FAVORITE COSTCO PURCHASES of 2025", "found_via": "search", "status": "extracted", "source_id": "foodieatheart21-116e49ed"}
+{"url": "https://isikifactory.com/style/2025-secondhalf-best-buy/", "title": "2025年下半期 買ってよかったもの11選", "found_via": "search", "status": "extracted", "source_id": "isikifactory-ad0523d0"}
+{"url": "https://kouritsu-life.com/2025_buy_2/", "title": "2025年後半に買って良かったもの・良くなかったもの", "found_via": "search", "status": "extracted", "source_id": "kouritsu-life-4f06e186"}
