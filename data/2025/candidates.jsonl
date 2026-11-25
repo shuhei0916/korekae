@@ -1175,3 +1175,6 @@
 {"url": "https://gadgeneko.jp/2025-yokatta", "title": "2025年、買ってよかったもの/悪かったもの", "found_via": "search", "status": "extracted", "source_id": "gadgeneko-7e71f850"}
 {"url": "https://runnerscloset.substack.com/p/my-favorite-pickups-from-2025", "title": "My favorite pickups from 2025", "found_via": "search", "status": "extracted", "source_id": "runnerscloset-9519b9e4"}
 {"url": "https://sophialintner.substack.com/p/a-year-of-good-purchases", "title": "A year of good purchases", "found_via": "search", "status": "skipped", "reason": "2026年の振り返り（投稿日2026-11-12、2025年の振り返りではない）。さらに有料記事で本文の途中から読めない"}
+{"url": "https://mrleica.com/best-worst-purchases-2025/", "title": "Best + Worst purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "mrleica-ea4f4710"}
+{"url": "https://www.cottoncashmerecathair.com/blog/best-and-worst-purchases-of-2025", "title": "Best and Worst Sartorial Purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "cottoncashmerecathair-f6c81d93"}
+{"url": "https://nameitbynoname.substack.com/p/name-it-best-and-worst-purchases-853", "title": "Best and worst purchases of 2025", "found_via": "search", "status": "skipped", "reason": "有料記事（Substack の ∙ Paid）で、無料部分には best の商品が2つしか読めず、3つ目の本文が読めないため。"}

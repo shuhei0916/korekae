@@ -1,6 +1,6 @@
 # 2025年 買ってよかったものランキング
 
-945件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
+947件のソースで「買ってよかった」と挙げられた商品を、挙げた人の数が多い順に並べています。
 
 | 順位 | 商品 | ブランド | 挙げた人 | 言及数 | 1位に挙げた数 |
 | ---: | --- | --- | ---: | ---: | ---: |
@@ -699,6 +699,8 @@
 | 687 | 0fr. リング | 0fr. | 1 | 1 | 0 |
 | 687 | 1/2style ニブンノイチスタイル バルーンロングスカート | 1/2style | 1 | 1 | 0 |
 | 687 | 100% Beeswax Taper Candles | Be Just | 1 | 1 | 0 |
+| 687 | 100% Merino Wool All-Season Long Sleeve Base Layer | Quince | 1 | 1 | 0 |
+| 687 | 100% Washable Silk Drawstring Wide Leg Pants | Quince | 1 | 1 | 0 |
 | 687 | 10倍面白くなる漫画演出論 |  | 1 | 1 | 0 |
 | 687 | 111SKIN Exosome Facecare Duo | 111SKIN | 1 | 1 | 0 |
 | 687 | 111SKIN Eye Masks | 111SKIN | 1 | 1 | 0 |
@@ -725,6 +727,7 @@
 | 687 | 3M スコッチブライト ボトルスポンジ | 3M | 1 | 1 | 0 |
 | 687 | [3M ポストイット 付箋 細い 710RP-K](https://www.amazon.co.jp/dp/B000IGQBNQ) | 3M | 1 | 1 | 0 |
 | 687 | 3M 浴室挂钩 | 3M | 1 | 1 | 0 |
+| 687 | 4.5L Mini Rider | Wotancraft | 1 | 1 | 0 |
 | 687 | 400 Thread Count Sheet |  | 1 | 1 | 0 |
 | 687 | 404: Soul Not Found | Mooncat | 1 | 1 | 0 |
 | 687 | 45R ウールベスト | 45R | 1 | 1 | 0 |
@@ -736,6 +739,7 @@
 | 687 | 5番 白玉グルタチオンCメラゼロクリーム | ナンバーズイン | 1 | 1 | 0 |
 | 687 | 67W PD充電器 | Mcdodo | 1 | 1 | 0 |
 | 687 | 73ap リング | 73ap | 1 | 1 | 0 |
+| 687 | 75mm f2 AF (Leica L mount) | TTArtisan | 1 | 1 | 0 |
 | 687 | 7eye 防風グラス | 7eye | 1 | 1 | 0 |
 | 687 | 8BitDo Ultimate 2 ワイヤレス コントローラー | 8BitDo | 1 | 1 | 0 |
 | 687 | 8edstudio Mantra ヨガマット | 8edstudio | 1 | 1 | 0 |
@@ -1137,6 +1141,7 @@
 | 687 | Artipoppe Zeitgeist Baby Carrier | Artipoppe | 1 | 1 | 0 |
 | 687 | Artisan NINJA FX キ83 SOFT L (FX-K83-SF-L-B) | Artisan | 1 | 1 | 0 |
 | 687 | Artiste |  | 1 | 1 | 0 |
+| 687 | Artizlab 35mm f1.4 version 2 | Funleader | 1 | 1 | 0 |
 | 687 | Aspen Creative Small Lamp Shade | Aspen Creative | 1 | 1 | 0 |
 | 687 | Astor Sun | Lowercase | 1 | 1 | 0 |
 | 687 | AstrHori 28mm F13 Macro 2:1 | AstrHori | 1 | 1 | 0 |
@@ -1603,6 +1608,7 @@
 | 687 | Collared Pullover Sweater |  | 1 | 1 | 0 |
 | 687 | Collection Box ときめきを発見 トレンドハンター韓国コスメセット | Amazon | 1 | 1 | 0 |
 | 687 | Color Balms | Colorescience | 1 | 1 | 0 |
+| 687 | Color Skopar 35mm f3.5 | Voigtlander | 1 | 1 | 0 |
 | 687 | [ColorfulHome オイルスプレー](https://www.amazon.co.jp/dp/B0CKQMZWR8) | ColorfulHome | 1 | 1 | 0 |
 | 687 | Colorimetry Research CR-100 | Colorimetry Research | 1 | 1 | 0 |
 | 687 | Colourpop Lippie Stix Infinite Best | Colourpop | 1 | 1 | 0 |
@@ -1659,6 +1665,7 @@
 | 687 | CurrentBody Skin LED Light Therapy Mask | CurrentBody | 1 | 1 | 0 |
 | 687 | CurrentBody Skin LEDマルチライトマスク | CurrentBody Skin | 1 | 1 | 0 |
 | 687 | CurrentBody red light therapy mask | CurrentBody | 1 | 1 | 0 |
+| 687 | Curve Love High Rise 90s Relaxed Jean | Abercrombie & Fitch | 1 | 1 | 0 |
 | 687 | Curvy Runner | CICIL | 1 | 1 | 0 |
 | 687 | Custom Icons Bag | Abbode | 1 | 1 | 0 |
 | 687 | Cutting Board | John Boos & Co. | 1 | 1 | 0 |
@@ -1888,6 +1895,7 @@
 | 687 | Edifier MR5 | エディファイア | 1 | 1 | 0 |
 | 687 | Educated Mess Vitamin C | Educated Mess | 1 | 1 | 0 |
 | 687 | Edulock タイムロッキングコンテナ | Edulock | 1 | 1 | 0 |
+| 687 | Effortless Square Neck Midi Dress | Zella | 1 | 1 | 0 |
 | 687 | Eight Sleep Pod 4 | Eight Sleep | 1 | 1 | 0 |
 | 687 | Elago クリア Apple Watch バンド | Elago | 1 | 1 | 0 |
 | 687 | Elegant Comfort 2-Piece Ultra-Soft Pillowcase Set | Elegant Comfort | 1 | 1 | 0 |
@@ -2243,6 +2251,7 @@
 | 687 | HARRIS TAPPER Gibson Long Sleeve T-Shirt | HARRIS TAPPER | 1 | 1 | 0 |
 | 687 | HAY バスローブ | HAY | 1 | 1 | 0 |
 | 687 | HDB 630 | Sennheiser | 1 | 1 | 0 |
+| 687 | HEATTECH Stretch Fleece Half-Zip T-Shirt | Uniqlo | 1 | 1 | 0 |
 | 687 | HEMING'S ときめきトゥナイト りぼんマスコットコミックス ポーチ | HEMING'S | 1 | 1 | 0 |
 | 687 | HERALBONY Handkerchief Feelings | HERALBONY | 1 | 1 | 0 |
 | 687 | HERALBONY スカーフ | HERALBONY | 1 | 1 | 0 |
@@ -2581,6 +2590,7 @@
 | 687 | [K-SWISS ビッグロゴ コートソール](https://www.amazon.co.jp/dp/B0DLKM94NP) | K-SWISS | 1 | 1 | 0 |
 | 687 | K18 Air Wash Dry Shampoo | K18 | 1 | 1 | 0 |
 | 687 | K18 Charcoal Detox Shampoo | K18 | 1 | 1 | 0 |
+| 687 | K60 LED tube light kit | Viltrox | 1 | 1 | 0 |
 | 687 | K9 AKM | FIIO | 1 | 1 | 0 |
 | 687 | KAANAS Alayta Square Toe Naked Sandals | KAANAS | 1 | 1 | 0 |
 | 687 | KAHI Wrinkle Bounce Multi-Balm Stick | KAHI | 1 | 1 | 0 |
@@ -3168,6 +3178,7 @@
 | 687 | Malibu Swimsuit | Andie | 1 | 1 | 0 |
 | 687 | Mama&Kids ベビーミルキーローション | Mama&Kids | 1 | 1 | 0 |
 | 687 | Mandarin Jacket in Garden Green | Rohe | 1 | 1 | 0 |
+| 687 | Mandler 35mm f2 (KOB homage) | Mandler | 1 | 1 | 0 |
 | 687 | Manduka ヨガマット | Manduka | 1 | 1 | 0 |
 | 687 | Manfrotto Pro-lightコレクション ショルダーバッグ MB PL-CC-191N | Manfrotto | 1 | 1 | 0 |
 | 687 | Manfrotto XPRO ギア3WAY雲台 MHXPRO-3WG | Manfrotto | 1 | 1 | 0 |
@@ -4315,6 +4326,7 @@
 | 687 | Sibem Sweater | The Row | 1 | 1 | 0 |
 | 687 | [Silicon Power SSD P34A60 SP002TBP34A60M28](https://www.amazon.co.jp/dp/B09GRBF4SD) | Silicon Power | 1 | 1 | 0 |
 | 687 | Silicon Power UD9N SJ02KGBP44UD9N05J5 | Silicon Power | 1 | 1 | 0 |
+| 687 | Simera 50mm f1.4 | Thypoch | 1 | 1 | 0 |
 | 687 | Simmons ビューティーレスト 6.5インチポケットコイルマットレス | Simmons | 1 | 1 | 0 |
 | 687 | Simone Rocha フラワードレス | Simone Rocha | 1 | 1 | 0 |
 | 687 | Sincere Japan ナチュラルローゼルストリング | Sincere Japan | 1 | 1 | 0 |
@@ -4836,6 +4848,7 @@
 | 687 | Ulanzi 多機能スマホグリップ | Ulanzi | 1 | 1 | 0 |
 | 687 | Ulanzi 自撮りライト MagSafe対応 LM19 | Ulanzi | 1 | 1 | 0 |
 | 687 | Ultra PRO PRO-Gloss スタンダード デッキプロテクター スリーブ | Ultra PRO | 1 | 1 | 0 |
+| 687 | Ultra-Form Bike Shorts | Quince | 1 | 1 | 0 |
 | 687 | UltraWide Monitor | LG | 1 | 1 | 0 |
 | 687 | Ultraviolet Tarot | Violet Aveline | 1 | 1 | 0 |
 | 687 | [Ultrean デジタルキッチンスケール](https://www.amazon.co.jp/dp/B0CH9W2FB7) | Ultrean | 1 | 1 | 0 |
@@ -4906,6 +4919,7 @@
 | 687 | VeloX トレーニングバンド | VeloX | 1 | 1 | 0 |
 | 687 | [Velocity-Based Training: Prescribing and Assessing the Effects of Resistance Training](https://www.amazon.co.jp/dp/B0DZR5DX18) |  | 1 | 1 | 0 |
 | 687 | Venezia Glasses | Ichendorf Milano | 1 | 1 | 0 |
+| 687 | Verity Linen Midi Skirt | Boden | 1 | 1 | 0 |
 | 687 | Veronica Beard Fair Isle Sweater | Veronica Beard | 1 | 1 | 0 |
 | 687 | Veronica Beard Grand Goody Leather Tote | Veronica Beard | 1 | 1 | 0 |
 | 687 | Veronica Beard Kelby Booties | Veronica Beard | 1 | 1 | 0 |
@@ -4922,6 +4936,7 @@
 | 687 | Victoria Beckham Beauty BabyBlade | Victoria Beckham Beauty | 1 | 1 | 0 |
 | 687 | Victoria Beckham Beauty Reflect Highlighter Stick | Victoria Beckham Beauty | 1 | 1 | 0 |
 | 687 | Victorinox Swiss Army Paring Knife (4 inch) | Victorinox | 1 | 1 | 0 |
+| 687 | VideoMic Go II | Rode | 1 | 1 | 0 |
 | 687 | Viki Pass Plus | Viki | 1 | 1 | 0 |
 | 687 | Viltrox AF 28mm f4.5 FE | Viltrox | 1 | 1 | 0 |
 | 687 | Vince Sutter Booties | Vince | 1 | 1 | 0 |
@@ -5007,6 +5022,7 @@
 | 687 | Wpc. 男の晴雨兼用傘 IZA ZA021-001-102 | Wpc. | 1 | 1 | 0 |
 | 687 | Wunderskin Eyeliner | Wunderskin | 1 | 1 | 0 |
 | 687 | Wyatt Velvet Office Chair オリーブ | Better Homes & Gardens | 1 | 1 | 0 |
+| 687 | X-Aircross 3 Lite carbon travel tripod | FotoPro | 1 | 1 | 0 |
 | 687 | X-E5 (シルバー ボディ) | FUJIFILM | 1 | 1 | 0 |
 | 687 | X-T5 ボディ ブラック | FUJIFILM | 1 | 1 | 0 |
 | 687 | X87 ULTRA 三模 機械键盘 87键 | EWEADN（前行者） | 1 | 1 | 0 |
@@ -5489,6 +5505,7 @@
 | 687 | [shu uemura ブラッククレンジングオイル](https://www.amazon.co.jp/dp/B0CVN4W82N) | shu uemura | 1 | 1 | 0 |
 | 687 | simmon 指輪 | simmon | 1 | 1 | 0 |
 | 687 | [simplus バケツ洗濯機 SP-BKWM01](https://www.amazon.co.jp/dp/B0CQYDJQG6) | simplus | 1 | 1 | 0 |
+| 687 | small 5in1 reflector with grip | K&F Concept | 1 | 1 | 0 |
 | 687 | smoo uni キャスター回転ワゴン | smoo | 1 | 1 | 0 |
 | 687 | snaw 斜めコーヒーカップ | snaw | 1 | 1 | 0 |
 | 687 | sodastream 炭酸水メーカー | SodaStream | 1 | 1 | 0 |
@@ -9235,5 +9252,7 @@
 - [2025年後半に買って良かったもの・良くなかったもの](https://kouritsu-life.com/2025_buy_2/)
 - [2025年、買ってよかったもの/悪かったもの](https://gadgeneko.jp/2025-yokatta)
 - [My favorite pickups from 2025](https://runnerscloset.substack.com/p/my-favorite-pickups-from-2025)
+- [Best + Worst purchases of 2025](https://mrleica.com/best-worst-purchases-2025/)
+- [Best and Worst Purchases of 2025](https://www.cottoncashmerecathair.com/blog/best-and-worst-purchases-of-2025)
 
 Amazonのアソシエイトとして、korekaeは適格販売により収入を得ています。
