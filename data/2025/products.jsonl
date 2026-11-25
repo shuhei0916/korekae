@@ -1586,6 +1586,7 @@
 {"id": "name:appleipadair11インチm2", "name": "Apple iPad Air 11インチ (M2)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadair11インチm3", "name": "Apple iPad Air 11インチ M3", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadair13インチ", "name": "Apple iPad Air 13インチ", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:appleipadair52022年版256gb", "name": "iPad Air 5（2022年版）256GB", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadairm1", "name": "Apple iPad Air M1", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadairm213インチ", "name": "iPad Air M2 13インチ", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleipadairm311インチ", "name": "Apple iPad Air (M3) 11インチ", "brand": "Apple", "category": "ガジェット"}
@@ -1609,10 +1610,12 @@
 {"id": "name:appleiphone17256g白色", "name": "Apple iPhone 17 256G 白色", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:appleiphone17pro1tb", "name": "Apple iPhone 17 Pro 1TB", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applem2macbookair", "name": "Apple M2 MacBook Air", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:applem4macmini16gb512gb", "name": "M4 Mac mini（16GB/512GB）", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applem5macbookpro", "name": "Apple M5 MacBook Pro", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair", "name": "Apple MacBook Air", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair13inchm4skyblue", "name": "Apple MacBook Air 13-inch M4 (Sky Blue)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair13インチ", "name": "Apple MacBook Air 13インチ", "brand": "Apple", "category": "ガジェット"}
+{"id": "name:applemacbookair13インチmidnightblack16gb512gb", "name": "MacBook Air 13インチ MidnightBlack（16GB/512GB）", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair15inch2025m410cpu10gpu24gb512gbmidnight", "name": "MacBook Air 15-inch (2025) M4 (10 CPU/10 GPU, 24GB/512GB, Midnight)", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair15インチm3", "name": "Apple MacBook Air 15インチ M3", "brand": "Apple", "category": "ガジェット"}
 {"id": "name:applemacbookair15インチm4", "name": "Apple MacBook Air 15インチ M4", "brand": "Apple", "category": "ガジェット"}
@@ -2007,6 +2010,7 @@
 {"id": "name:cafecアバカプラス円すいコーヒーフィルター", "name": "CAFEC アバカプラス 円すいコーヒーフィルター", "brand": "CAFEC", "category": "生活用品"}
 {"id": "name:cafecトライタンビーカーサーバー", "name": "CAFEC トライタンビーカーサーバー", "brand": "CAFEC", "category": "生活用品"}
 {"id": "name:cafécoffeepot", "name": "Café coffee pot", "brand": "Café", "category": "家電"}
+{"id": "name:caldigitts4", "name": "TS4", "brand": "CalDigit", "category": "ガジェット"}
 {"id": "name:californiagoldnutritioncollagenup", "name": "California Gold Nutrition CollagenUP", "brand": "California Gold Nutrition", "category": "食品"}
 {"id": "name:callawayキャロウェイセレーションベルト", "name": "キャロウェイ セレーションベルト", "brand": "Callaway", "category": "ファッション"}
 {"id": "name:calligarisdixダイニングテーブルcb4804fd120", "name": "calligaris DIX ダイニングテーブル CB4804FD120", "brand": "calligaris", "category": "生活用品"}
@@ -3701,6 +3705,7 @@
 {"id": "name:maisonmargielapants5pockets", "name": "MAISON MARGIELA PANTS 5 POCKETS", "brand": "MAISON MARGIELA", "category": "ファッション"}
 {"id": "name:maisonmargielareplicabythefireplace", "name": "Maison Margiela Replica By The Fireplace", "brand": "Maison Margiela", "category": "その他"}
 {"id": "name:maisonmargielareplicajazzclub", "name": "Maison Margiela Replica Jazz Club", "brand": "Maison Margiela", "category": "その他"}
+{"id": "name:maisonmargielareplicalazysundaymorning香水", "name": "REPLICA Lazy Sunday Morning（香水）", "brand": "Maison Margiela", "category": "生活用品"}
 {"id": "name:maisonmargielareplicaonadate", "name": "Maison Margiela Replica On A Date", "brand": "Maison Margiela", "category": "その他"}
 {"id": "name:maisonmargielatabiankleboots", "name": "Maison Margiela Tabi Ankle Boots", "brand": "Maison Margiela", "category": "ファッション"}
 {"id": "name:maisonmargielatabiブーツ", "name": "Maison Margiela TABIブーツ", "brand": "Maison Margiela", "category": "ファッション"}
@@ -4298,6 +4303,7 @@
 {"id": "name:oppofindx8ultra", "name": "Find X8 Ultra", "brand": "OPPO", "category": "ガジェット"}
 {"id": "name:oppofindx9", "name": "OPPO Find X9", "brand": "OPPO", "category": "ガジェット"}
 {"id": "name:oppofindx9pro", "name": "OPPO Find X9 Pro", "brand": "OPPO", "category": "ガジェット"}
+{"id": "name:oppofindx9pro16gb512gb", "name": "OPPO Find X9 Pro（16GB/512GB）", "brand": "OPPO", "category": "ガジェット"}
 {"id": "name:opérasport長袖ポロシャツ", "name": "OpéraSPORT 長袖ポロシャツ", "brand": "OpéraSPORT", "category": "ファッション"}
 {"id": "name:oreficek18ノアリング", "name": "Orefice K18「ノア」リング", "brand": "Orefice", "category": "ファッション"}
 {"id": "name:orgainオーガニックアーモンドミルクプロテイン", "name": "Orgain オーガニックアーモンドミルク＋プロテイン", "brand": "Orgain", "category": "食品"}
@@ -5483,6 +5489,8 @@
 {"id": "name:uggclassicmicro", "name": "UGG Classic Micro", "brand": "UGG", "category": "ファッション"}
 {"id": "name:ugreen130wシガーソケットカーチャージャー3ポート", "name": "UGREEN 130W シガーソケット カーチャージャー 3ポート", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreen30w充電器", "name": "UGREEN 30W充電器", "brand": "UGREEN", "category": "ガジェット"}
+{"id": "name:ugreenmagflow25wqi2ワイヤレス充電器", "name": "MagFlow 25W Qi2 ワイヤレス充電器", "brand": "UGREEN", "category": "ガジェット"}
+{"id": "name:ugreennasdh4300plus8gb2枚", "name": "UGREEN NAS DH4300Plus（8GB×2枚）", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreennasyncdh2300", "name": "UGREEN NASync DH2300", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreennasyncdxp4800plus", "name": "UGREEN NASync DXP4800 Plus", "brand": "UGREEN", "category": "ガジェット"}
 {"id": "name:ugreennexode100w充電器cd226", "name": "UGREEN Nexode 100W 充電器 CD226", "brand": "UGREEN", "category": "ガジェット"}
@@ -5703,6 +5711,7 @@
 {"id": "name:witwisdomabsolutionblackjeans", "name": "Wit & Wisdom Absolution Black Jeans", "brand": "Wit & Wisdom", "category": "ファッション"}
 {"id": "name:wobkeyrainy75", "name": "WOBKEY Rainy 75", "brand": "WOBKEY", "category": "ガジェット"}
 {"id": "name:wobkeyrainy75キーボードpro", "name": "WOBKEY Rainy 75キーボード Pro", "brand": "WOBKEY", "category": "ガジェット"}
+{"id": "name:wobrainy75", "name": "Rainy75", "brand": "WOB", "category": "ガジェット"}
 {"id": "name:wokyisretrodockformacmini", "name": "Wokyis Retro Dock for Mac mini", "brand": "Wokyis", "category": "ガジェット"}
 {"id": "name:wolfxlibertymediumzipcase", "name": "Wolf x Liberty Medium Zip Case", "brand": "Wolf", "category": "生活用品"}
 {"id": "name:wonderskineyeliner", "name": "Wonderskin Eyeliner", "brand": "Wonderskin", "category": "生活用品"}
@@ -5728,6 +5737,7 @@
 {"id": "name:xiaomipocof7", "name": "Xiaomi POCO F7", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomiredmiturbo4pro12gb512gb", "name": "Xiaomi REDMI Turbo 4 Pro 12GB+512GB", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomix20", "name": "Xiaomi X20+", "brand": "Xiaomi", "category": "家電"}
+{"id": "name:xiaomiシェーバー", "name": "Xiaomiシェーバー", "brand": "Xiaomi", "category": "家電"}
 {"id": "name:xiaomiスマートバンド10", "name": "Xiaomi スマートバンド 10", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomiスマートプロジェクターl1pro", "name": "Xiaomi スマートプロジェクター L1 Pro", "brand": "Xiaomi", "category": "家電"}
 {"id": "name:xiaomiポータブルフォトプリンター1s", "name": "ポータブルフォトプリンター 1S", "brand": "Xiaomi", "category": "ガジェット"}
@@ -8105,7 +8115,9 @@
 {"id": "name:詰め替えそのままmsps4w", "name": "詰め替えそのまま MSPS-4W", "category": "生活用品"}
 {"id": "name:詰め替えそのままらくらくecoパック専用", "name": "詰め替えそのまま らくらくecoパック専用", "category": "生活用品"}
 {"id": "name:謎のアジア納豆そして帰ってきた日本納豆", "name": "謎のアジア納豆 そして帰ってきた<日本納豆>", "category": "本"}
+{"id": "name:講談社かみあそびカードゲーマー少女の日常1", "name": "かみあそび！～カードゲーマー少女の日常～（１）", "brand": "講談社", "category": "本"}
 {"id": "name:講談社バトルスタディーズ漫画", "name": "バトルスタディーズ（漫画）", "brand": "講談社", "category": "本"}
+{"id": "name:講談社転生貴族鑑定スキルで成り上がる弱小領地を受け継いだので優秀な人材を増やしていたら最強領地になってた1", "name": "転生貴族、鑑定スキルで成り上がる　～弱小領地を受け継いだので、優秀な人材を増やしていたら、最強領地になってた～（１）", "brand": "講談社", "category": "本"}
 {"id": "name:谷口金属すべすべスリムストリール2", "name": "谷口金属 すべすべスリムストリール2", "brand": "谷口金属", "category": "生活用品"}
 {"id": "name:豊島屋鳩妻鏡ハトミラー", "name": "豊島屋 鳩妻鏡（ハトミラー）", "brand": "豊島屋", "category": "生活用品"}
 {"id": "name:象印オーブントースター", "name": "象印 オーブントースター", "brand": "象印", "category": "家電"}
