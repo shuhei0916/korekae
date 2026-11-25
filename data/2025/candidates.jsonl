@@ -1166,4 +1166,6 @@
 {"url": "https://ameblo.jp/cha2504/entry-12951861283.html", "title": "0歳1歳 2025年あって良かったもの", "found_via": "search", "status": "extracted", "source_id": "ameblo-91d4729b"}
 {"url": "https://sue445.hatenablog.com/entry/2025/12/09/143401", "title": "今年買ってよかったもの（2025年版）", "found_via": "search", "status": "extracted", "source_id": "hatena-sue445-3232af8f"}
 {"url": "https://fireinovs.hatenablog.com/entry/2025/12/29/185443", "title": "25年買って良かったもの", "found_via": "search", "status": "extracted", "source_id": "hatena-fireinovs-f86a1fea"}
-{"url": "https://ameblo.jp/miscellaneous-things/entry-12951514767.html", "title": "2025年 アラフォー主婦の買って良かったジュエリー", "found_via": "search", "status": "todo"}
+{"url": "https://ameblo.jp/miscellaneous-things/entry-12951514767.html", "title": "2025年 アラフォー主婦の買って良かったジュエリー", "found_via": "search", "status": "skipped", "reason": "2回続けて取得失敗（SERVER_ERROR）"}
+{"url": "https://kotakotablog.com/minimalist-best-buy2025-second-half", "title": "2025年下半期 ミニマリストが買って良かったもの", "found_via": "search", "status": "skipped", "reason": "記事に「PRを含みます」表記があり（アフィリエイトリンク付き）、販促記事の除外ルールに該当すると判断してスキップ。PR表記の扱いが通常のアフィリエイト記事まで含むかは確認が必要かもしれません（本文自体は2025年下半期の筆者購入品の記事で、全文読めました）。"}
+{"url": "https://consciouslyconsidered.substack.com/p/top-10-purchases-of-2025", "title": "Top 10 purchases of 2025", "found_via": "search", "status": "extracted", "source_id": "consciouslyconsidered-296620bb"}
