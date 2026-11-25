@@ -28,6 +28,7 @@
 {"id": "asin:4911320044", "name": "ポツンと田舎物件で稼ぐ！空き家民泊投資", "asin": "4911320044", "category": "本"}
 {"id": "asin:B0001WW5LE", "name": "Black Diamond ロックダウンリーシュ BD32310", "asin": "B0001WW5LE", "brand": "Black Diamond", "category": "その他"}
 {"id": "asin:B0002IS0IO", "name": "Kalita 電動 コーヒー ミル CM-50", "asin": "B0002IS0IO", "brand": "Kalita", "category": "家電"}
+{"id": "asin:B000A40NAI", "name": "Chemex コーヒーメーカー CM-1C", "asin": "B000A40NAI", "brand": "Chemex", "category": "生活用品", "aliases": ["CHEMEX コーヒーメーカー CM-1C"]}
 {"id": "asin:B000AQYWQ2", "name": "エバニュー チタンシェラカップFD", "asin": "B000AQYWQ2", "brand": "エバニュー", "category": "その他"}
 {"id": "asin:B000EVNCOQ", "name": "タカギ 泡沫蛇口用ニップル G063", "asin": "B000EVNCOQ", "brand": "タカギ", "category": "生活用品"}
 {"id": "asin:B000FQ6E68", "name": "ヤーマン プロ業務用ハンドクリーム", "asin": "B000FQ6E68", "brand": "ヤーマン", "category": "生活用品", "aliases": ["ヤーマン プロ・業務用ハンドクリーム"]}
@@ -762,6 +763,7 @@
 {"id": "asin:B0D93NFXVL", "name": "Edifier M60", "asin": "B0D93NFXVL", "brand": "Edifier", "category": "ガジェット", "aliases": ["Edifier M60 マルチメディアスピーカー", "Edifier マルチメディアスピーカー M60"]}
 {"id": "asin:B0D9485JNZ", "name": "LIXADA チタン コーヒーポット", "asin": "B0D9485JNZ", "brand": "LIXADA", "category": "生活用品"}
 {"id": "asin:B0D95CY7SQ", "name": "シマノ 24 ヴァンフォード C2500SXG", "asin": "B0D95CY7SQ", "brand": "シマノ", "category": "その他"}
+{"id": "asin:B0D98HTWRR", "name": "Xiaomi Smart Band 9", "asin": "B0D98HTWRR", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "asin:B0D9BN4TZM", "name": "リルビー バッグインバッグ レギュラーM+", "asin": "B0D9BN4TZM", "brand": "リルビー", "category": "生活用品"}
 {"id": "asin:B0D9BVM931", "name": "MATECH 超薄型 70W PD充電器", "asin": "B0D9BVM931", "brand": "MATECH", "category": "ガジェット", "aliases": ["MATECH Sonicharge Ultra Blade"]}
 {"id": "asin:B0D9H4SQTL", "name": "TORRAS FlexLine", "asin": "B0D9H4SQTL", "brand": "TORRAS", "category": "ガジェット", "aliases": ["TORRAS FlexLine 40W"]}
@@ -1213,6 +1215,7 @@
 {"id": "asin:B0FPPZ87SQ", "name": "タミヤ トレイルミニ四駆 くまモンバージョン 95173", "asin": "B0FPPZ87SQ", "brand": "タミヤ", "category": "その他"}
 {"id": "asin:B0FPWSKP4M", "name": "システム手帳 リフィル デイリー＆マンスリー", "asin": "B0FPWSKP4M", "brand": "段取り達人", "category": "その他"}
 {"id": "asin:B0FQ55PDG6", "name": "Straine シャンプー＆トリートメント", "asin": "B0FQ55PDG6", "brand": "Straine", "category": "生活用品"}
+{"id": "asin:B0FQ5J7HFQ", "name": "Plaud Note Pro", "asin": "B0FQ5J7HFQ", "brand": "Plaud", "category": "ガジェット", "aliases": ["PLAUD NOTE Pro"]}
 {"id": "asin:B0FQ61VFM1", "name": "BluwieBroka ミニサーマルプリンター", "asin": "B0FQ61VFM1", "brand": "BluwieBroka", "category": "ガジェット"}
 {"id": "asin:B0FQFQDN6K", "name": "Apple AirPods Pro 3", "asin": "B0FQFQDN6K", "brand": "Apple", "category": "ガジェット", "aliases": ["Apple AirPods Pro3"]}
 {"id": "asin:B0FQFWJX26", "name": "Apple Watch Series 11", "asin": "B0FQFWJX26", "brand": "Apple", "category": "ガジェット"}
@@ -2098,7 +2101,6 @@
 {"id": "name:charliebeadsthe90sbiasskirtwhite", "name": "Charlie Beads The 90s Bias Skirt White", "brand": "Charlie Beads", "category": "ファッション"}
 {"id": "name:charlottetilburylipcheatliplinerpillowtalkmedium", "name": "Charlotte Tilbury Lip Cheat Lip Liner Pillow Talk Medium", "brand": "Charlotte Tilbury", "category": "その他"}
 {"id": "name:charmantメガネ拭きクリーニングクロスlc226", "name": "CHARMANT メガネ拭き クリーニングクロス LC226", "brand": "CHARMANT", "category": "生活用品"}
-{"id": "name:chemexコーヒーメーカーcm1c", "name": "Chemex コーヒーメーカー CM-1C", "brand": "Chemex", "category": "生活用品", "aliases": ["CHEMEX コーヒーメーカー CM-1C"]}
 {"id": "name:chemexマシンメイドcm1c", "name": "Chemex マシンメイド CM-1C", "brand": "Chemex", "category": "生活用品"}
 {"id": "name:cherubwst905li", "name": "Cherub WST-905Li", "brand": "Cherub", "category": "その他"}
 {"id": "name:chezvidalencコート", "name": "Chez VIDALENC コート", "brand": "Chez VIDALENC", "category": "ファッション"}
@@ -4506,7 +4508,6 @@
 {"id": "name:pjohnsonnewcortablackjacket", "name": "P JOHNSON New Corta Black Jacket", "brand": "P JOHNSON", "category": "ファッション"}
 {"id": "name:plantifiquefootpeelmask", "name": "Plantifique Foot Peel Mask", "brand": "Plantifique", "category": "生活用品"}
 {"id": "name:plaudnotepinaiボイスレコーダー", "name": "Plaud NotePin AI ボイスレコーダー", "brand": "Plaud", "category": "ガジェット"}
-{"id": "name:plaudnotepro", "name": "Plaud Note Pro", "brand": "Plaud", "category": "ガジェット", "aliases": ["PLAUD NOTE Pro"]}
 {"id": "name:pleatspleaseワンピース", "name": "PLEATS PLEASE ワンピース", "brand": "PLEATS PLEASE", "category": "ファッション"}
 {"id": "name:plottershrink6ringleatherbinderplt5003", "name": "PLOTTER Shrink 6-Ring Leather Binder PLT5003", "brand": "PLOTTER", "category": "その他"}
 {"id": "name:plstカラーレスロングコートe708290", "name": "PLST カラーレスロングコート E708290", "brand": "PLST", "category": "ファッション"}
@@ -5726,7 +5727,6 @@
 {"id": "name:xiaomi165wpowerbank", "name": "Xiaomi 165W Power Bank", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomipocof7", "name": "Xiaomi POCO F7", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomiredmiturbo4pro12gb512gb", "name": "Xiaomi REDMI Turbo 4 Pro 12GB+512GB", "brand": "Xiaomi", "category": "ガジェット"}
-{"id": "name:xiaomismartband9", "name": "Xiaomi Smart Band 9", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomix20", "name": "Xiaomi X20+", "brand": "Xiaomi", "category": "家電"}
 {"id": "name:xiaomiスマートバンド10", "name": "Xiaomi スマートバンド 10", "brand": "Xiaomi", "category": "ガジェット"}
 {"id": "name:xiaomiスマートプロジェクターl1pro", "name": "Xiaomi スマートプロジェクター L1 Pro", "brand": "Xiaomi", "category": "家電"}

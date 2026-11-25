@@ -102,7 +102,7 @@
 | 65 | [Kindle Paperwhite シグニチャーエディション](https://www.amazon.co.jp/dp/B0CFPHTMDX) | Amazon | 3 | 3 | 0 |
 | 65 | Lake Pajamas | Lake | 3 | 3 | 0 |
 | 65 | [Nintendo Switch 2 Proコントローラー](https://www.amazon.co.jp/dp/B0DX1HQX9J) | Nintendo | 3 | 3 | 0 |
-| 65 | Plaud Note Pro | Plaud | 3 | 3 | 0 |
+| 65 | [Plaud Note Pro](https://www.amazon.co.jp/dp/B0FQ5J7HFQ) | Plaud | 3 | 3 | 0 |
 | 65 | [Pokémon LEGENDS Z-A](https://www.amazon.co.jp/dp/B0FGQJ45HW) | 任天堂 | 3 | 3 | 0 |
 | 65 | RMK デューイーメルトリップカラー | RMK | 3 | 3 | 0 |
 | 65 | [SHOKZ OPENFIT 2](https://www.amazon.co.jp/dp/B0DJMG7YW9) | SHOKZ | 3 | 3 | 0 |
@@ -125,7 +125,7 @@
 | 119 | &Liebe 文具にこだわる人のジップペンケース | &Liebe | 2 | 2 | 1 |
 | 119 | [Bowers & Wilkins Px7 S3](https://www.amazon.co.jp/dp/B0F472XXJ1) | Bowers & Wilkins | 2 | 2 | 1 |
 | 119 | [COSORI ノンフライヤー](https://www.amazon.co.jp/dp/B0C3VYP1PG) | COSORI | 2 | 2 | 1 |
-| 119 | Chemex コーヒーメーカー CM-1C | Chemex | 2 | 2 | 1 |
+| 119 | [Chemex コーヒーメーカー CM-1C](https://www.amazon.co.jp/dp/B000A40NAI) | Chemex | 2 | 2 | 1 |
 | 119 | [ECOVACS T50 OMNI](https://www.amazon.co.jp/dp/B0DRVB4DVC) | ECOVACS | 2 | 2 | 1 |
 | 119 | [LUMIX S9](https://www.amazon.co.jp/dp/B0DJLDCY8F) | Panasonic | 2 | 2 | 1 |
 | 119 | Lola Blanket | Lola | 2 | 2 | 1 |
@@ -136,7 +136,7 @@
 | 119 | [Sony REON POCKET PRO](https://www.amazon.co.jp/dp/B0DY1CQ2VP) | Sony | 2 | 2 | 1 |
 | 119 | Swarovski Crystal Eternity Ring | Swarovski | 2 | 2 | 1 |
 | 119 | [Teenage Engineering OP-XY](https://www.amazon.co.jp/dp/B0DNZTQVDS) | Teenage Engineering | 2 | 2 | 1 |
-| 119 | Xiaomi Smart Band 9 | Xiaomi | 2 | 2 | 1 |
+| 119 | [Xiaomi Smart Band 9](https://www.amazon.co.jp/dp/B0D98HTWRR) | Xiaomi | 2 | 2 | 1 |
 | 119 | ぺんてる マルチ8 | ぺんてる | 2 | 2 | 1 |
 | 119 | エリクシール デーケアレボリューション ブライトニング＋ ba | エリクシール | 2 | 2 | 1 |
 | 119 | [エレコム トラックボール IST PRO](https://www.amazon.co.jp/dp/B0DQWP6LX1) | エレコム | 2 | 2 | 1 |
