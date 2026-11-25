@@ -791,6 +791,7 @@
 {"id": "asin:B0DBLXC86B", "name": "ソーダストリーム TERRA", "asin": "B0DBLXC86B", "brand": "ソーダストリーム", "category": "家電"}
 {"id": "asin:B0DBPX5HLB", "name": "ヘアドライヤー モンスター KHD-W805", "asin": "B0DBPX5HLB", "brand": "コイズミ", "category": "家電"}
 {"id": "asin:B0DBQPRZMJ", "name": "Bose QuietComfort Earbuds", "asin": "B0DBQPRZMJ", "brand": "BOSE", "category": "ガジェット"}
+{"id": "asin:B0DBQTC2P7", "name": "DJI Action 5 Pro", "asin": "B0DBQTC2P7", "brand": "DJI", "category": "ガジェット"}
 {"id": "asin:B0DBQY2GJG", "name": "BOSE SoundLink Flex Portable Speaker (第2世代)", "asin": "B0DBQY2GJG", "brand": "BOSE", "category": "ガジェット"}
 {"id": "asin:B0DBTBRC3X", "name": "Roland BRIDGE CAST ONE BRC-ONE", "asin": "B0DBTBRC3X", "brand": "Roland", "category": "ガジェット"}
 {"id": "asin:B0DBTSXMQG", "name": "ダイキン 空気清浄加湿機 MCK905A-T", "asin": "B0DBTSXMQG", "brand": "ダイキン", "category": "家電"}
@@ -1197,6 +1198,7 @@
 {"id": "asin:B0FM2NMGV4", "name": "LG スマートモニター Swing 32U889SA", "asin": "B0FM2NMGV4", "brand": "LG", "category": "家電"}
 {"id": "asin:B0FM6Z859C", "name": "アイリスオーヤマ ぐるポカ パネルヒーター APH-R12B", "asin": "B0FM6Z859C", "brand": "アイリスオーヤマ", "category": "家電"}
 {"id": "asin:B0FM79Z88W", "name": "SESAME5 Pro+Face", "asin": "B0FM79Z88W", "brand": "CANDY HOUSE", "category": "ガジェット"}
+{"id": "asin:B0FMN3HYV5", "name": "ALTRA ローンピーク9+", "asin": "B0FMN3HYV5", "brand": "ALTRA", "category": "ファッション", "aliases": ["ALTRA ローンピーク9＋"]}
 {"id": "asin:B0FMR58PD2", "name": "リファ MILK PROTEIN SHAMPOO ROYAL", "asin": "B0FMR58PD2", "brand": "リファ", "category": "美容"}
 {"id": "asin:B0FMX375ZM", "name": "人感センサーPro", "asin": "B0FMX375ZM", "brand": "SwitchBot", "category": "ガジェット", "aliases": ["SwitchBot 人感センサーPro"]}
 {"id": "asin:B0FN3DRV4H", "name": "カービィのエアライダー", "asin": "B0FN3DRV4H", "category": "ゲーム"}
@@ -1431,7 +1433,6 @@
 {"id": "name:altratimp5", "name": "ALTRA TIMP 5", "brand": "ALTRA", "category": "ファッション"}
 {"id": "name:altratimp5boa", "name": "ALTRA TIMP 5 BOA", "brand": "ALTRA", "category": "ファッション"}
 {"id": "name:altraエスカランテtokyo", "name": "ALTRA エスカランテ TOKYO", "brand": "ALTRA", "category": "ファッション"}
-{"id": "name:altraローンピーク9", "name": "ALTRA ローンピーク9+", "brand": "ALTRA", "category": "ファッション", "aliases": ["ALTRA ローンピーク9＋"]}
 {"id": "name:alvisto理学療法士推奨スリッパ", "name": "Alvisto 理学療法士推奨 スリッパ", "brand": "Alvisto", "category": "生活用品"}
 {"id": "name:amadanamusicレコードプレーヤーuizz18520", "name": "Amadana Music レコードプレーヤー UIZZ-18520", "brand": "Amadana Music", "category": "家電"}
 {"id": "name:amaiコーヒーカップ", "name": "amai コーヒーカップ", "brand": "amai", "category": "生活用品"}
@@ -2391,7 +2392,6 @@
 {"id": "name:discoatカップ付ショートキャミソール", "name": "Discoat カップ付ショートキャミソール", "brand": "Discoat", "category": "ファッション"}
 {"id": "name:diyaphikokiコラボ半袖tシャツ", "name": "DIYAP HiKOKI コラボ半袖Tシャツ", "brand": "DIYAP", "category": "ファッション"}
 {"id": "name:djcong耳栓", "name": "DJcong 耳栓", "brand": "DJcong", "category": "生活用品"}
-{"id": "name:djiaction5pro", "name": "DJI Action 5 Pro", "brand": "DJI", "category": "ガジェット"}
 {"id": "name:djimic2", "name": "DJI Mic 2", "brand": "DJI", "category": "ガジェット"}
 {"id": "name:djimic3", "name": "DJI Mic 3", "brand": "DJI", "category": "ガジェット"}
 {"id": "name:djiosmo360スタンダードコンボ", "name": "DJI Osmo 360 スタンダードコンボ", "brand": "DJI", "category": "ガジェット"}
